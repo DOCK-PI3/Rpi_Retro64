@@ -1,6 +1,9 @@
 # Rpi_Retro64
 Retromabe script instalator full Retroarch ultimate version and RetroFE in 64bit  system RaspiOS LITE
 
+Aplicaciones y utilidades para 64bit: RetroFE como frontend ,Retroarch con bios y mas de 60 cores copilados a mano y optimizados para el sistema ,GAMEMODE utilidad para mejorar la latencia y rendimiento en general de los juegos y emuladores, emulador Daphne para raspberry pi y el 
+inicio silencioso añadido por nuestro amigo Moriggy.
+
 https://t.me/Retro_Arcade_EmulOs_Team para los mas ansiosos pueden unirse a nuestro grupo y preguntar ahi...!
 
  
