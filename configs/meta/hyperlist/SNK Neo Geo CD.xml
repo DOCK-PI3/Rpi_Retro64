@@ -1,0 +1,1009 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>SNK Neo Geo CD</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2020 Super Baseball (World)" index="true" image="2">
+		<description>2020 Super Baseball (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Count Bout (World)" index="true" image="3">
+		<description>3 Count Bout (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADK World (Japan)" index="true" image="a">
+		<description>ADK World (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero Fighters 2 (World)" index="" image="">
+		<description>Aero Fighters 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero Fighters 3 (World)" index="" image="">
+		<description>Aero Fighters 3 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aggressors of Dark Kombat (World)" index="" image="">
+		<description>Aggressors of Dark Kombat (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alpha Mission II (World)" index="" image="">
+		<description>Alpha Mission II (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Andro Dunos (World) (Unl)" index="" image="">
+		<description>Andro Dunos (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Neo Conception International</manufacturer>
+		<year>2013</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art of Fighting (World)" index="" image="">
+		<description>Art of Fighting (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art of Fighting 2 (World)" index="" image="">
+		<description>Art of Fighting 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art of Fighting 3 - The Path of the Warrior (World)" index="" image="">
+		<description>Art of Fighting 3: The Path of the Warrior (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bang Bang Busters (World) (Unl)" index="true" image="b">
+		<description>Bang Bang Busters (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Neo Conception International</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Stars 2 (World)" index="" image="">
+		<description>Baseball Stars 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball Stars Professional (World)" index="" image="">
+		<description>Baseball Stars Professional (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Breakers (Japan)" index="" image="">
+		<description>Breakers (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burning Fight (World)" index="" image="">
+		<description>Burning Fight (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-A-Move (World)" index="" image="">
+		<description>Bust-A-Move (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choutetsu Brikin&apos;ger (Japan)" index="true" image="c">
+		<description>Choutetsu Brikin&apos;ger (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crossed Swords (Japan)" index="" image="">
+		<description>Crossed Swords (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crossed Swords II (Japan)" index="" image="">
+		<description>Crossed Swords II (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyber-Lip (World)" index="" image="">
+		<description>Cyber-Lip (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Dragon (World)" index="true" image="d">
+		<description>Double Dragon (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury 2 (World)" index="true" image="f">
+		<description>Fatal Fury 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury 3 - Road to the Final Victory (World)" index="" image="">
+		<description>Fatal Fury 3: Road to the Final Victory (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury Special (World)" index="" image="">
+		<description>Fatal Fury Special (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Fury - The Battle of Fury (World)" index="" image="">
+		<description>Fatal Fury: The Battle of Fury (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fighter&apos;s History Dynamite (World)" index="" image="">
+		<description>Fighter&apos;s History Dynamite (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football Frenzy (World)" index="" image="">
+		<description>Football Frenzy (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Futsal - 5 on 5 Mini Soccer (Japan)" index="" image="">
+		<description>Futsal: 5 on 5 Mini Soccer (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy Fight - Universal Warriors (World)" index="true" image="g">
+		<description>Galaxy Fight: Universal Warriors (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost Pilots (World)" index="" image="">
+		<description>Ghost Pilots (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Idol Mahjong Final Romance 2 (Japan)" index="true" image="i">
+		<description>Idol Mahjong Final Romance 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Janshin Densetsu - Quest of Jongmaster (Japan)" index="true" image="j">
+		<description>Janshin Densetsu: Quest of Jongmaster (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Aicom</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;94, The (World)" index="true" image="k">
+		<description>King of Fighters &apos;94, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;95, The (World)" index="" image="">
+		<description>King of Fighters &apos;95, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;96, The (World)" index="" image="">
+		<description>King of Fighters &apos;96, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;97, The (World)" index="" image="">
+		<description>King of Fighters &apos;97, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;98, The - The Slugfest (World)" index="" image="">
+		<description>King of Fighters &apos;98, The: The Slugfest (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;99, The - Millennium Battle (World)" index="" image="">
+		<description>King of Fighters &apos;99, The: Millennium Battle (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of the Monsters 2 - The Next Thing (World)" index="" image="">
+		<description>King of the Monsters 2: The Next Thing (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Blade 2, The (World)" index="true" image="l">
+		<description>Last Blade 2, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Blade, The (World)" index="" image="">
+		<description>Last Blade, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Hope (World) (Unl)" index="" image="">
+		<description>Last Hope (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>NG:DEV.TEAM</manufacturer>
+		<year>2007</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Resort (World)" index="" image="">
+		<description>Last Resort (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="League Bowling (World)" index="" image="">
+		<description>League Bowling (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Bowling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Drop 2 (Japan)" index="true" image="m">
+		<description>Magical Drop 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magician Lord (Japan)" index="" image="">
+		<description>Magician Lord (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahjong Kyoretsuden - Nishi Nihon Hen (Japan)" index="" image="">
+		<description>Mahjong Kyoretsuden: Nishi Nihon Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Slug (World)" index="" image="">
+		<description>Metal Slug (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nazca</manufacturer>
+		<year>1996</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Slug 2 (World)" index="" image="">
+		<description>Metal Slug 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mutation Nation (World)" index="" image="">
+		<description>Mutation Nation (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NAM-1975 (World)" index="true" image="n">
+		<description>NAM-1975 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo DriftOut - New Technology (Japan)" index="" image="">
+		<description>Neo DriftOut: New Technology (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neo Turf Masters (World)" index="" image="">
+		<description>Neo Turf Masters (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nazca</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Combat (Japan)" index="" image="">
+		<description>Ninja Combat (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Commando (Japan)" index="" image="">
+		<description>Ninja Commando (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Master&apos;s Haou Ninpou-Chou (Japan)" index="" image="">
+		<description>Ninja Master&apos;s Haou Ninpou-Chou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oshidashi Jin Trick (Japan)" index="true" image="o">
+		<description>Oshidashi Jin Trick (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OverTop (Japan)" index="" image="">
+		<description>OverTop (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Spikes II (Japan)" index="true" image="p">
+		<description>Power Spikes II (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pulstar (World)" index="" image="">
+		<description>Pulstar (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Aicom</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzled (World)" index="" image="">
+		<description>Puzzled (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quiz King of Fighters (Japan)" index="true" image="q">
+		<description>Quiz King of Fighters (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raguy (Japan)" index="true" image="r">
+		<description>Raguy (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rally Chase (World)" index="" image="">
+		<description>Rally Chase (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Real Bout Fatal Fury (World)" index="" image="">
+		<description>Real Bout Fatal Fury (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Real Bout Fatal Fury 2 - The Newcomers (World)" index="" image="">
+		<description>Real Bout Fatal Fury 2: The Newcomers (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Real Bout Fatal Fury Special (World)" index="" image="">
+		<description>Real Bout Fatal Fury Special (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riding Hero (World)" index="" image="">
+		<description>Riding Hero (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Motorcycle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robo Army (World)" index="" image="">
+		<description>Robo Army (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown (World)" index="true" image="s">
+		<description>Samurai Shodown (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown II (World)" index="" image="">
+		<description>Samurai Shodown II (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown III (World)" index="" image="">
+		<description>Samurai Shodown III (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown IV - Amakusa&apos;s Revenge (World)" index="" image="">
+		<description>Samurai Shodown IV - Amakusa&apos;s Revenge (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Savage Reign (World)" index="" image="">
+		<description>Savage Reign (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sengoku (World)" index="" image="">
+		<description>Sengoku (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sengoku 2 (World)" index="" image="">
+		<description>Sengoku 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shinouken (Japan)" index="" image="">
+		<description>Shinouken (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shinsetsu Samurai Spirits - Bushidohretsuden (Japan)" index="" image="">
+		<description>Shinsetsu Samurai Spirits: Bushidohretsuden (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1997</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shougi no Tatsujin - Master of Syougi (Japan)" index="" image="">
+		<description>Shougi no Tatsujin: Master of Syougi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Brawl (World)" index="" image="">
+		<description>Soccer Brawl (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stakes Winner - GI Kanzen Seiha Heno Machi (Japan)" index="" image="">
+		<description>Stakes Winner: GI Kanzen Seiha Heno Machi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Hoop (World)" index="" image="">
+		<description>Street Hoop (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Sidekicks (World)" index="" image="">
+		<description>Super Sidekicks (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Sidekicks 2 - The World Championship (World)" index="" image="">
+		<description>Super Sidekicks 2: The World Championship (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Sidekicks 3 - The Next Glory (World)" index="" image="">
+		<description>Super Sidekicks 3: The Next Glory (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Spy, The (World)" index="" image="">
+		<description>Super Spy, The (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tengai Makyou Shinden - Far East of Eden (Japan)" index="true" image="t">
+		<description>Tengai Makyou Shinden: Far East of Eden (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time&apos;s Up (World) (Unl)" index="" image="">
+		<description>Time&apos;s Up (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>NGFDev.Inc</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Hunter - Roddy &amp; Cathy (World)" index="" image="">
+		<description>Top Hunter - Roddy &amp; Cathy (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Player&apos;s Golf (World)" index="" image="">
+		<description>Top Player&apos;s Golf (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure of The Caribbean (World) (Unl)" index="" image="">
+		<description>Treasure of The Caribbean (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Neo Conception International</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twinkle Star Sprites (Japan)" index="" image="">
+		<description>Twinkle Star Sprites (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1997</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Viewpoint (World)" index="true" image="v">
+		<description>Viewpoint (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voltage Fighter Gowcaizer (World)" index="" image="">
+		<description>Voltage Fighter Gowcaizer (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Windjammers (World)" index="true" image="w">
+		<description>Windjammers (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Futuristic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes (World)" index="" image="">
+		<description>World Heroes (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes 2 (World)" index="" image="">
+		<description>World Heroes 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes 2 Jet (Japan)" index="" image="">
+		<description>World Heroes 2 Jet (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes Perfect (World)" index="" image="">
+		<description>World Heroes Perfect (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

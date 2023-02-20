@@ -1,0 +1,1159 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Spectravideo</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien 8 (1985)(Ultimate)" index="true" image="a">
+		<description>Alien 8 (1985)(Ultimate)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid (19xx)(Taito)" index="" image="">
+		<description>Arkanoid (19xx)(Taito)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armoured Assaut (1983)(Spectravideo)" index="" image="">
+		<description>Armoured Assaut (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Biorhythm (1983)(SIL)" index="true" image="b">
+		<description>Biorhythm (1983)(SIL)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids (1984)(Konami)" index="true" image="c">
+		<description>Cabbage Patch Kids (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids (19xx)(Buggy Software)" index="" image="">
+		<description>Cabbage Patch Kids (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Candoo Ninja (1984)(Spectravideo)" index="" image="">
+		<description>Candoo Ninja (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess (1986)(JTM Software)" index="" image="">
+		<description>Chess (1986)(JTM Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Circus Charlie (1984)(Konami)" index="" image="">
+		<description>Circus Charlie (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Comic Bakery (19xx)(Konami)" index="" image="">
+		<description>Comic Bakery (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Compatability (1983)(SIL)" index="" image="">
+		<description>Compatability (1983)(SIL)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Avenger (19xx)(Buggy Software)" index="" image="">
+		<description>Cosmic Avenger (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crunch (19xx)(Spectravideo)" index="" image="">
+		<description>Crunch (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="De Cathlon (19xx)(Buggy Software)" index="true" image="d">
+		<description>De Cathlon (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deklarations-Program (1985)(Gite Sundberg)(Sw)" index="" image="">
+		<description>Deklarations-Program (1985)(Gite Sundberg)(Sw)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diamond Luis 1 (1986)(Ikesoft)" index="" image="">
+		<description>Diamond Luis 1 (1986)(Ikesoft)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diamond Luis Editor (1986)(Ikesoft)" index="" image="">
+		<description>Diamond Luis Editor (1986)(Ikesoft)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong (19xx)(Buggy Software)" index="" image="">
+		<description>Donkey Kong (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Emergency Landing (1984)(John McLachlan)" index="true" image="e">
+		<description>Emergency Landing (1984)(John McLachlan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Explorer 3 (19xx)(Robert Lindh)(Sw)" index="" image="">
+		<description>Explorer 3 (19xx)(Robert Lindh)(Sw)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Find It (19xx)(Spectravideo)" index="true" image="f">
+		<description>Find It (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="First Steps (1983)(Softy)" index="" image="">
+		<description>First Steps (1983)(Softy)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper Slipper (1983)(Spectravideo)" index="" image="">
+		<description>Flipper Slipper (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fluffy (1987)(JTM Software)" index="" image="">
+		<description>Fluffy (1987)(JTM Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frantic Freddy (1983)(Spectravideo)" index="" image="">
+		<description>Frantic Freddy (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gateway To Apshai (19xx)(Buggy Software)" index="true" image="g">
+		<description>Gateway To Apshai (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost Trap (19xx)(Yoga Computing)" index="" image="">
+		<description>Ghost Trap (19xx)(Yoga Computing)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goonies, The (1986)(Konami)" index="" image="">
+		<description>Goonies, The (1986)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Graph Master 2 (1984)(C.A.E.)" index="" image="">
+		<description>Graph Master 2 (1984)(C.A.E.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grave Digger (1984)(J Pullen)" index="" image="">
+		<description>Grave Digger (1984)(J Pullen)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gun Fright (19xx)(-)" index="" image="">
+		<description>Gun Fright (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hero (1985)(Activision)" index="true" image="h">
+		<description>Hero (1985)(Activision)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hobbit, The (19xx)(-)" index="" image="">
+		<description>Hobbit, The (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Horse Racing (1983)(SIL)" index="" image="">
+		<description>Horse Racing (1983)(SIL)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Olympic 1 (1984)(Konami)" index="" image="">
+		<description>Hyper Olympic 1 (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Olympic 2 (1984)(Konami)" index="" image="">
+		<description>Hyper Olympic 2 (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Rally (19xx)(Konami)" index="" image="">
+		<description>Hyper Rally (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Sports 1 (1984)(Konami)" index="" image="">
+		<description>Hyper Sports 1 (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Sports 2 (1984)(Konami)" index="" image="">
+		<description>Hyper Sports 2 (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Karate (1986)(Darksloke)" index="true" image="i">
+		<description>International Karate (1986)(Darksloke)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack The Nipper In Coconut Capers (1987)(Gremlin)[t]" index="true" image="j">
+		<description>Jack The Nipper In Coconut Capers (1987)(Gremlin)[t]</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet Alf (1984)(ELS)" index="" image="">
+		<description>Jet Alf (1984)(ELS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jet Alf And The Manic Masters Revenge (1984)(ELS)" index="" image="">
+		<description>Jet Alf And The Manic Masters Revenge (1984)(ELS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jumping Jack (1984)(Spectravideo)" index="" image="">
+		<description>Jumping Jack (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Jim (19xx)(-)" index="" image="">
+		<description>Jungle Jim (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juno Lander (1983)(SIL)" index="" image="">
+		<description>Juno Lander (1983)(SIL)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JustWrite Jr (1984)(Mass Tael)" index="" image="">
+		<description>JustWrite Jr (1984)(Mass Tael)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killer Car (19xx)(-)" index="true" image="k">
+		<description>Killer Car (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kiwi Country - South Island (19xx)(-)" index="" image="">
+		<description>Kiwi Country - South Island (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knightmare (1986)(Konami)" index="" image="">
+		<description>Knightmare (1986)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami&apos;s Baseball (19xx)(Konami)" index="" image="">
+		<description>Konami&apos;s Baseball (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami&apos;s Boxing (1985)(Konami)" index="" image="">
+		<description>Konami&apos;s Boxing (1985)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami&apos;s Ping Pong (19xx)(Konami)" index="" image="">
+		<description>Konami&apos;s Ping Pong (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami&apos;s Soccer (1985)(Konami)" index="" image="">
+		<description>Konami&apos;s Soccer (1985)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Konami&apos;s Tennis (1984)(Konami)" index="" image="">
+		<description>Konami&apos;s Tennis (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung Fu Master (1984)(Spectravideo)" index="" image="">
+		<description>Kung Fu Master (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Log It (19xx)(-)" index="true" image="l">
+		<description>Log It (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looping (19xx)(Buggy Software)" index="" image="">
+		<description>Looping (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Tree (1984)(Konami)" index="true" image="m">
+		<description>Magical Tree (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Megalone (1986)(J&amp;D Team)" index="" image="">
+		<description>Megalone (1986)(J&amp;D Team)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Memory Trainer (19xx)(-)" index="" image="">
+		<description>Memory Trainer (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mini Golf (19xx)(Spectravideo)" index="" image="">
+		<description>Mini Golf (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moon Lander (1984)(Ian McLachlan)" index="" image="">
+		<description>Moon Lander (1984)(Ian McLachlan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mopi Ranger (19xx)(Konami)" index="" image="">
+		<description>Mopi Ranger (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mouse Trap (19xx)(Buggy Software)" index="" image="">
+		<description>Mouse Trap (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr Do (19xx)(Buggy Software)" index="" image="">
+		<description>Mr Do (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MSX v1.0 (19xx)(-)" index="" image="">
+		<description>MSX v1.0 (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Munch-A-Math (1984)(Spectravideo Israel)" index="" image="">
+		<description>Munch-A-Math (1984)(Spectravideo Israel)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Music Composer (1984)(Ian McLachlan)" index="" image="">
+		<description>Music Composer (1984)(Ian McLachlan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Music Mentor (1983)(Spectravideo)" index="" image="">
+		<description>Music Mentor (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New York Bomb Blitz (1984)(Spectravideo)" index="true" image="n">
+		<description>New York Bomb Blitz (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nomis (1983)(Spectravideo)" index="" image="">
+		<description>Nomis (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="O&apos;Mac Farmer (1984)(Spectravideo)" index="true" image="o">
+		<description>O&apos;Mac Farmer (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Parachute Jumping (19xx)(Leo Soft)" index="true" image="p">
+		<description>Parachute Jumping (19xx)(Leo Soft)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pengwyn (19xx)(Postern)" index="" image="">
+		<description>Pengwyn (19xx)(Postern)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pepper 2 (19xx)(Buggy Software)" index="" image="">
+		<description>Pepper 2 (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Perilous Journey (19xx)(PM Programs)" index="" image="">
+		<description>Perilous Journey (19xx)(PM Programs)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planet Patrol (1983)(Spectravideo)" index="" image="">
+		<description>Planet Patrol (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Punchy (19xx)(Mr Micro)" index="" image="">
+		<description>Punchy (19xx)(Mr Micro)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rambo 3 (19xx)(-)[b]" index="true" image="r">
+		<description>Rambo 3 (19xx)(-)[b]</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rescue (19xx)(Spectravideo)" index="" image="">
+		<description>Rescue (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Fighter (19xx)(Konami)" index="" image="">
+		<description>Road Fighter (19xx)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Ball (19xx)(Mirage Software)(Sw)" index="" image="">
+		<description>Robot Ball (19xx)(Mirage Software)(Sw)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roulette (1985)(Intersoft)" index="" image="">
+		<description>Roulette (1985)(Intersoft)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SASA (1984)(Spectravideo)" index="true" image="s">
+		<description>SASA (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sector Alpha (1983)(Spectravideo)" index="" image="">
+		<description>Sector Alpha (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Jaguar (1984)(Konami)" index="" image="">
+		<description>Sky Jaguar (1984)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurf (19xx)(Buggy Software)" index="" image="">
+		<description>Smurf (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra Break (1983)(SIL)" index="" image="">
+		<description>Spectra Break (1983)(SIL)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra Cryptic Cube (1984)(Spectravideo)" index="" image="">
+		<description>Spectra Cryptic Cube (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra Diary (1983)(Spectravideo)" index="" image="">
+		<description>Spectra Diary (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra File Cabinet (19xx)(Spectravideo)" index="" image="">
+		<description>Spectra File Cabinet (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra Trader (1984)(A.C. Hunt)" index="" image="">
+		<description>Spectra Trader (1984)(A.C. Hunt)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectra-Font Editor (19xx)(Stephen Boal)" index="" image="">
+		<description>Spectra-Font Editor (19xx)(Stephen Boal)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectramind (1984)(C.A.E.)" index="" image="">
+		<description>Spectramind (1984)(C.A.E.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spectron (1983)(Spectravideo)" index="" image="">
+		<description>Spectron (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Words (19xx)(Spectravideo)" index="" image="">
+		<description>Star Words (19xx)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stockholm Adventure (19xx)(-)" index="" image="">
+		<description>Stockholm Adventure (19xx)(-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Cross Force (1983)(Spectravideo)" index="" image="">
+		<description>Super Cross Force (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swing Man (1983)(Softy)" index="" image="">
+		<description>Swing Man (1983)(Softy)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teeth (1984)(Dan Haggren)" index="true" image="t">
+		<description>Teeth (1984)(Dan Haggren)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tele Bunnie (1984)(Spectravideo)" index="" image="">
+		<description>Tele Bunnie (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetra Horror (1983)(Spectravideo)" index="" image="">
+		<description>Tetra Horror (1983)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Wall Smash (1984)(Ian McLachlan)" index="" image="">
+		<description>Three Wall Smash (1984)(Ian McLachlan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Trax (1986)(Bug-Byte)" index="" image="">
+		<description>Time Trax (1986)(Bug-Byte)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Track And Field 1 (1985)(Konami)" index="" image="">
+		<description>Track And Field 1 (1985)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure Chest (1984)(Ian McLachlan)" index="" image="">
+		<description>Treasure Chest (1984)(Ian McLachlan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turboat (1984)(Spectravideo)" index="" image="">
+		<description>Turboat (1984)(Spectravideo)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Typing Tutor v1.1 (1983)(S.G. Bright)" index="" image="">
+		<description>Typing Tutor v1.1 (1983)(S.G. Bright)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uncle Albert (1984)(A.C. Hunt)" index="true" image="u">
+		<description>Uncle Albert (1984)(A.C. Hunt)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wargames (19xx)(Buggy Software)" index="true" image="w">
+		<description>Wargames (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yie Ar Kung Fu (1985)(Konami)" index="true" image="y">
+		<description>Yie Ar Kung Fu (1985)(Konami)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yie Ar Kung Fu 2 (19xx)(Konami)[t]" index="" image="">
+		<description>Yie Ar Kung Fu 2 (19xx)(Konami)[t]</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zakil Wood (1985)(Mr Micro)" index="true" image="z">
+		<description>Zakil Wood (1985)(Mr Micro)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon (19xx)(Buggy Software)" index="" image="">
+		<description>Zaxxon (19xx)(Buggy Software)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

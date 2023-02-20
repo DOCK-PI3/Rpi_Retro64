@@ -1,0 +1,2829 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Coleco ADAM</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1K Utility Program Library (1987)(Friefeld, Rob)" index="true" image="1">
+		<description>1K Utility Program Library</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2010 - The Ultimate Text Adventure (1985)(MGM - United Artists Entertainment)" index="true" image="2">
+		<description>2010 - The Ultimate Text Adventure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2Format v1.0 (1987)(Clary, Thomas E.)" index="" image="">
+		<description>2Format v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D Maze (19xx)(Apps, Vince - Lowe, N.J.)" index="true" image="3">
+		<description>3D Maze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Access Starter (1985)(Vincent, Fred)" index="true" image="a">
+		<description>Access Starter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Account (198x)(-)" index="" image="">
+		<description>Account</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM BIOS Patch v1.0 (1976)(AJM Software - Digital Research)" index="" image="">
+		<description>ADAM BIOS Patch v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adam Calc (1984)(Lazer MicroSystems)" index="" image="">
+		<description>Adam Calc</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM Chat v2.0 (198x)(Neeley, Alan)(PD)" index="" image="">
+		<description>ADAM Chat v2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM Dir (19xx)(-)" index="" image="">
+		<description>ADAM Dir</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM Formatter v1.2 (1988)(Moo, John)" index="" image="">
+		<description>ADAM Formatter v1.2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adam Link II Communications Package (1983)(Coleco)" index="" image="">
+		<description>Adam Link II Communications Package</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adam Link II Patches (1984)(Coleco)" index="" image="">
+		<description>Adam Link II Patches</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adam Link II Telecommunicator (1984)(Coleco)" index="" image="">
+		<description>Adam Link II Telecommunicator</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adam Links Golf (1986)(Superior Software)" index="" image="">
+		<description>Adam Links Golf</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM Utilities v1.50 (1984)(Coleco)" index="" image="">
+		<description>ADAM Utilities v1.50</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM Z80 Hexadecimal Disassembler (1985)(Havach, George A.)" index="" image="">
+		<description>ADAM Z80 Hexadecimal Disassembler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAM ZMP (1989)(Friedman, Rob)" index="" image="">
+		<description>ADAM ZMP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAMCALC Orphanware Patch (1987)(Clary, Thomas E.)" index="" image="">
+		<description>ADAMCALC Orphanware Patch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AdaMEX Overlay (1986)(Cruz Controls)" index="" image="">
+		<description>AdaMEX Overlay</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAMLink III Xmodem Patch (1988)(Clary, Thomas E.)" index="" image="">
+		<description>ADAMLink III Xmodem Patch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ADAMRLE (19xx)(Allen, Louis)" index="" image="">
+		<description>ADAMRLE</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Addictus (1989)(Reedy Software)" index="" image="">
+		<description>Addictus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Addictus v1.01 (1989)(Reedy Software)" index="" image="">
+		<description>Addictus v1.01</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Address Filing Program (19xx)(Neely, Alan)" index="" image="">
+		<description>Address Filing Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure (1986)(Greenberg, Steven)" index="" image="">
+		<description>Adventure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliens (198x)(-)" index="" image="">
+		<description>Aliens</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alloc (1982)(Ward C.)" index="" image="">
+		<description>Alloc</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Append DZC (19xx)(-)" index="" image="">
+		<description>Append DZC</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Auto Logon Functions (1988)(Friedman, Rob)" index="" image="">
+		<description>Auto Logon Functions</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Auto Qterm Capture (1994)(-)" index="" image="">
+		<description>Auto Qterm Capture</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Auto Qterm Capture (1994)(-)[a]" index="" image="">
+		<description>Auto Qterm Capture</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backform (1993)(Braymen, Chris)" index="true" image="b">
+		<description>Backform</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baracade (198x)(-)" index="" image="">
+		<description>Baracade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Base (19xx)(Lindsay, Jon)" index="" image="">
+		<description>Base</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Basic Calculator (1986)(Lennes, Bon)" index="" image="">
+		<description>Basic Calculator</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BASIC Cross Reference Program (1989)(Braymen, Chris)" index="" image="">
+		<description>BASIC Cross Reference Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Basic Source Editor (1987)(Clary, Thomas E.)" index="" image="">
+		<description>Basic Source Editor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Ship (198x)(Pressler, Samuel)" index="" image="">
+		<description>Battle Ship</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BBS Helper (19xx)(Fromm, R.)" index="" image="">
+		<description>BBS Helper</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BDS Life - Special H19 Version (19xx)(-)" index="" image="">
+		<description>BDS Life - Special H19 Version</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Best of B.C. Featuring B.C&apos;s Quest For Tires and B.C. II - Gog&apos;s Revenge (1985)(Sydney Development)" index="" image="">
+		<description>Best of B.C. Featuring B.C&apos;s Quest For Tires and B.C. II - Gog&apos;s Revenge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Best of Electronic Arts - Pinball Construction Set &amp; The Hard Hat Mack (19xx)(K-byte - Coleco)" index="" image="">
+		<description>Best of Electronic Arts - Pinball Construction Set &amp; The Hard Hat Mack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Best of Electronic Arts, The (19xx)(Electronic Arts)" index="" image="">
+		<description>Best of Electronic Arts, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Biformat (19xx)(-)" index="" image="">
+		<description>Biformat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BinHex (1985)(L.O.F. Communications)" index="" image="">
+		<description>BinHex</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Biprint CZM (19xx)(-)" index="" image="">
+		<description>Biprint CZM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boot Pix Deluxe (1988)(Metro Orlando Adam User&apos;s Group)" index="" image="">
+		<description>Boot Pix Deluxe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Breakthru (1989)(Fedor, Ted - Fedor, Greg)" index="" image="">
+		<description>Breakthru</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bricks (19xx)(-)" index="" image="">
+		<description>Bricks</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buck Rogers - Planet of Zoom (1983)(Sega)" index="" image="">
+		<description>Buck Rogers - Planet of Zoom</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bug (19xx)(Leibowitz, Brian - Thibeault, Rick)" index="" image="">
+		<description>Bug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[a][Req 128k]" index="true" image="c">
+		<description>Cabbage Patch Kids - Adventures in the Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)[Req 128k]" index="" image="">
+		<description>Cabbage Patch Kids - Adventures in the Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Calloway Golf (1985)(Mix Software)" index="" image="">
+		<description>Calloway Golf</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Camel (198x)(Creative Computing)" index="" image="">
+		<description>Camel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Campaign &apos;84 (1983)(Sunrise Software)" index="" image="">
+		<description>Campaign &apos;84</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captur Qyrc (19xx)(-)" index="" image="">
+		<description>Captur Qyrc</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #01 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #01</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #04 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #04</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #05 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #05</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #07 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #07</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #08 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #08</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #14 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #16 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #16</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cartsoft #19 (198x)(U.K. ADAM Subscribers)" index="" image="">
+		<description>Cartsoft #19</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Catalog Program (198x)(Coleco)" index="" image="">
+		<description>Catalog Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Catch (19xx)(Thibeault, Rick)" index="" image="">
+		<description>Catch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caterpillar (19xx)(Apps, Vince - Lowe, N.J.)" index="" image="">
+		<description>Caterpillar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Caterpillar Revenge&apos;s (19xx)(Apps, Vince - Lowe, N.J.)" index="" image="">
+		<description>Caterpillar Revenge&apos;s</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Certifi CZM (19xx)(-)" index="" image="">
+		<description>Certifi CZM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess (19xx)(-)" index="" image="">
+		<description>Chess</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess Champ (1988)(Digital Express)" index="" image="">
+		<description>Chess Champ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Circus (1984)(Setera, Craig - Lowe, N.J.)" index="" image="">
+		<description>Circus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CIS Functions Semiautomatic (19xx)(-)" index="" image="">
+		<description>CIS Functions Semiautomatic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clone v2.0 (198x)(Hills, C. - Morehen, T.)" index="" image="">
+		<description>Clone v2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Coleco&apos;s Video RAM Test (198x)(-)" index="" image="">
+		<description>Coleco&apos;s Video RAM Test</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Color Calculator (19xx)(Sheppard, Joseph)(PD)" index="" image="">
+		<description>Color Calculator</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Complete Adventure, The (198x)(-)(Disk 1 of 2)" index="" image="">
+		<description>Complete Adventure, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Complete Adventure, The (198x)(-)(Disk 2 of 2)" index="" image="">
+		<description>Complete Adventure, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Concat DZC (19xx)(-)" index="" image="">
+		<description>Concat DZC</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ConIX Operating System, The (1984)(Computer Helper Industries)" index="" image="">
+		<description>ConIX Operating System, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Connect Four (1987)(Love, Marianne)" index="" image="">
+		<description>Connect Four</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Conversions (1984)(Court, Jonathan)" index="" image="">
+		<description>Conversions</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 01 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 01</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 02 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 02</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 02 (1985)(MMSG)[a]" index="" image="">
+		<description>Copycart+ 02</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 03 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 03</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 04 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 04</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 05 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 05</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copycart+ 06 (1985)(MMSG)" index="" image="">
+		<description>Copycart+ 06</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CopyCart+ v1.1 (19xx)(-)" index="" image="">
+		<description>CopyCart+ v1.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)" index="" image="">
+		<description>CP-M 2.2 v1.50</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CP-M 2.2 v1.50 (1984)(Digital Research - Coleco)[a]" index="" image="">
+		<description>CP-M 2.2 v1.50</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CPM-Smartwriter Filter Utility (1985)(Chesware)" index="" image="">
+		<description>CPM-Smartwriter Filter Utility</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crunch v2.4 (1987)(Greenberg, Steven)" index="" image="">
+		<description>Crunch v2.4</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dam Busters, The (1984)(Sydney Development)" index="true" image="d">
+		<description>Dam Busters, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DazzleStar (19xx)(-)" index="" image="">
+		<description>DazzleStar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diablo (1984)(Image Microcorp - Extended Software)" index="" image="">
+		<description>Diablo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dialer (1990)(Allen, Jr., Louis)" index="" image="">
+		<description>Dialer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dice (demo) (198x)(-)" index="" image="">
+		<description>Dice</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DNS-Link v1.0 (1985)(TAB Books - DNS Software)" index="" image="">
+		<description>DNS-Link v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong (1982)(Coleco - Nintendo)" index="" image="">
+		<description>Donkey Kong</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Jr Rev 13 (1983)(Coleco - Nintendo)" index="" image="">
+		<description>Donkey Kong Jr Rev 13</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Jr Rev 14 (1983)(Coleco - Nintendo)" index="" image="">
+		<description>Donkey Kong Jr Rev 14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon&apos;s Lair (1983)(Magicom)" index="" image="">
+		<description>Dragon&apos;s Lair</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dvorak Demonstrator!, The (19xx)(Goebel, Jim)" index="" image="">
+		<description>Dvorak Demonstrator!, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamic Debugging (1986)(Havach, George A.)" index="" image="">
+		<description>Dynamic Debugging</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EOS Cartridge Converter (19xx)(-)" index="true" image="e">
+		<description>EOS Cartridge Converter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EOS CPM Format Utilites (19xx)(-)" index="" image="">
+		<description>EOS CPM Format Utilites</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EPSON Printer Control Program (19xx)(Wester, M.L.)" index="" image="">
+		<description>EPSON Printer Control Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evasion (198x)(Apps, Vince - Lowe, N.J.)" index="" image="">
+		<description>Evasion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evolution (1983)(Sydney Development)" index="" image="">
+		<description>Evolution</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evolution (1983)(Sydney Development)[b]" index="" image="">
+		<description>Evolution</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Expertype - Smart Writer Typing Tuition Program (19xx)(-)" index="" image="">
+		<description>Expertype - Smart Writer Typing Tuition Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Feud - Questions Pack (1986)(The Family Company)" index="true" image="f">
+		<description>Family Feud - Questions Pack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Feud - Questions Pack (1986)(The Family Company)[a]" index="" image="">
+		<description>Family Feud - Questions Pack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Feud - Writer (1986)(Walters Software)[b]" index="" image="">
+		<description>Family Feud - Writer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="File Conversion v1.0 (198x)(AJM Software)" index="" image="">
+		<description>File Conversion v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="File Convert v1.1 (199x)(-)" index="" image="">
+		<description>File Convert v1.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="File Convert v1.4 (199x)(-)" index="" image="">
+		<description>File Convert v1.4</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="File Converter v1.0 (198x)(-)" index="" image="">
+		<description>File Converter v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FileLock (198x)(Jones, Bob)(PD)" index="" image="">
+		<description>FileLock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FILT (1985)(Hoff, Irvin M.)" index="" image="">
+		<description>FILT</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Filter for WordStar (1985)(R.A.N.)" index="" image="">
+		<description>Filter for WordStar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash Facts - Trivia (1984)(Coleco)" index="" image="">
+		<description>Flash Facts - Trivia</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash Facts - Vocabulator (1984)(Coleco)" index="" image="">
+		<description>Flash Facts - Vocabulator</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flying Line (1987)(Braymen, Chris)" index="" image="">
+		<description>Flying Line</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Format (19xx)(-)" index="" image="">
+		<description>Format</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Save (1985)(Munnings, Stephen)" index="true" image="g">
+		<description>Game Save</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Games Compilation (19xx)(-)" index="" image="">
+		<description>Games Compilation</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="General Hospital (19xx)(Rasch, Robert W.)" index="" image="">
+		<description>General Hospital</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GJMG - Copy Utilities (1987)(GJMG Enterprises)" index="" image="">
+		<description>GJMG - Copy Utilities</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GJMG - Quickopy v1.0 (1987)(GJMG Enterprises)" index="" image="">
+		<description>GJMG - Quickopy v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GJMG - Quickopy v1.1 (1987)(GJMG Enterprises)" index="" image="">
+		<description>GJMG - Quickopy v1.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goblin (19xx)(Goff, Dan - Lowe, N.J.)" index="" image="">
+		<description>Goblin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Graphcon - The Graphic Conversion Program (1987)(Pitman, Steve)" index="" image="">
+		<description>Graphcon - The Graphic Conversion Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hamurabi (198x)(-)" index="true" image="h">
+		<description>Hamurabi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hangman (1985)(Mix Software)" index="" image="">
+		<description>Hangman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HD Menu (19xx)(-)" index="" image="">
+		<description>HD Menu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hexbin (1985)(L.O.F. Communications)" index="" image="">
+		<description>Hexbin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HPLOT Drawing System (198x)(Mesiavech, John)" index="" image="">
+		<description>HPLOT Drawing System</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Image v2.0 (198x)(Hills, C. - Morehen, T.)" index="true" image="i">
+		<description>Image v2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="IMP v2.45 (1987)(Hoff, Irvin M.)" index="" image="">
+		<description>IMP v2.45</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="IMP v2.45 Modem PGM (1997)(Hoff, Irvin M.)" index="" image="">
+		<description>IMP v2.45 Modem PGM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Index (199x)(-)" index="" image="">
+		<description>Index</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeopardy (19xx)(-)(proto)" index="true" image="j">
+		<description>Jeopardy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeopardy (19xx)(-)(proto)[a]" index="" image="">
+		<description>Jeopardy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JRT Pascal (198x)(Tyson, James R.)(PD)" index="" image="">
+		<description>JRT Pascal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JRT Pascal Manual (198x)(Tyson, James R.)(PD)" index="" image="">
+		<description>JRT Pascal Manual</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jumping Jack (19xx)(Burger, Paul - Lowe, N.J.)" index="" image="">
+		<description>Jumping Jack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kaypro Disk #25 (19xx)(-)(PD)" index="true" image="k">
+		<description>Kaypro Disk #25</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kermit-80 v4.03 (1988)(-)" index="" image="">
+		<description>Kermit-80 v4.03</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="KFOR (1985)(Hoff, Irvin M.)" index="" image="">
+		<description>KFOR</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Log Maker (19xx)(-)" index="true" image="l">
+		<description>Log Maker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LRUN v2.0.5 (1984)(Falconer, C.B. - Novosielski, Gary P.)" index="" image="">
+		<description>LRUN v2.0.5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LT31 (1986)(Falconer, C.B. - Greenberg, Steven)" index="" image="">
+		<description>LT31</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LZH Cruncher v1.1 (1989)(Greenberg, Steven - Warren, Roger)" index="" image="">
+		<description>LZH Cruncher v1.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LZH Uncruncher v1.1 (1989)(Greenberg, Steven - Warren, Roger)" index="" image="">
+		<description>LZH Uncruncher v1.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madam7 (1984)(Hoff, Irvin M.)" index="true" image="m">
+		<description>Madam7</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Market Monitor (1986)(Coleco)" index="" image="">
+		<description>Market Monitor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Megadisk #1 (19xx)(Coleco - LMI)" index="" image="">
+		<description>Megadisk #1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 (1985)(Nightowl Software)" index="" image="">
+		<description>MEX Modem Executive v1.14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 (1985)(Nightowl Software)[a2]" index="" image="">
+		<description>MEX Modem Executive v1.14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 (1985)(Nightowl Software)[a3]" index="" image="">
+		<description>MEX Modem Executive v1.14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 (1985)(Nightowl Software)[a4]" index="" image="">
+		<description>MEX Modem Executive v1.14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 (1985)(Nightowl Software)[a]" index="" image="">
+		<description>MEX Modem Executive v1.14</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 Patch (19xx)(-)" index="" image="">
+		<description>MEX Modem Executive v1.14 Patch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14 READ Files (19xx)(Fall, Joseph)" index="" image="">
+		<description>MEX Modem Executive v1.14 READ Files</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MEX Modem Executive v1.14U library (19xx)(Friedman, Rob)" index="" image="">
+		<description>MEX Modem Executive v1.14U library</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MIDIBasic (1990)(Bonafide Systems)(PD)" index="" image="">
+		<description>MIDIBasic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minefield (19xx)(Lowe, N.J.)" index="" image="">
+		<description>Minefield</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission- E.V.I.L. (198x)(DBJ)" index="" image="">
+		<description>Mission- E.V.I.L.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MLOAD v2.4 (1985)(Nightowl Software)" index="" image="">
+		<description>MLOAD v2.4</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Modem Chess (1993)(Bonafide Software)" index="" image="">
+		<description>Modem Chess</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Multicart Backup (19xx)(-)" index="" image="">
+		<description>Multicart Backup</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NIAD Public Domain Volume 36 (1989)(NIAD)(PD)" index="true" image="n">
+		<description>NIAD Public Domain Volume 36</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NIAD SmartBasic Utils UNDV #2 (1983)(Lazer Microsystems)" index="" image="">
+		<description>NIAD SmartBasic Utils UNDV #2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NSWP (1983)(Rand, Dave)" index="" image="">
+		<description>NSWP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NULU v1.52 (1987)(Murray, Martin - Waters, Mick)" index="" image="">
+		<description>NULU v1.52</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orphanware Fastpatch v2.0 (1987)(Orhan)" index="true" image="o">
+		<description>Orphanware Fastpatch v2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OSpeek (19xx)(-)" index="" image="">
+		<description>OSpeek</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Othello (198x)(-)" index="" image="">
+		<description>Othello</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pacman (19xx)(-)" index="true" image="p">
+		<description>Pacman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Password Entry Program (1985)(Eve Electronic Systems)" index="" image="">
+		<description>Password Entry Program</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Patch BIOS for Adamnet Real Time Clock v1.04 (1995)(-)" index="" image="">
+		<description>Patch BIOS for Adamnet Real Time Clock v1.04</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peg Jump (1987)(Love, Marianne - Stoffers, Bob)" index="" image="">
+		<description>Peg Jump</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phrase Craze (1988)(Reedy Software)" index="" image="">
+		<description>Phrase Craze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Poker House (198x)(Elsila, Mike)" index="" image="">
+		<description>Poker House</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Port Experimenter (19xx)(AUG)(PD)" index="" image="">
+		<description>Port Experimenter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PowerPAINT (1987)(Digital Express)" index="" image="">
+		<description>PowerPAINT</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PowerPAINT Patch (1988)(Digital Express)(PD)" index="" image="">
+		<description>PowerPAINT Patch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QTERM v4.2 (1990)(DPG)" index="true" image="q">
+		<description>QTERM v4.2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QTERM v4.2 Patches (1991)(Goodenough, Dave)" index="" image="">
+		<description>QTERM v4.2 Patches</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QTERM v4.2G (1990)(Friedman, Rob)" index="" image="">
+		<description>QTERM v4.2G</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="QTERM v4.3 (199x)(-)" index="" image="">
+		<description>QTERM v4.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quatris (1989)(Perkins, Steven B.)[b]" index="" image="">
+		<description>Quatris</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quatris (198x)(-)" index="" image="">
+		<description>Quatris</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quick Copy (1987)(GJMG Enterprises)" index="" image="">
+		<description>Quick Copy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RAM Test v1.3 (198x)(AJM Software)" index="true" image="r">
+		<description>RAM Test v1.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Renumber (1986)(Dowgewicz, Paul)" index="" image="">
+		<description>Renumber</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s Best Electronic Word Book Ever! (1984)(Coleco)" index="" image="">
+		<description>Richard Scarry&apos;s Best Electronic Word Book Ever!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RLE Viewer (198x)(-)" index="" image="">
+		<description>RLE Viewer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roader (1984)(Foley, Brian - Lowe, N.J.)" index="" image="">
+		<description>Roader</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Self Test User Cartridge (1982)(Coleco - System Design Group)" index="true" image="s">
+		<description>Self Test User Cartridge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shell-Metzner v3.7 (1983)(Hoff, Irvin M.)" index="" image="">
+		<description>Shell-Metzner v3.7</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ShowPic v1.0 (1993)(Wick, Dale)" index="" image="">
+		<description>ShowPic v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ShowRLE v1.0 (1993)(Wick, Dale)" index="" image="">
+		<description>ShowRLE v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Painter &amp; Simple FX (1990)(THE softWORKS FACTORY)(PD)" index="" image="">
+		<description>Simple Painter &amp; Simple FX</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sink the Ship (198x)(Wood, Kevin)" index="" image="">
+		<description>Sink the Ship</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smart Filer (1984)(Coleco)" index="" image="">
+		<description>Smart Filer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smart Filer (1984)(Coleco)[a]" index="" image="">
+		<description>Smart Filer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smart Letters and Forms (1984)(Coleco)" index="" image="">
+		<description>Smart Letters and Forms</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartBasic v1.0 (1983)(Coleco - LMI)" index="" image="">
+		<description>SmartBasic v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartBasic v1.2 (1983)(Coleco - LMI)" index="" image="">
+		<description>SmartBasic v1.2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartFILER (1989)(Braymen, Chris)" index="" image="">
+		<description>SmartFILER</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartFILER Database (1989)(Braymen, Chris)" index="" image="">
+		<description>SmartFILER Database</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartLOGO (1984)(LOGO Computer Systems)" index="" image="">
+		<description>SmartLOGO</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SmartPrint Plus (1992)(M.A.L. - Swift)" index="" image="">
+		<description>SmartPrint Plus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Software For The Coleco ADAM (19xx)(-)" index="" image="">
+		<description>Software For The Coleco ADAM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Squeeze Program v1.0 (198x)(Neeley, Alan - Morhen, Tony)" index="" image="">
+		<description>Squeeze Program v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek (19xx)(Archuleta, Ken)" index="" image="">
+		<description>Star Trek</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Subroc (1983)(Sega)" index="" image="">
+		<description>Subroc</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Cosmo Fighter (1997)(Kogel, Marcel de)(PD)" index="" image="">
+		<description>Super Cosmo Fighter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Subroc (1984)(Sega - Coleco)" index="" image="">
+		<description>Super Subroc</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Zaxxon (1984)(Sega - Coleco)" index="" image="">
+		<description>Super Zaxxon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Survival (1982)(Elsila, Mike - Rush, Stewart F.)(PD)" index="" image="">
+		<description>Survival</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swift Disk (19xx)(-)" index="" image="">
+		<description>Swift Disk</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SydModem v3.0 (19xx)(Neely, Alan)(PD)" index="" image="">
+		<description>SydModem v3.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="System Generator v1.9 (198x)(-)" index="" image="">
+		<description>System Generator v1.9</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tape Editor (19xx)(Hinkle, B.)" index="true" image="t">
+		<description>Tape Editor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TCVIEW v2.3 (19xx)(Collino, Roin)" index="" image="">
+		<description>TCVIEW v2.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS CPM 2.2 System (19xx)(-)[720k Disk]" index="" image="">
+		<description>TDOS CPM 2.2 System</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.5 (19xx)(-)" index="" image="">
+		<description>TDOS v4.5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.5 Docs (19xx)(-)" index="" image="">
+		<description>TDOS v4.5 Docs</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 (19xx)(-)" index="" image="">
+		<description>TDOS v4.58</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 - Big Hard Drives (198x)(-)" index="" image="">
+		<description>TDOS v4.58 - Big Hard Drives</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 - MI Serial Ports (19xx)(-)" index="" image="">
+		<description>TDOS v4.58 - MI Serial Ports</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 Documentation (19xx)(-)" index="" image="">
+		<description>TDOS v4.58 Documentation</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 Help Menu (19xx)(-)" index="" image="">
+		<description>TDOS v4.58 Help Menu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 Patches (19xx)(-)" index="" image="">
+		<description>TDOS v4.58 Patches</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 Patches (19xx)(-)[a]" index="" image="">
+		<description>TDOS v4.58 Patches</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TDOS v4.58 Utilities (19xx)(-)" index="" image="">
+		<description>TDOS v4.58 Utilities</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teaching the Alphabet (198x)(Iversen, Mike)" index="" image="">
+		<description>Teaching the Alphabet</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Temple of Apshai (1985)(Epyx)[h]" index="" image="">
+		<description>Temple of Apshai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Text Filter (198x)(-)" index="" image="">
+		<description>Text Filter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thru v2.8 (1991)(Warren, Roger)" index="" image="">
+		<description>Thru v2.8</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TJ Nuclear Power Plant (19xx)(-)" index="" image="">
+		<description>TJ Nuclear Power Plant</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Towers of Hanoi (198x)(Matz, Phil)" index="" image="">
+		<description>Towers of Hanoi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trivial (19xx)(Stubblefield, Mike)" index="" image="">
+		<description>Trivial</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trolls Tale (19xx)(-)(PD)" index="" image="">
+		<description>Trolls Tale</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trolls Tale (19xx)(-)(PD)[b]" index="" image="">
+		<description>Trolls Tale</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TRS-80 to ADAM Disk Copier (19xx)(-)" index="" image="">
+		<description>TRS-80 to ADAM Disk Copier</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twelve Days of Christmas, The (19xx)(-)" index="" image="">
+		<description>Twelve Days of Christmas, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="UNARC v1.6 (1987)(Freed, Robert A.)" index="true" image="u">
+		<description>UNARC v1.6</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="UNCR v2.4 (1987)(Greenberg, Steven)" index="" image="">
+		<description>UNCR v2.4</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Undelete (19xx)(-)" index="" image="">
+		<description>Undelete</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="UNSPOOL v3.0 (19xx)(-)" index="" image="">
+		<description>UNSPOOL v3.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unsqueeze &amp; Uncrunch (1989)(Greenberg, Steven)" index="" image="">
+		<description>Unsqueeze &amp; Uncrunch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Utility Copy (198x)(-)" index="" image="">
+		<description>Utility Copy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Cassette Filer (198x)(Matz, Phillip D.)" index="true" image="v">
+		<description>Video Cassette Filer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Cassette Filer 2 (198x)(Matz, Phillip D.)" index="" image="">
+		<description>Video Cassette Filer 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Video Mode Selection Program v1.0 (1989)(Lingrel, John - Neeley, Alan - Sol Swift)" index="" image="">
+		<description>Video Mode Selection Program v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="VIEW v1.0 (1987)(Clary, Thomas E.)" index="" image="">
+		<description>VIEW v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ViewRLE v1.0 (198x)(Clary, Thomas E.)" index="" image="">
+		<description>ViewRLE v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War Room (1983)(NAP Consumer Electronics)" index="true" image="w">
+		<description>War Room</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wargames Dialer (198x)(-)" index="" image="">
+		<description>Wargames Dialer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Werewolves and Wanderer (1984)(Bucholtz, Rick - Hartnell, Tim)" index="" image="">
+		<description>Werewolves and Wanderer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WordPro-100 (19xx)(-)" index="" image="">
+		<description>WordPro-100</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wordstar v3.3 (1983)(MicroPro International Corporation)" index="" image="">
+		<description>Wordstar v3.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Worm of Bemer (1984)(Lowe, N.J. - Parrish, Patrick)" index="" image="">
+		<description>Worm of Bemer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wormwood (198x)(Home Computer Magazine)" index="" image="">
+		<description>Wormwood</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="XCCP v1.0 (1984)(Fleig, Anton R.)" index="true" image="x">
+		<description>XCCP v1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yahtzee (198x)(Braymen, Chris)" index="true" image="y">
+		<description>Yahtzee</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Z-system Display Editor (19xx)(Meyer, Eric)" index="true" image="z">
+		<description>Z-system Display Editor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Z80 LZH Coding (1991)(Warren, Roger)" index="" image="">
+		<description>Z80 LZH Coding</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZDE16Y (1990)(Wilson, Carlson)" index="" image="">
+		<description>ZDE16Y</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZMP15 (19xx)(Friedman, Rob)" index="" image="">
+		<description>ZMP15</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZZAP22 (1990)(-)" index="" image="">
+		<description>ZZAP22</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZZZ-UNK-BACHSAMP" index="" image="">
+		<description>ZZZ-UNK-BACHSAMP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZZZ-UNK-MTANK" index="" image="">
+		<description>ZZZ-UNK-MTANK</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZZZ-UNK-NEWBOO" index="" image="">
+		<description>ZZZ-UNK-NEWBOO</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,1109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Bandai WonderSwan</listname>
+		<lastlistupdate>02/08/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Anchorz Field (Japan)" index="true" image="a">
+		<description>Anchorz Field (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armored Unit (Japan)" index="" image="">
+		<description>Armored Unit (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bakusou Dekotora Densetsu for WonderSwan (Japan)" index="true" image="b">
+		<description>Bakusou Dekotora Densetsu for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Human Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beatmania for WonderSwan (Japan)" index="" image="">
+		<description>Beatmania for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Buffers Evolution (Japan)" index="" image="">
+		<description>Buffers Evolution (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)" index="true" image="c">
+		<description>Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chaos Gear - Michibikareshi Mono (Japan)" index="" image="">
+		<description>Chaos Gear - Michibikareshi Mono (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan)" index="" image="">
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chou Aniki - Otoko no Tamafuda (Japan)" index="" image="">
+		<description>Chou Aniki - Otoko no Tamafuda (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (Japan)" index="" image="">
+		<description>Chou Denki Card Game - Youfu Makai - Kikuchi Shuukou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koubunsha</manufacturer>
+		<year>1999</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clock Tower for WonderSwan (Japan)" index="" image="">
+		<description>Clock Tower for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Human Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crazy Climber (Japan)" index="" image="">
+		<description>Crazy Climber (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nihon Bussan</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="D&apos;s Garage 21 Koubo Game - Tane o Maku Tori (Japan)" index="true" image="d">
+		<description>D&apos;s Garage 21 Koubo Game - Tane o Maku Tori (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Densha de Go! (Japan)" index="" image="">
+		<description>Densha de Go! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1999</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Densha de Go! 2 (Japan)" index="" image="">
+		<description>Densha de Go! 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>CyberFront</manufacturer>
+		<year>1999</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon Adventure - Anode Tamer (Japan)" index="" image="">
+		<description>Digimon Adventure - Anode Tamer (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon Adventure - Cathode Tamer (Japan)" index="" image="">
+		<description>Digimon Adventure - Cathode Tamer (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digimon Adventure 02 - Tag Tamers (Japan)" index="" image="">
+		<description>Digimon Adventure 02 - Tag Tamers (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digital Monster - Ver. WonderSwan (Japan)" index="" image="">
+		<description>Digital Monster - Ver. WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Digital Partner (Japan)" index="" image="">
+		<description>Digital Partner (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dokodemo Hamster (Japan)" index="" image="">
+		<description>Dokodemo Hamster (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bec</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Engacho! for WonderSwan (Japan)" index="true" image="e">
+		<description>Engacho! for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>NAC Geographic Products, Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)" index="true" image="f">
+		<description>Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bec</manufacturer>
+		<year>1999</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Lap 2000 (Japan)" index="" image="">
+		<description>Final Lap 2000 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Pro Wrestling for WonderSwan (Japan)" index="" image="">
+		<description>Fire Pro Wrestling for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaga Tech</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fishing Freaks - Bass Rise for WonderSwan (Japan)" index="" image="">
+		<description>Fishing Freaks - Bass Rise for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)" index="" image="">
+		<description>From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ganso Jajamaru-kun (Japan)" index="true" image="g">
+		<description>Ganso Jajamaru-kun (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Glocal Hexcite (Japan)" index="" image="">
+		<description>Glocal Hexcite (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gomoku Narabe &amp; Reversi - Touryuumon (Japan)" index="" image="">
+		<description>Gomoku Narabe &amp; Reversi - Touryuumon (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>2000</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Goraku Ou Tango! (Japan)" index="" image="">
+		<description>Goraku Ou Tango! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mebius</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GunPey (Japan)" index="" image="">
+		<description>GunPey (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hanafuda Shiyouyo (Japan)" index="true" image="h">
+		<description>Hanafuda Shiyouyo (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaga Tech</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harobots (Japan)" index="" image="">
+		<description>Harobots (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunrise Interactive</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunter X Hunter - Ishi o Tsugu Mono (Japan)" index="" image="">
+		<description>Hunter X Hunter - Ishi o Tsugu Mono (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Itou Junji Uzumaki - Noroi Simulation (Japan)" index="true" image="i">
+		<description>Itou Junji Uzumaki - Noroi Simulation (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Omega Micott</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)" index="true" image="k">
+		<description>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kaze no Klonoa - Moonlight Museum (Japan)" index="" image="">
+		<description>Kaze no Klonoa - Moonlight Museum (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)" index="" image="">
+		<description>Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Media Entertainment</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kiss Yori... - Seaside Serenade (Japan)" index="" image="">
+		<description>Kiss Yori... - Seaside Serenade (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kid</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kosodate Quiz Dokodemo - My Angel (Japan)" index="" image="">
+		<description>Kosodate Quiz Dokodemo - My Angel (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Game Show</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kyousouba Ikusei Simulation - Keiba (Japan)" index="" image="">
+		<description>Kyousouba Ikusei Simulation - Keiba (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bec</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Langrisser Millennium WS - The Last Century (Japan)" index="true" image="l">
+		<description>Langrisser Millennium WS - The Last Century (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Stand (Japan)" index="" image="">
+		<description>Last Stand (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner for WonderSwan (Japan)" index="" image="">
+		<description>Lode Runner for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Macross - True Love Song (Japan)" index="true" image="m">
+		<description>Macross - True Love Song (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Lay-Up</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Drop for WonderSwan (Japan)" index="" image="">
+		<description>Magical Drop for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahjong Touryuumon (Japan)" index="" image="">
+		<description>Mahjong Touryuumon (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Makaimura for WonderSwan (Japan)" index="" image="">
+		<description>Makaimura for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medarot Perfect Edition - Kabuto Version (Japan)" index="" image="">
+		<description>Medarot Perfect Edition - Kabuto Version (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medarot Perfect Edition - Kuwagata Version (Japan)" index="" image="">
+		<description>Medarot Perfect Edition - Kuwagata Version (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meitantei Conan - Majutsushi no Chousenjou! (Japan)" index="" image="">
+		<description>Meitantei Conan - Majutsushi no Chousenjou! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)" index="" image="">
+		<description>Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metakomi Theraphy - Nee Kiite! (Japan)" index="" image="">
+		<description>Metakomi Theraphy - Nee Kiite! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Media Entertainment</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mingle Magnet (Japan)" index="" image="">
+		<description>Mingle Magnet (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mobile Suit Gundam MSVS (Japan)" index="" image="">
+		<description>Mobile Suit Gundam MSVS (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MobileWonderGate (Japan)" index="" image="">
+		<description>MobileWonderGate (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moero!! Pro Yakyuu Rookies (Japan)" index="" image="">
+		<description>Moero!! Pro Yakyuu Rookies (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Morita Shougi for WonderSwan (Japan)" index="" image="">
+		<description>Morita Shougi for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yuki</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nazo Ou Pocket (Japan)" index="true" image="n">
+		<description>Nazo Ou Pocket (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neon Genesis Evangelion - Shito Ikusei (Japan)" index="" image="">
+		<description>Neon Genesis Evangelion - Shito Ikusei (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nice On (Japan)" index="" image="">
+		<description>Nice On (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan)" index="" image="">
+		<description>Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaga Tech</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga no Yabou for WonderSwan (Japan)" index="" image="">
+		<description>Nobunaga no Yabou for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ou-chan no Oekaki Logic (Japan)" index="true" image="o">
+		<description>Ou-chan no Oekaki Logic (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Fighter (Japan)" index="true" image="p">
+		<description>Pocket Fighter (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Mahjong Kiwame for WonderSwan (Japan)" index="" image="">
+		<description>Pro Mahjong Kiwame for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Athena</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puyo Puyo Tsuu (Japan)" index="" image="">
+		<description>Puyo Puyo Tsuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzzle Bobble (Japan)" index="" image="">
+		<description>Puzzle Bobble (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Islands - Putty&apos;s Party (Japan)" index="true" image="r">
+		<description>Rainbow Islands - Putty&apos;s Party (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ring Infinity (Japan)" index="" image="">
+		<description>Ring Infinity (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kadokawa Shoten</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robot Works (Asia) (En,Ja)" index="" image="">
+		<description>Robot Works (Asia) (En,Ja)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rockman &amp; Forte - Mirai Kara no Chousensha (Japan)" index="" image="">
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San Goku Shi for WonderSwan (Japan)" index="true" image="s">
+		<description>San Goku Shi for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koei</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San Goku Shi II for WonderSwan (Japan)" index="" image="">
+		<description>San Goku Shi II for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SD Gundam - Emotional Jam (Japan)" index="" image="">
+		<description>SD Gundam - Emotional Jam (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SD Gundam G-Generation - Gather Beat (Japan)" index="" image="">
+		<description>SD Gundam G-Generation - Gather Beat (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SD Gundam Gashapon Senki - Episode 1 (Japan)" index="" image="">
+		<description>SD Gundam Gashapon Senki - Episode 1 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)" index="" image="">
+		<description>Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sennou Millennium (Japan)" index="" image="">
+		<description>Sennou Millennium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai Pocket (Japan)" index="" image="">
+		<description>Shanghai Pocket (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shin Nihon Pro Wrestling - Toukon Retsuden (Japan)" index="" image="">
+		<description>Shin Nihon Pro Wrestling - Toukon Retsuden (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tomy Corporation</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shougi Touryuumon (Japan)" index="" image="">
+		<description>Shougi Touryuumon (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Studios</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Side Pocket for WonderSwan (Japan)" index="" image="">
+		<description>Side Pocket for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Pool</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slither Link (Japan)" index="" image="">
+		<description>Slither Link (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Yarou! - Challenge the World (Japan)" index="" image="">
+		<description>Soccer Yarou! - Challenge the World (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Coconuts Japan</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sotsugyou for WonderSwan (Japan)" index="" image="">
+		<description>Sotsugyou for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders (Japan)" index="" image="">
+		<description>Space Invaders (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen Compact (Japan)" index="" image="">
+		<description>Super Robot Taisen Compact (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1999</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)" index="" image="">
+		<description>Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan)" index="" image="">
+		<description>Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan)" index="" image="">
+		<description>Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taikyoku Igo - Heisei Kiin (Japan)" index="true" image="t">
+		<description>Taikyoku Igo - Heisei Kiin (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaga Tech</manufacturer>
+		<year>2000</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tanjou Debut for WonderSwan (Japan)" index="" image="">
+		<description>Tanjou Debut for WonderSwan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tare Panda no GunPey (Japan)" index="" image="">
+		<description>Tare Panda no GunPey (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tekken Card Challenge (Japan)" index="" image="">
+		<description>Tekken Card Challenge (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terrors (Japan)" index="" image="">
+		<description>Terrors (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetsujin 28 Gou (Japan)" index="" image="">
+		<description>Tetsujin 28 Gou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>MegaHouse</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan)" index="" image="">
+		<description>Time Bokan Series - Bokan Densetsu - Butamo Odaterya Doronbou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo Majin Gakuen - Fuju Houroku (Japan)" index="" image="">
+		<description>Tokyo Majin Gakuen - Fuju Houroku (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Asmik Ace Entertainment, Inc, </manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan)" index="" image="">
+		<description>Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bottom Up</manufacturer>
+		<year>1999</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan)" index="" image="">
+		<description>Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bottom Up</manufacturer>
+		<year>2000</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turntablist - DJ Battle (Japan)" index="" image="">
+		<description>Turntablist - DJ Battle (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Umizuri ni Ikou! (Japan)" index="true" image="u">
+		<description>Umizuri ni Ikou! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Coconuts Japan</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uzumaki - Denshi Kaiki Hen (Japan)" index="" image="">
+		<description>Uzumaki - Denshi Kaiki Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Omega Micott</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vaitz Blade (Japan)" index="true" image="v">
+		<description>Vaitz Blade (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wasabi Produce - Street Dancer (Japan)" index="true" image="w">
+		<description>Wasabi Produce - Street Dancer (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Stadium &apos;99 (Japan)" index="" image="">
+		<description>Wonder Stadium &apos;99 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Stadium (Japan)" index="" image="">
+		<description>Wonder Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WonderSwan Handy Sonar (Japan)" index="" image="">
+		<description>WonderSwan Handy Sonar (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Capcom Play System II</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0 (MAME)</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1944" index="true" image="1">
+		<description>1944: The Loop Master (USA 000620)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+		<year>2000</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="19xx" index="" image="">
+		<description>19XX: The War Against Destiny (USA 951207)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avspu" index="true" image="a">
+		<description>Alien vs. Predator (USA 940520)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwaru" index="" image="">
+		<description>Armored Warriors (USA 941024)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batcir" index="true" image="b">
+		<description>Battle Circuit (Euro 970319)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclub" index="true" image="c">
+		<description>Capcom Sports Club (Euro 971017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cybotsu" index="" image="">
+		<description>Cyberbots: Fullmetal Madness (USA 950424)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dstlku" index="true" image="d">
+		<description>Darkstalkers: The Night Warriors (USA 940818)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dimahoou" index="" image="">
+		<description>Dimahoo (USA 000121)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
+		<year>2000</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomu" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodu" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (USA 940125)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ecofghtr" index="true" image="e">
+		<description>Eco Fighters (World 931203)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gigawing" index="true" image="g">
+		<description>Giga Wing (USA 990222)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Takumi (Capcom license)</manufacturer>
+		<year>1999</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hsf2" index="true" image="h">
+		<description>Hyper Street Fighter 2: The Anniversary Edition (USA 040202)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2004</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="choko" index="true" image="j">
+		<description>Janpai Puzzle Choukou (Japan 010820)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell (Capcom license)</manufacturer>
+		<year>2001</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jyangoku" index="" image="">
+		<description>Jyangokushi: Haoh no Saihai (Japan 990527)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1999</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmatrix" index="true" image="m">
+		<description>Mars Matrix: Hyper Solid Shooting (USA 000412)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Takumi (Capcom license)</manufacturer>
+		<year>2000</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mshu" index="" image="">
+		<description>Marvel Super Heroes (USA 951024)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mshvsfu" index="" image="">
+		<description>Marvel Super Heroes Vs. Street Fighter (USA 970827)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mvscu" index="" image="">
+		<description>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1998</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmancp2u" index="" image="">
+		<description>Mega Man - The Power Battle (CPS2, USA 951006, SAMPLE Version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megaman2" index="" image="">
+		<description>Mega Man 2: The Power Fighters (USA 960708)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mpangu" index="" image="">
+		<description>Mighty! Pang (USA 001010)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell (Capcom license)</manufacturer>
+		<year>2000</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nwarru" index="true" image="n">
+		<description>Night Warriors: Darkstalkers&apos; Revenge (USA 950406)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="progear" index="true" image="p">
+		<description>Progear (USA 010117)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cave (Capcom license)</manufacturer>
+		<year>2001</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pzloop2j" index="" image="">
+		<description>Puzz Loop 2 (Japan 010205)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell (Capcom license)</manufacturer>
+		<year>2001</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qndream" index="true" image="q">
+		<description>Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 960826)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringdest" index="true" image="r">
+		<description>Ring of Destruction: Slammasters II (Euro 940902)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfa2u" index="true" image="s">
+		<description>Street Fighter Alpha 2 (USA 960430)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfa3u" index="" image="">
+		<description>Street Fighter Alpha 3 (USA 980904)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1998</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfau" index="" image="">
+		<description>Street Fighter Alpha: Warriors&apos; Dreams (USA 950627)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfz2al" index="" image="">
+		<description>Street Fighter Zero 2 Alpha (Asia 960826)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgemf" index="" image="">
+		<description>Super Gem Fighter Mini Mix (USA 970904)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spf2t" index="" image="">
+		<description>Super Puzzle Fighter II Turbo (USA 960620)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssf2t" index="" image="">
+		<description>Super Street Fighter II Turbo (World 940223)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssf2" index="" image="">
+		<description>Super Street Fighter II: The New Challengers (World 930911)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vhunt2" index="true" image="v">
+		<description>Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsav2" index="" image="">
+		<description>Vampire Savior 2: The Lord of Vampire (Japan 970913)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsavu" index="" image="">
+		<description>Vampire Savior: The Lord of Vampire (USA 970519)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmvsfu" index="true" image="x">
+		<description>X-Men Vs. Street Fighter (USA 961023)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmcotau" index="" image="">
+		<description>X-Men: Children of the Atom (USA 950105)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

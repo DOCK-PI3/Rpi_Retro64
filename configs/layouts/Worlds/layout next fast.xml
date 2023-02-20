@@ -1,0 +1,381 @@
+<layout width="1920" height="1080" font="Roboto-Bold.ttf" loadFontSize="32" fontColor="EEEEEEE">
+
+
+    <sound type="load"      src="sounds/loadcfw.wav"/>
+    <sound type="unload"    src="sounds/unloadcfw.wav"/>
+    <sound type="highlight" src="sounds/highlight.wav"/>
+    <sound type="select"    src="sounds/select.wav"/>
+
+<!-----------------Start Splash----------------->
+
+ <image src="images/Intro.png" alpha="1" y="center" x="center" yOrigin="center" xOrigin="center" height="1080" width="1920" layer="19">
+<onMenuIdle>
+<set duration="1.5">
+                <animate type="yOrigin" to="center" algorithm="easeinquadratic"/>
+</set>
+<set duration="0.6">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="2130" algorithm="easeinquadratic"/>
+                <animate type="height" to="1198" algorithm="easeinquadratic"/>
+</set>
+</onMenuIdle>
+  </image>
+
+ <image src="images/IntroLogo.png" alpha="1" x="center" y="540" xOrigin="center" yOrigin="center" height="457" width="1013" layer="19">
+<onMenuIdle>
+<set duration="0.5">
+                <animate type="yOrigin" to="center" algorithm="easeinquadratic"/>
+</set>
+<set duration="1.6">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="1317" algorithm="easeinquadratic"/>
+                <animate type="height" to="596" algorithm="easeinquadratic"/>
+</set>
+</onMenuIdle>
+</image>
+
+ <image src="images/IntroLogo2.png" alpha="1" x="center" y="540" xOrigin="center" yOrigin="center" height="457" width="1013" layer="19">
+<onMenuIdle>
+<set duration="0.5">
+                <animate type="yOrigin" to="center" algorithm="easeinquadratic"/>
+</set>
+<set duration="1.6">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="1722" algorithm="easeinquadratic"/>
+                <animate type="height" to="777" algorithm="easeinquadratic"/>
+</set>
+</onMenuIdle>
+</image>
+
+ <image src="images/IntroLogo3.png" alpha="1" x="center" y="540" xOrigin="center" yOrigin="center" height="365" width="810" layer="19">
+<onMenuIdle>
+<set duration="0.5">
+                <animate type="yOrigin" to="center" algorithm="easeinquadratic"/>
+</set>
+<set duration="1.9">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="2228" algorithm="easeinquadratic"/>
+                <animate type="height" to="1005" algorithm="easeinquadratic"/>
+</set>
+</onMenuIdle>
+</image>
+
+
+<!-----------------Background Media----------------->
+
+<reloadableImage type="cabs" alpha="1" y="0" x="-50" height="1080" width="1920" layer="11"/>
+
+<reloadableImage type="bezels" alpha="1" xOrigin="center" yOrigin="center" x="495" y="578" height="540" width="726" layer="10"/>
+
+
+<!-----------------Attract Mode Dim----------------->
+
+ <image src="images/attract.png" alpha="0" height="1080" width="1920" layer="19">
+	<onAttract>
+      <set duration="0.6">
+        <animate type="alpha" to="0.5"/>
+      </set>
+    </onAttract >
+	<onAttractExit>
+      <set duration="0.01">
+        <animate type="alpha" to="0"/>
+      </set>
+    </onAttractExit >
+  </image>
+
+<!-----------------Games Video and fadeout of video----------------->
+
+ <reloadableVideo imageType="screenshot" volume="0" alpha="1" xOrigin="center" yOrigin="center" x="495" y="578" height="540" width="726" layer="5">
+		<onExit>        
+		<set duration="1">                
+		<animate type="volume" to="0" algorithm="easeinquadratic"/>  
+	    	</set>
+		</onExit>
+		<onHighlightExit>        
+		<set duration="0.001">                
+		<animate type="volume" to="0" algorithm="easeinquadratic"/>  
+	    	</set>
+		</onHighlightExit> 
+		<onGameEnter>        
+		<set duration="1">                
+		<animate type="volume" to="0" algorithm="easeinquadratic"/>  
+	    	</set>
+		</onGameEnter> 
+		<onGameExit>        
+		<set duration="0.6">                
+		<animate type="volume" to="0.3" algorithm="easeinquadratic"/>  
+	    	</set>
+		</onGameExit> 
+		<onMenuIdle>        
+		<set duration="0.5">                
+		<animate type="volume" to="0.3" algorithm="easeinquadratic"/>  
+	    	</set>
+		</onMenuIdle> 
+  		<onEnter>
+		<set duration="0.001">                
+		<animate type="volume" to="0" algorithm="easeinquadratic"/>  
+	    	</set>
+		<set duration="0.6">                
+		<animate type="volume" to="0.3" algorithm="easeinquadratic"/>  
+	    	</set>
+  		</onEnter>
+  </reloadableVideo>
+
+	<reloadableImage type="screenshot" alpha="1" xOrigin="center" yOrigin="center" x="504" y="584" height="518" width="690" layer="5">
+	</reloadableImage>
+
+
+<!-----------------Skin Layers----------------->
+
+ <image src="images/OverlayDown.png" alpha="1" x="0" y="0" height="1080" width="1970" layer="18">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+			<onMenuIdle menuIndex="1">
+<set duration="0.6"><animate type="alpha" to="0"/></set>
+</onMenuIdle>
+  </image>
+
+ <image src="images/OverlayWall.png" alpha="1" x="-300" y="0" height="1080" width="2220" layer="5">
+  </image>
+
+ <image src="images/Promo.png" alpha="1" x="0" y="0" height="1080" width="1920" layer="12">
+  </image>
+
+ <image src="images/PromoHider.jpg" alpha="1" x="0" y="0" height="1080" width="1920" layer="13">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+  </image>
+
+
+	<image src="images/Hide.png" alpha="1" x="0" y="0" height="1080" width="1920" layer="12">
+		<onMenuExit menuIndex="1"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onPlaylistEnter><set duration="0.2"><animate type="xoffset" from="-40" to="0"/></set></onPlaylistEnter>
+		<onMenuJumpEnter><set duration="0.2"><animate type="xoffset" from="-40" to="0"/></set></onMenuJumpEnter>
+			<onIdle menuIndex="0">
+<set duration="0.3"><animate type="alpha" to="0"/></set>
+</onIdle>
+	</image>
+
+
+<!-----------------First Letter----------------->
+
+<reloadableImage type="firstLetter" mode="common" alpha="0.5" width="18" height="540" x="1893" yOrigin="center"  y="542" menuScrollReload="true" layer="12">
+			<onMenuExit menuIndex="1"><set duration="0.001"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set></onMenuEnter>
+			<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0.5"/></set></onMenuIdle>
+</reloadableImage>
+
+<reloadableImage mode="commonlayout" type="firstLetter" menuScrollReload="yes" x="center" height="45" y="1050" xOrigin="center" yOrigin="center" alpha="0" layer="18">
+<onMenuIdle>
+<set duration="1.5">
+<animate type="yOrigin" to="center"/>
+</set>  
+<set duration="0.5">
+<animate type="alpha" to="0.0"/>
+</set>    
+</onMenuIdle>
+<onMenuJumpEnter><set duration="0.001"><animate type="alpha" to="0.7"/></set></onMenuJumpEnter>
+<onMenuExit menuIndex="1"><set duration="0.001"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onScroll>
+				<set duration="2.5">
+					<animate type="yOrigin" to="center"/>
+				</set>
+				<set duration="0.5">
+					<animate type="alpha" to="0.7" algorithm="easeinquadratic"/>
+				</set>
+			</onScroll>
+</reloadableImage>
+
+<!-----------------Games Wheel----------------->
+
+<menu menuIndex="1" type="custom" imageType="logo" orientation="vertical" width="500" height="100" scrollTime=".20"  minScrollTime=".03" scrollAcceleration=".04">
+      <itemDefaults spacing="2" y="center" x="center" yOrigin="center" xOrigin="center" fontSize="35" width="260" maxHeight="120" layer="5"/>
+      <item xOffset="830" angle="39" yOffset="-664" alpha="0" >
+      </item>
+      <item xOffset="770" angle="32" yOffset="-568">
+       </item>
+      <item xOffset="710" angle="27" yOffset="-464">
+       </item>
+      <item xOffset="665" angle="20" yOffset="-354">
+       </item>
+      <item xOffset="630" angle="14" yOffset="-238">
+       </item>
+      <item xOffset="610" angle="8" yOffset="-120">
+       </item>
+      <item xOffset="600" yOffset="0" layer="8" width="400" maxHeight="200" alpha="1" selected="true">
+         </item>
+      <item xOffset="610" angle="-8" yOffset="120" >
+         </item>
+      <item xOffset="630" angle="-14" yOffset="238" >
+         </item>
+      <item xOffset="665" angle="-20" yOffset="354" >
+         </item>
+      <item xOffset="710" angle="-27" yOffset="464" >
+         </item>
+      <item xOffset="770" angle="-32" yOffset="568" >
+         </item>
+      <item xOffset="830" angle="-39" yOffset="664" alpha="0" >
+          </item>
+   </menu>
+
+<!-----------------Cover Per Game Art----------------->
+
+<reloadableImage type="cover" mode="Layout" width="1160" height="1140" x="860" y="0" alpha="1" layer="2">
+    <onEnter><set duration=".75"><animate type="xoffset" from="-40" to="0"/></set></onEnter>
+  </image>
+
+<!-----------------Number of Games----------------->
+
+<reloadableText type="collectionSize" x="1865" y="1040" xOrigin="left" yOrigin="top" fontSize="26" alpha="0.8" layer="18">
+</text>
+
+<text value="|" x="1858" y="1040" xOrigin="left" yOrigin="top" fontSize="26" alpha="0.8" layer="18">
+</text>
+
+<reloadableText type="collectionIndex" x="1855" y="1040" xOrigin="right" yOrigin="top" fontSize="26" alpha="0.8" menuScrollReload="true" layer="18">
+</text>
+
+<!-----------------Logos----------------->
+
+<menu menuIndex="0" mode="system" type="custom" imageType="logo" scrollTime="0.20" scrollAcceleration=".025" minScrollTime=".10" orientation="horizontal">
+  <itemDefaults x="center" y="880"  xOrigin="center" yOrigin="center" alpha="0" width="600" spacing="10" layer="18"/>
+  <item xOffset="-460" yOffset="35" angle="-7"/>
+  <item selected="true" alpha="1" width="600">
+<onPlaylistEnter><set duration="0.01"><animate type="width" to ="840"/></set></onPlaylistEnter>
+<onMenuJumpEnter><set duration="0.01"><animate type="width" to ="770"/></set></onMenuJumpEnter>
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/><animate type="width" to ="600"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/><animate type="width" to ="600"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+<onMenuIdle><set duration="0.1"><animate type="width" to ="600"/></set></onMenuIdle >
+  </item>
+  <item xOffset="460" yOffset="35" angle="7"/>
+</menu>
+
+   <menu menuIndex="0" type="custom" imageType="logo" alpha="0" scrollTime="0.20" scrollAcceleration=".025" minScrollTime=".10" orientation="horizontal">
+      <itemDefaults spacing="2" y="880" x="center" xOrigin="center" yOrigin="center" fontSize="30"  width="420" Height="520" layer="18"/>
+
+	<item xOffset="-1540" yOffset="550" angle="-50" alpha="0">
+	</item>
+
+	<item xOffset="-1180" yOffset="190" angle="-20" alpha="1">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+	</item>
+
+      <item xOffset="-650"  yOffset="50" angle="-10" alpha="1">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+      </item>
+
+      <item width="575" Height="510" fontSize="30" alpha="0" selected="true">
+      </item>
+
+      <item xOffset="650" yOffset="50" angle="10" alpha="1">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+      </item>
+
+	<item xOffset="1180"  yOffset="190" angle="20" alpha="1">
+		<onMenuExit  menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuExit>
+		<onMenuEnter  menuIndex="0"><set duration="0.001"><animate type="alpha" to="1"/></set></onMenuEnter>
+		<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuIdle>
+	</item>
+
+	<item xOffset="1540" yOffset="550" angle="50" alpha="0">
+	</item>
+
+   </menu>
+
+<!-----------------Genres----------------->
+
+
+<reloadableImage type="genre" mode="system" alpha="0" x="100" y="1000" maxheight="30" width="240" layer="18">
+			<onMenuExit menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set></onMenuEnter>
+			<onMenuIdle menuIndex="1"><set duration="0.3"><animate type="alpha" to="1"/></set></onMenuIdle>
+</reloadableImage>
+
+<reloadableImage type="isFavorite" mode="commonlayout" menuScrollReload="true" alpha="1" x="60" y="1050" xOrigin="center" yOrigin="center" maxheight="20" width="120" layer="18">
+			<onMenuExit menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuExit menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuEnter>
+			<onIdle menuIndex="0"><set duration="0.3"><animate type="alpha" to="1"/></set></onIdle>
+</reloadableImage>
+
+<reloadableImage type="playlist" mode="commonlayout" alpha="1" x="60" y="1050" xOrigin="center" yOrigin="center" maxheight="20" width="120" layer="18">
+			<onMenuExit menuIndex="1"><set duration="0.001"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuExit menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuEnter>
+			<onIdle menuIndex="0"><set duration="0.3"><animate type="alpha" to="1"/></set></onIdle>
+</reloadableImage>
+
+<reloadableImage type="playlist" mode="commonlayout" alpha="1" x="60" y="1050" xOrigin="center" yOrigin="center" maxheight="1120" width="1125" layer="18">
+			<onMenuExit menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuExit menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/><animate type="width" to="120"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuEnter>
+<onIdle menuIndex="0"><set duration="0.001"><animate type="width" to="120"/><animate type="alpha" to="0.6"/></set><set duration="2.5"><animate type="width" to="1175"/><animate type="alpha" to="0"/></set></onIdle >
+<onPlaylistExit><set duration="0.01"><animate type="width" to="120"/><animate type="alpha" to="0.6"/></set></onPlaylistExit>
+</reloadableImage>
+
+<reloadableImage type="playlist" mode="commonlayout" alpha="1" x="60" y="1050" xOrigin="center" yOrigin="center" maxheight="20" width="120" layer="18">
+			<onMenuExit menuIndex="1"><set duration="0.3"><animate type="alpha" to="0"/></set></onMenuExit>
+			<onMenuExit menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/><animate type="width" to="120"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuExit>
+			<onMenuEnter menuIndex="0"><set duration="0.001"><animate type="alpha" to="0"/></set><set duration="0.001"><animate type="x" to="60"/></set><set duration="0.001"><animate type="y" to="1050"/></set></onMenuEnter>
+<onIdle><set duration="0.2"><animate type="width" to="120"/></set><set duration="0.7"><animate type="width" to="120"/><animate type="alpha" to="0.3"/></set><set duration="0.5"><animate type="width" to="175"/><animate type="alpha" to="1"/></set></onIdle >
+<onPlaylistExit><set duration="0.01"><animate type="width" to="120"/><animate type="alpha" to="0.3"/></set></onPlaylistExit>
+</reloadableImage>
+
+	<!-----------------Game Enter Exit and Shutdown----------------->
+
+<reloadableImage type="logo" x="center" y="center" yOrigin="center" xOrigin="center" alpha="0" width="400" maxHeight="200" layer="19">
+  <onGameEnter>
+<set duration="0.25">
+                <animate type="alpha" to="0.9" algorithm="easeinquadratic"/>
+                <animate type="width" to="600" algorithm="easeinquadratic"/>
+                <animate type="maxHeight" to="300" algorithm="easeinquadratic"/>
+</set> 
+<set duration="0.25">
+                <animate type="alpha" to="0.6" algorithm="easeinquadratic"/>
+                <animate type="width" to="800" algorithm="easeinquadratic"/>
+                <animate type="maxHeight" to="400" algorithm="easeinquadratic"/>
+</set>
+<set duration="0.25">
+                <animate type="alpha" to="0.3" algorithm="easeinquadratic"/>
+                <animate type="width" to="1000" algorithm="easeinquadratic"/>
+                <animate type="maxHeight" to="500" algorithm="easeinquadratic"/>
+</set>
+<set duration="0.25">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="1200" algorithm="easeinquadratic"/>
+                <animate type="maxHeight" to="600" algorithm="easeinquadratic"/>
+</set>
+  </onGameEnter>
+	<onGameExit>
+      <set duration="0.001">
+                <animate type="alpha" to="0" algorithm="easeinquadratic"/>
+                <animate type="width" to="400" algorithm="easeinquadratic"/>
+                <animate type="maxHeight" to="200" algorithm="easeinquadratic"/>
+      </set>
+    </onGameExit >
+</image>
+
+<image src="images/ShutDown.png" alpha="1" x="0" y="0" width="1920" height="2320" layer="19">
+  <onExit><set duration="1"><animate type="y" to="0"/></set></onExit>
+  <onGameEnter><set duration="1"><animate type="y" to="0"/></set></onGameEnter>
+  <onGameExit><set duration="0.01"><animate type="y" to="0"/></set><set duration="0.6"><animate type="y" to="-2320"/></set></onGameExit>
+  <onEnter><set duration="0.01"><animate type="y" to="0"/></set><set duration="1"><animate type="y" to="-2320"/></set></onEnter>
+</image>
+
+<image src="images/ShutDown2.png" alpha="1" x="0" y="-1240" width="1920" height="2320" layer="19">
+  <onExit><set duration="1"><animate type="y" to="-1240"/></set></onExit>
+  <onGameEnter><set duration="1"><animate type="y" to="-1240"/></set></onGameEnter>
+  <onGameExit><set duration="0.01"><animate type="y" to="-1240"/></set><set duration="0.6"><animate type="y" to="1080"/></set></onGameExit>
+  <onEnter><set duration="0.01"><animate type="y" to="-1240"/></set><set duration="1"><animate type="y" to="1080"/></set></onEnter>
+</image>
+
+</layout>

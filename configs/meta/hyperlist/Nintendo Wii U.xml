@@ -1,0 +1,1899 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Wii U</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="007 Legends (USA)" index="true" image="0">
+		<description>007 Legends (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Time - Explore the Dungeon Because I Don&apos;t Know! (USA)" index="true" image="a">
+		<description>Adventure Time: Explore the Dungeon Because I Don&apos;t Know! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Time - Finn and Jake Investigations (USA)" index="" image="">
+		<description>Adventure Time: Finn and Jake Investigations (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing Spider-Man 2, The (USA)" index="" image="">
+		<description>Amazing Spider-Man 2, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing Spider-Man, The - Ultimate Edition (USA)" index="" image="">
+		<description>Amazing Spider-Man, The: Ultimate Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Angry Birds Star Wars (USA)" index="" image="">
+		<description>Angry Birds Star Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Angry Birds Trilogy (USA)" index="" image="">
+		<description>Angry Birds Trilogy (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal Crossing - amiibo Festival (USA)" index="" image="">
+		<description>Animal Crossing: amiibo Festival (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Academy - Atelier (Europe)" index="" image="">
+		<description>Art Academy: Atelier (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Assassin&apos;s Creed III (USA)" index="" image="">
+		<description>Assassin&apos;s Creed III (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Assassin&apos;s Creed IV - Black Flag (USA)" index="" image="">
+		<description>Assassin&apos;s Creed IV: Black Flag (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baila Latino (Europe)" index="true" image="b">
+		<description>Baila Latino (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Oxygene</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie and Her Sisters - Puppy Rescue (USA)" index="" image="">
+		<description>Barbie and Her Sisters: Puppy Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2015</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Barbie Dreamhouse Party (USA)" index="" image="">
+		<description>Barbie Dreamhouse Party (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - Arkham City - Armored Edition (USA)" index="" image="">
+		<description>Batman: Arkham City - Armored Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - Arkham Origins (USA)" index="" image="">
+		<description>Batman: Arkham Origins (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bayonetta (USA)" index="" image="">
+		<description>Bayonetta (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bayonetta 2 (USA)" index="" image="">
+		<description>Bayonetta 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ben 10 - Omniverse (USA)" index="" image="">
+		<description>Ben 10: Omniverse (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ben 10 - Omniverse 2 (USA)" index="" image="">
+		<description>Ben 10: Omniverse 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Book of Unwritten Tales 2, The (USA)" index="" image="">
+		<description>Book of Unwritten Tales 2, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nordic Games Publishing</manufacturer>
+		<year>2016</year>
+		<genre> Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brunswick Pro Bowling (USA)" index="" image="">
+		<description>Brunswick Pro Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alliance Digital Media</manufacturer>
+		<year>2015</year>
+		<genre>Sports/Bowling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabela&apos;s Big Game Hunter - Pro Hunts (USA)" index="true" image="c">
+		<description>Cabela&apos;s Big Game Hunter: Pro Hunts (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2014</year>
+		<genre>Sports/Hunting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cabela&apos;s Dangerous Hunts 2013 (USA)" index="" image="">
+		<description>Cabela&apos;s Dangerous Hunts 2013 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Hunting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Call of Duty - Black Ops II (USA)" index="" image="">
+		<description>Call of Duty: Black Ops II (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Call of Duty - Ghosts (USA)" index="" image="">
+		<description>Call of Duty: Ghosts (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Toad - Treasure Tracker (USA)" index="" image="">
+		<description>Captain Toad: Treasure Tracker (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocoto Magic Circus 2 (Europe)" index="" image="">
+		<description>Cocoto Magic Circus 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<year>2014</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Croods, The - Prehistoric Party! (USA)" index="" image="">
+		<description>Croods, The: Prehistoric Party! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2013</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darksiders II (USA)" index="true" image="d">
+		<description>Darksiders II (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deus Ex - Human Revolution - Director&apos;s Cut (USA)" index="" image="">
+		<description>Deus Ex: Human Revolution - Director&apos;s Cut (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Devil&apos;s Third (USA)" index="" image="">
+		<description>Devil&apos;s Third (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Infinity (USA)" index="" image="">
+		<description>Disney Infinity (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Infinity 2.0 Edition (USA)" index="" image="">
+		<description>Disney Infinity 2.0 Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Infinity 3.0 Edition (USA)" index="" image="">
+		<description>Disney Infinity 3.0 Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Country - Tropical Freeze (USA)" index="" image="">
+		<description>Donkey Kong Country: Tropical Freeze (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DuckTales - Remastered (USA)" index="" image="">
+		<description>DuckTales: Remastered (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Epic Mickey 2 - The Power of Two (USA)" index="true" image="e">
+		<description>Epic Mickey 2: The Power of Two (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ESPN Sports Connection (USA)" index="" image="">
+		<description>ESPN Sports Connection (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F1 Race Stars - Powered Up Edition (Japan)" index="true" image="f">
+		<description>F1 Race Stars: Powered Up Edition (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Codemasters</manufacturer>
+		<year>2013</year>
+		<genre>Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Party - 30 Great Games Obstacle Arcade (USA)" index="" image="">
+		<description>Family Party: 30 Great Games Obstacle Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fast &amp; Furious - Showdown (USA)" index="" image="">
+		<description>Fast &amp; Furious: Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FAST Racing NEO (Europe)" index="" image="">
+		<description>FAST Racing NEO (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Shin&apos;en</manufacturer>
+		<year>2016</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer 13 (USA)" index="" image="">
+		<description>FIFA Soccer 13 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fit Music for Wii U (Europe)" index="" image="">
+		<description>Fit Music for Wii U (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Oxygene</manufacturer>
+		<year>2014</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party! (Japan)" index="" image="">
+		<description>Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Funky Barn (USA)" index="" image="">
+		<description>Funky Barn (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>505 Games</manufacturer>
+		<year>2012</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game &amp; Wario (USA)" index="true" image="g">
+		<description>Game &amp; Wario (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Party Champions (USA)" index="" image="">
+		<description>Game Party Champions (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Giana Sisters - Twisted Dreams - Director&apos;s Cut (USA)" index="" image="">
+		<description>Giana Sisters: Twisted Dreams - Director&apos;s Cut (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alliance Digital Media</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ginsei Shogi - Kyoutendo Toufuu Raijin (Japan)" index="" image="">
+		<description>Ginsei Shogi: Kyoutendo Toufuu Raijin (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SilverStar</manufacturer>
+		<year>2016</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gotouchi Tetsudou - Gotouchi Chara to Nihon Zenkoku no Tabi (Japan)" index="" image="">
+		<description>Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guitar Hero Live (USA)" index="" image="">
+		<description>Guitar Hero Live (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty Kruisers (USA)" index="true" image="h">
+		<description>Hello Kitty Kruisers (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bergsala-Lightweight</manufacturer>
+		<year>2014</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hot Wheels - World&apos;s Best Driver (USA)" index="" image="">
+		<description>Hot Wheels: World&apos;s Best Driver (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="How to Train Your Dragon 2 (USA)" index="" image="">
+		<description>How to Train Your Dragon 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunter&apos;s Trophy 2 - Europa (Europe)" index="" image="">
+		<description>Hunter&apos;s Trophy 2 - Europa (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bigben Interactive</manufacturer>
+		<year>2013</year>
+		<genre>Sports/Hunting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyrule Warriors (USA)" index="" image="">
+		<description>Hyrule Warriors (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Injustice - Gods Among Us (USA)" index="true" image="i">
+		<description>Injustice: Gods Among Us (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeopardy! (USA)" index="true" image="j">
+		<description>Jeopardy! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2012</year>
+		<genre>Game Show</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jett Tailfin (Europe)" index="" image="">
+		<description>Jett Tailfin (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hoplite Research</manufacturer>
+		<year>2014</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2014 (Europe)" index="" image="">
+		<description>Just Dance 2014 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2014 (USA)" index="" image="">
+		<description>Just Dance 2014 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2015 (Europe)" index="" image="">
+		<description>Just Dance 2015 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2015 (USA)" index="" image="">
+		<description>Just Dance 2015 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2016 (Europe)" index="" image="">
+		<description>Just Dance 2016 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2016 (USA)" index="" image="">
+		<description>Just Dance 2016 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 2017 (USA)" index="" image="">
+		<description>Just Dance 2017 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2016</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 4 (Europe)" index="" image="">
+		<description>Just Dance 4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance 4 (USA)" index="" image="">
+		<description>Just Dance 4 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance Kids 2014 (USA)" index="" image="">
+		<description>Just Dance Kids 2014 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance Wii U (Japan)" index="" image="">
+		<description>Just Dance Wii U (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just Dance - Disney Party 2 (USA)" index="" image="">
+		<description>Just Dance: Disney Party 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kamen Rider - Battride War II (Japan)" index="true" image="k">
+		<description>Kamen Rider: Battride War II (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kamen Rider - SummonRide (Japan)" index="" image="">
+		<description>Kamen Rider: SummonRide (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby and the Rainbow Curse (USA)" index="" image="">
+		<description>Kirby and the Rainbow Curse (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung Fu Panda - Showdown of Legendary Legends (USA)" index="" image="">
+		<description>Kung Fu Panda: Showdown of Legendary Legends (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Kay Anniversary (USA)" index="true" image="l">
+		<description>Legend of Kay Anniversary (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nordic Games Publishing</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - The Wind Waker HD (USA)" index="" image="">
+		<description>Legend of Zelda, The: The Wind Waker HD (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Twilight Princess HD (USA)" index="" image="">
+		<description>Legend of Zelda, The: Twilight Princess HD (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Batman 2 - DC Super Heroes (USA)" index="" image="">
+		<description>LEGO Batman 2: DC Super Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Batman 3 - Beyond Gotham (USA)" index="" image="">
+		<description>LEGO Batman 3: Beyond Gotham (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO City Undercover (USA)" index="" image="">
+		<description>LEGO City Undercover (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Dimensions (USA)" index="" image="">
+		<description>LEGO Dimensions (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Jurassic World (USA)" index="" image="">
+		<description>LEGO Jurassic World (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Marvel Super Heroes (USA)" index="" image="">
+		<description>LEGO Marvel Super Heroes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Marvel&apos;s Avengers (USA)" index="" image="">
+		<description>LEGO Marvel&apos;s Avengers (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Movie Videogame, The (USA)" index="" image="">
+		<description>LEGO Movie Videogame, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO Star Wars - The Force Awakens (USA)" index="" image="">
+		<description>LEGO Star Wars: The Force Awakens (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LEGO The Hobbit (USA)" index="" image="">
+		<description>LEGO The Hobbit (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Luv me Buddies Wonderland (Europe)" index="" image="">
+		<description>Luv me Buddies Wonderland (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Oxygene</manufacturer>
+		<year>2014</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 13 (USA)" index="true" image="m">
+		<description>Madden NFL 13 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA)" index="" image="">
+		<description>Mario &amp; Sonic at the Rio 2016 Olympic Games (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA)" index="" image="">
+		<description>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Kart 8 (USA)" index="" image="">
+		<description>Mario Kart 8 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Party 10 (USA)" index="" image="">
+		<description>Mario Party 10 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario Tennis - Ultra Smash (USA)" index="" image="">
+		<description>Mario Tennis: Ultra Smash (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario vs. Donkey Kong - Minna de Mini-Land (Japan)" index="" image="">
+		<description>Mario vs. Donkey Kong: Minna de Mini-Land (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marvel Avengers - Battle for Earth (USA)" index="" image="">
+		<description>Marvel Avengers: Battle for Earth (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mass Effect 3 - Special Edition (USA)" index="" image="">
+		<description>Mass Effect 3: Special Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty No. 9 (USA)" index="" image="">
+		<description>Mighty No. 9 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Deep Silver</manufacturer>
+		<year>2016</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minecraft - Wii U Edition (USA)" index="" image="">
+		<description>Minecraft: Wii U Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mojang AB</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster High - 13 Wishes (USA)" index="" image="">
+		<description>Monster High: 13 Wishes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster High - New Ghoul in School (USA)" index="" image="">
+		<description>Monster High: New Ghoul in School (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2015</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Hunter 3 Ultimate (USA)" index="" image="">
+		<description>Monster Hunter 3 Ultimate (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2013</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA 2K13 (USA)" index="true" image="n">
+		<description>NBA 2K13 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>2K Sports</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Need for Speed - Most Wanted U (USA)" index="" image="">
+		<description>Need for Speed: Most Wanted U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2013</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NES Remix Pack (USA)" index="" image="">
+		<description>NES Remix Pack (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Super Luigi U (USA)" index="" image="">
+		<description>New Super Luigi U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="New Super Mario Bros. U (USA)" index="" image="">
+		<description>New Super Mario Bros. U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Gaiden 3 - Razor&apos;s Edge (USA)" index="" image="">
+		<description>Ninja Gaiden 3: Razor&apos;s Edge (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nintendo Land (USA)" index="" image="">
+		<description>Nintendo Land (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Piece - Unlimited World Red (Europe)" index="true" image="o">
+		<description>One Piece: Unlimited World Red (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man and the Ghostly Adventures (USA)" index="true" image="p">
+		<description>Pac-Man and the Ghostly Adventures (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man and the Ghostly Adventures 2 (USA)" index="" image="">
+		<description>Pac-Man and the Ghostly Adventures 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paper Mario - Color Splash (USA)" index="" image="">
+		<description>Paper Mario: Color Splash (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peanuts Movie, The - Snoopy&apos;s Grand Adventure (USA)" index="" image="">
+		<description>Peanuts Movie, The: Snoopy&apos;s Grand Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguins of Madagascar (USA)" index="" image="">
+		<description>Penguins of Madagascar (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phineas and Ferb - Quest for Cool Stuff (USA)" index="" image="">
+		<description>Phineas and Ferb: Quest for Cool Stuff (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Majesco</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pikmin 3 (USA)" index="" image="">
+		<description>Pikmin 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planes (USA)" index="" image="">
+		<description>Planes (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planes - Fire &amp; Rescue (USA)" index="" image="">
+		<description>Planes: Fire &amp; Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Little Orbit</manufacturer>
+		<year>2014</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokken Tournament (USA)" index="" image="">
+		<description>Pokken Tournament (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Project Zero - Maiden of Black Water (Europe)" index="" image="">
+		<description>Project Zero: Maiden of Black Water (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puyo Puyo Tetris (Japan)" index="" image="">
+		<description>Puyo Puyo Tetris (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2014</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rabbids Land (USA)" index="true" image="r">
+		<description>Rabbids Land (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rapala Pro Bass Fishing (USA)" index="" image="">
+		<description>Rapala Pro Bass Fishing (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rayman Legends (USA)" index="" image="">
+		<description>Rayman Legends (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Resident Evil - Revelations (USA)" index="" image="">
+		<description>Resident Evil: Revelations (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rise of the Guardians (USA)" index="" image="">
+		<description>Rise of the Guardians (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2012</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rodea the Sky Soldier (USA)" index="" image="">
+		<description>Rodea the Sky Soldier (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>NIS America</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Runbow - Deluxe Edition (USA)" index="" image="">
+		<description>Runbow - Deluxe Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nighthawk Interactive</manufacturer>
+		<year>2016</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ryu ga Gotoku 1 HD for Wii U (Japan)" index="" image="">
+		<description>Ryu ga Gotoku 1 HD for Wii U (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ryu ga Gotoku 2 HD for Wii U (Japan)" index="" image="">
+		<description>Ryu ga Gotoku 2 HD for Wii U (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San Goku Shi 12 with Power-Up Kit (Japan)" index="true" image="s">
+		<description>San Goku Shi 12 with Power-Up Kit (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koei Tecmo Games</manufacturer>
+		<year>2013</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scribblenauts Unlimited (USA)" index="" image="">
+		<description>Scribblenauts Unlimited (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scribblenauts Unmasked - A DC Comics Adventure (USA)" index="" image="">
+		<description>Scribblenauts Unmasked: A DC Comics Adventure (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warner Bros. Interactive Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shin Hokuto Musou (Japan)" index="" image="">
+		<description>Shin Hokuto Musou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Koei Tecmo Games</manufacturer>
+		<year>2013</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shovel Knight (USA)" index="" image="">
+		<description>Shovel Knight (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yacht Club Games</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SiNG Party (USA)" index="" image="">
+		<description>SiNG Party (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2012</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders Giants (USA)" index="" image="">
+		<description>Skylanders Giants (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders Imaginators (USA)" index="" image="">
+		<description>Skylanders Imaginators (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2016</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders SuperChargers (USA)" index="" image="">
+		<description>Skylanders SuperChargers (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders Swap Force (USA)" index="" image="">
+		<description>Skylanders Swap Force (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders Trap Team (USA)" index="" image="">
+		<description>Skylanders Trap Team (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skylanders - Spyro no Daiboken (Japan)" index="" image="">
+		<description>Skylanders: Spyro no Daiboken (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs 2, The (USA)" index="" image="">
+		<description>Smurfs 2, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sniper Elite V2 (USA)" index="" image="">
+		<description>Sniper Elite V2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>505 Games</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic &amp; All-Stars Racing Transformed (USA)" index="" image="">
+		<description>Sonic &amp; All-Stars Racing Transformed (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2012</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic Boom - Rise of Lyric (USA)" index="" image="">
+		<description>Sonic Boom: Rise of Lyric (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic - Lost World (USA)" index="" image="">
+		<description>Sonic: Lost World (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Splatoon (USA)" index="" image="">
+		<description>Splatoon (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SpongeBob SquarePants - Plankton&apos;s Robotic Revenge (USA)" index="" image="">
+		<description>SpongeBob SquarePants: Plankton&apos;s Robotic Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Fox Guard (USA)" index="" image="">
+		<description>Star Fox Guard (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Fox Zero (USA)" index="" image="">
+		<description>Star Fox Zero (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SteamWorld Collection (USA)" index="" image="">
+		<description>SteamWorld Collection (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rising Star Games</manufacturer>
+		<year>2016</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario 3D World (USA)" index="" image="">
+		<description>Super Mario 3D World (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Maker (USA)" index="" image="">
+		<description>Super Mario Maker (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Smash Bros. for Wii U (USA)" index="" image="">
+		<description>Super Smash Bros. for Wii U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan)" index="true" image="t">
+		<description>Taiko no Tatsujin: Atsumete Tomodachi Daisakusen! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taiko no Tatsujin - Tokumori! (Japan)" index="" image="">
+		<description>Taiko no Tatsujin: Tokumori! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taiko no Tatsujin - Wii U Version (Japan)" index="" image="">
+		<description>Taiko no Tatsujin: Wii U Version (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2013</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tank! Tank! Tank! (USA)" index="" image="">
+		<description>Tank! Tank! Tank! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco Bandai Games</manufacturer>
+		<year>2012</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tekken Tag Tournament 2 - Wii U Edition (USA)" index="" image="">
+		<description>Tekken Tag Tournament 2: Wii U Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco Bandai Games</manufacturer>
+		<year>2012</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terraria (USA)" index="" image="">
+		<description>Terraria (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>505 Games</manufacturer>
+		<year>2016</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teslagrad (Europe)" index="" image="">
+		<description>Teslagrad (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rain Games</manufacturer>
+		<year>2014</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo Mirage Sessions #FE (USA)" index="" image="">
+		<description>Tokyo Mirage Sessions #FE (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2016</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tom Clancy&apos;s Splinter Cell - Blacklist (USA)" index="" image="">
+		<description>Tom Clancy&apos;s Splinter Cell: Blacklist (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transformers Prime - The Game (USA)" index="" image="">
+		<description>Transformers Prime: The Game (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transformers - Rise of the Dark Spark (USA)" index="" image="">
+		<description>Transformers: Rise of the Dark Spark (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tumblestone (USA)" index="" image="">
+		<description>Tumblestone (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nighthawk Interactive</manufacturer>
+		<year>2016</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turbo - Super Stunt Squad (USA)" index="" image="">
+		<description>Turbo: Super Stunt Squad (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voice, The - I Want You (USA)" index="true" image="v">
+		<description>Voice, The - I Want You (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2014</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Walking Dead, The - Survival Instinct (USA)" index="true" image="w">
+		<description>Walking Dead, The: Survival Instinct (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warriors Orochi 3 Hyper (USA)" index="" image="">
+		<description>Warriors Orochi 3 Hyper (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo Koei Games</manufacturer>
+		<year>2012</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Watch Dogs (USA)" index="" image="">
+		<description>Watch Dogs (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wheel of Fortune (USA)" index="" image="">
+		<description>Wheel of Fortune (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2012</year>
+		<genre>Game Show</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wii Fit U (USA)" index="" image="">
+		<description>Wii Fit U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wii Party U (USA)" index="" image="">
+		<description>Wii Party U (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wii Sports Club (USA)" index="" image="">
+		<description>Wii Sports Club (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2014</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wipeout 3 (USA)" index="" image="">
+		<description>Wipeout 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2012</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wipeout - Create &amp; Crash (USA)" index="" image="">
+		<description>Wipeout: Create &amp; Crash (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>2013</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonderful 101, The (USA)" index="" image="">
+		<description>Wonderful 101, The (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenoblade Chronicles X (USA)" index="true" image="x">
+		<description>Xenoblade Chronicles X (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yo-Kai Watch Dance - Just Dance Special Version (Japan)" index="true" image="y">
+		<description>Yo-Kai Watch Dance: Just Dance Special Version (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Level 5</manufacturer>
+		<year>2015</year>
+		<genre>Rhythm </genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Woolly World (USA)" index="" image="">
+		<description>Yoshi&apos;s Woolly World (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2015</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Your Shape - Fitness Evolved 2013 (USA)" index="" image="">
+		<description>Your Shape: Fitness Evolved 2013 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ZombiU (USA)" index="true" image="z">
+		<description>ZombiU (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2012</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zumba Fitness World Party (USA)" index="" image="">
+		<description>Zumba Fitness World Party (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Majesco</manufacturer>
+		<year>2013</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

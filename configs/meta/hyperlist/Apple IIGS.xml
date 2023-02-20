@@ -1,0 +1,3339 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Apple IIGS</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2088 - The Cryllan Mission (USA) (Disk 1)" index="true" image="2">
+		<description>2088 - The Cryllan Mission (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>69217F76</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission (USA) (Disk 2)" index="" image="">
+		<description>2088 - The Cryllan Mission (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>F9933CFF</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission (USA) (Disk 3)" index="" image="">
+		<description>2088 - The Cryllan Mission (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>FCD842CB</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission (USA) (Disk 4)" index="" image="">
+		<description>2088 - The Cryllan Mission (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>D3A4AB69</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1) (System)" index="" image="">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 1) (System)</description>
+		<cloneof></cloneof>
+		<crc>FB6EFBD4</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 2) (Program)" index="" image="">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 2) (Program)</description>
+		<cloneof></cloneof>
+		<crc>5BB2A4F6</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 3) (Outdoor)" index="" image="">
+		<description>2088 - The Cryllan Mission - The Second Scenario (USA) (Disk 3) (Outdoor)</description>
+		<cloneof></cloneof>
+		<crc>48C089A5</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4th &amp; Inches (USA) (Disk 1)" index="true" image="4">
+		<description>4th &amp; Inches (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>36FE7E66</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4th &amp; Inches (USA) (Disk 2) (Team Construction Disk)" index="" image="">
+		<description>4th &amp; Inches (USA) (Disk 2) (Team Construction Disk)</description>
+		<cloneof></cloneof>
+		<crc>7CB5A5A4</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aaargh! (USA)" index="true" image="a">
+		<description>Aaargh! (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F5EE673</crc>
+		<manufacturer>Arcadia Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Sinbad (USA) (Disk 1)" index="" image="">
+		<description>Adventures of Sinbad (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>F17B9F38</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures of Sinbad (USA) (Disk 2)" index="" image="">
+		<description>Adventures of Sinbad (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>DB032980</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aesop&apos;s Fables (USA) (Disk 1)" index="" image="">
+		<description>Aesop&apos;s Fables (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>45BDE0A4</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aesop&apos;s Fables (USA) (Disk 2)" index="" image="">
+		<description>Aesop&apos;s Fables (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>37C77C85</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Airball (USA)" index="" image="">
+		<description>Airball (USA)</description>
+		<cloneof></cloneof>
+		<crc>325C0B55</crc>
+		<manufacturer>MicroDeal</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Mind (USA) (Disk 1)" index="" image="">
+		<description>Alien Mind (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>BAAE3009</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Mind (USA) (Disk 2)" index="" image="">
+		<description>Alien Mind (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>0BE77419</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Mind (USA) (Disk 3)" index="" image="">
+		<description>Alien Mind (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>182C6208</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Mind (USA) (Disk 4) (Save)" index="" image="">
+		<description>Alien Mind (USA) (Disk 4) (Save)</description>
+		<cloneof></cloneof>
+		<crc>BA560A62</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Glory (USA) (Disk 1)" index="" image="">
+		<description>Ancient Glory (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>CF30260D</crc>
+		<manufacturer>Big Red Computer Club</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Glory (USA) (Disk 2)" index="" image="">
+		<description>Ancient Glory (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>22FAA8CA</crc>
+		<manufacturer>Big Red Computer Club</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Land of Ys (USA) (Disk 1) (Program)" index="" image="">
+		<description>Ancient Land of Ys (USA) (Disk 1) (Program)</description>
+		<cloneof></cloneof>
+		<crc>D7F1DAF9</crc>
+		<manufacturer>Kyodai</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Land of Ys (USA) (Disk 2) (Program)" index="" image="">
+		<description>Ancient Land of Ys (USA) (Disk 2) (Program)</description>
+		<cloneof></cloneof>
+		<crc>9135AD26</crc>
+		<manufacturer>Kyodai</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Land of Ys (USA) (Disk 3) (User)" index="" image="">
+		<description>Ancient Land of Ys (USA) (Disk 3) (User)</description>
+		<cloneof></cloneof>
+		<crc>5DFF392E</crc>
+		<manufacturer>Kyodai</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal Kingdom (USA) (Disk 1)" index="" image="">
+		<description>Animal Kingdom (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>FBE79519</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animal Kingdom (USA) (Disk 2)" index="" image="">
+		<description>Animal Kingdom (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>EFBC1C99</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arabian Nights (USA) (Disk 1)" index="" image="">
+		<description>Arabian Nights (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>30DB61DF</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arabian Nights (USA) (Disk 2)" index="" image="">
+		<description>Arabian Nights (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>830A2FF1</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid (USA)" index="" image="">
+		<description>Arkanoid (USA)</description>
+		<cloneof></cloneof>
+		<crc>DF3070D8</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid II - Revenge of Doh (USA)" index="" image="">
+		<description>Arkanoid II - Revenge of Doh (USA)</description>
+		<cloneof></cloneof>
+		<crc>6822B3F4</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="As the Link Turns (USA) (Unl)" index="" image="">
+		<description>As the Link Turns (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>096E6DB9</crc>
+		<manufacturer>Rogue Systems</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balance of Power - The 1990 Edition (USA)" index="true" image="b">
+		<description>Balance of Power - The 1990 Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA9C9079</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1989</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bard&apos;s Tale - Tales of the Unknown, The (USA) (Disk 1)" index="" image="">
+		<description>Bard&apos;s Tale - Tales of the Unknown, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>EFF4BB27</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bard&apos;s Tale - Tales of the Unknown, The (USA) (Disk 2) (Character)" index="" image="">
+		<description>Bard&apos;s Tale - Tales of the Unknown, The (USA) (Disk 2) (Character)</description>
+		<cloneof></cloneof>
+		<crc>1BDA3DC5</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bard&apos;s Tale II - The Destiny Knight, The (USA) (Disk 1)" index="" image="">
+		<description>Bard&apos;s Tale II - The Destiny Knight, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>7D5159E9</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bard&apos;s Tale II - The Destiny Knight, The (USA) (Disk 2) (Character)" index="" image="">
+		<description>Bard&apos;s Tale II - The Destiny Knight, The (USA) (Disk 2) (Character)</description>
+		<cloneof></cloneof>
+		<crc>FA91F5DB</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Chess (USA)" index="" image="">
+		<description>Battle Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>8A659AA7</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1989</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beyond Zork (USA)" index="" image="">
+		<description>Beyond Zork (USA)</description>
+		<cloneof></cloneof>
+		<crc>A27FF890</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bille Art (USA) (Unl)" index="" image="">
+		<description>Bille Art (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3C046FCB</crc>
+		<manufacturer>Brutal Deluxe</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Cauldron, The (USA) (Disk 1)" index="" image="">
+		<description>Black Cauldron, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B067EBCC</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Cauldron, The (USA) (Disk 2)" index="" image="">
+		<description>Black Cauldron, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>8975D132</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blackjack Academy (USA)" index="" image="">
+		<description>Blackjack Academy (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B59B888</crc>
+		<manufacturer>MicroIllusions</manufacturer>
+		<year>1988</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Block Out (USA)" index="" image="">
+		<description>Block Out (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D2F3567</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blockade GS (USA) (Unl)" index="" image="">
+		<description>Blockade GS (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B328F58A</crc>
+		<manufacturer>Brutal Deluxe</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bouncin&apos; Ferno (USA) (Unl)" index="" image="">
+		<description>Bouncin&apos; Ferno (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2FF12F7A</crc>
+		<manufacturer>Free Tools Association</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bouncing Bluster (USA) (Disk 1) (Unl)" index="" image="">
+		<description>Bouncing Bluster (USA) (Disk 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9A523C4D</crc>
+		<manufacturer>Fantasia Entertainment</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bouncing Bluster (USA) (Disk 2) (Unl)" index="" image="">
+		<description>Bouncing Bluster (USA) (Disk 2) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>DEF09BD5</crc>
+		<manufacturer>Fantasia Entertainment</manufacturer>
+		<year>1989</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bouncing Bluster II (USA) (Disk 1)" index="" image="">
+		<description>Bouncing Bluster II (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>920322DF</crc>
+		<manufacturer>Toolbox</manufacturer>
+		<year>1990</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bouncing Bluster II (USA) (Disk 2)" index="" image="">
+		<description>Bouncing Bluster II (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>6E8DE5A9</crc>
+		<manufacturer>Toolbox</manufacturer>
+		<year>1990</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bridge 6.0 - Your Bid For Entertainment (USA)" index="" image="">
+		<description>Bridge 6.0 - Your Bid For Entertainment (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9F4EFA9</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Ghost (USA)" index="" image="">
+		<description>Bubble Ghost (USA)</description>
+		<cloneof></cloneof>
+		<crc>C57489AB</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="California Games (USA)" index="true" image="c">
+		<description>California Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>487A1E51</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Olympic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Captain Blood (USA)" index="" image="">
+		<description>Captain Blood (USA)</description>
+		<cloneof></cloneof>
+		<crc>BAA8F5F4</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carte Primus Card Games (USA) (Unl)" index="" image="">
+		<description>Carte Primus Card Games (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>77932A87</crc>
+		<manufacturer>Manthey, David</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cavern Cobra (USA)" index="" image="">
+		<description>Cavern Cobra (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C0301F1</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess Master 2100 (USA) (Disk 1)" index="" image="">
+		<description>Chess Master 2100 (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>4DFAEAF7</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess Master 2100 (USA) (Disk 2)" index="" image="">
+		<description>Chess Master 2100 (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>6A25EA51</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Club Backgammon (USA)" index="" image="">
+		<description>Club Backgammon (USA)</description>
+		<cloneof></cloneof>
+		<crc>C204AFB6</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cogito (USA) (Unl)" index="" image="">
+		<description>Cogito (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6F8A2677</crc>
+		<manufacturer>Brutal Deluxe</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Columns (USA) (Unl)" index="" image="">
+		<description>Columns (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3B8DE608</crc>
+		<manufacturer>Sound Barrier Systems</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmocade - The Arcade of Tomorrow (USA) (Disk 1) (Unl)" index="" image="">
+		<description>Cosmocade - The Arcade of Tomorrow (USA) (Disk 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5DAA69B4</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1990</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmocade - The Arcade of Tomorrow (USA) (Disk 2) (Unl)" index="" image="">
+		<description>Cosmocade - The Arcade of Tomorrow (USA) (Disk 2) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>270F9F6A</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1990</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cribbage King &amp; Gin King (USA)" index="" image="">
+		<description>Cribbage King &amp; Gin King (USA)</description>
+		<cloneof></cloneof>
+		<crc>42C8615F</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1990</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crown &amp; Anchor (USA) (Unl)" index="" image="">
+		<description>Crown &amp; Anchor (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D440FB59</crc>
+		<manufacturer>Touvell, Dave</manufacturer>
+		<year>1989</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal Quest (USA)" index="" image="">
+		<description>Crystal Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>12D18533</crc>
+		<manufacturer>Casady &amp; Greene</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Castle (USA) (Disk 1)" index="true" image="d">
+		<description>Dark Castle (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>466FC8F1</crc>
+		<manufacturer>Three Sixty</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Castle (USA) (Disk 2)" index="" image="">
+		<description>Dark Castle (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>E8EAD016</crc>
+		<manufacturer>Three Sixty</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender of The Crown (USA) (Disk 1)" index="" image="">
+		<description>Defender of The Crown (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>A7BB6E9B</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender of The Crown (USA) (Disk 2)" index="" image="">
+		<description>Defender of The Crown (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D2B7BFED</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deja Vu (USA)" index="" image="">
+		<description>Deja Vu (USA)</description>
+		<cloneof></cloneof>
+		<crc>CFBAB609</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deja Vu II (USA)" index="" image="">
+		<description>Deja Vu II (USA)</description>
+		<cloneof></cloneof>
+		<crc>83F64038</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Destroyer (USA)" index="" image="">
+		<description>Destroyer (USA)</description>
+		<cloneof></cloneof>
+		<crc>C9FA5491</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1987</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Downhill Challenge (USA)" index="" image="">
+		<description>Downhill Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>780E72E1</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Skiing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Wars (USA)" index="" image="">
+		<description>Dragon Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>28B74DA3</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dream Zone (USA) (Disk 1)" index="" image="">
+		<description>Dream Zone (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>7E310FFC</crc>
+		<manufacturer>Naughty Dog</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dream Zone (USA) (Disk 2)" index="" image="">
+		<description>Dream Zone (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>37970581</crc>
+		<manufacturer>Naughty Dog</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dueling Questions (USA)" index="" image="">
+		<description>Dueling Questions (USA)</description>
+		<cloneof></cloneof>
+		<crc>8C9EBC79</crc>
+		<manufacturer>Coyote Computing</manufacturer>
+		<year>1988</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DuelTris (USA) (Unl)" index="" image="">
+		<description>DuelTris (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C4F11AC1</crc>
+		<manufacturer>DreamWorld</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeon Master (USA)" index="" image="">
+		<description>Dungeon Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>9A4D7B91</crc>
+		<manufacturer>FTL</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fast Break (USA)" index="true" image="f">
+		<description>Fast Break (USA)</description>
+		<cloneof></cloneof>
+		<crc>E18CC7DB</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Assault (USA)" index="" image="">
+		<description>Final Assault (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5E2C460</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1988</year>
+		<genre>Climbing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Firepower (USA)" index="" image="">
+		<description>Firepower (USA)</description>
+		<cloneof></cloneof>
+		<crc>A651C8B3</crc>
+		<manufacturer>MicroIllusions</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Full Metal Planete (France)" index="" image="">
+		<description>Full Metal Planete (France)</description>
+		<cloneof></cloneof>
+		<crc>3031347D</crc>
+		<manufacturer>Infogrammes</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Futureshock (USA)" index="" image="">
+		<description>Futureshock (USA)</description>
+		<cloneof></cloneof>
+		<crc>34F7C288</crc>
+		<manufacturer>Neeka Electronics</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gate, The (USA) (Disk 1)" index="true" image="g">
+		<description>Gate, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>DA0E9EFD</crc>
+		<manufacturer>Seven Hills Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gate, The (USA) (Disk 2)" index="" image="">
+		<description>Gate, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>375719DD</crc>
+		<manufacturer>Seven Hills Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gate, The (USA) (Disk 3) (Save)" index="" image="">
+		<description>Gate, The (USA) (Disk 3) (Save)</description>
+		<cloneof></cloneof>
+		<crc>3CB954C1</crc>
+		<manufacturer>Seven Hills Software</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gauntlet (USA)" index="" image="">
+		<description>Gauntlet (USA)</description>
+		<cloneof></cloneof>
+		<crc>16588690</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GBA Championship Basketball - Two-On-Two (USA)" index="" image="">
+		<description>GBA Championship Basketball - Two-On-Two (USA)</description>
+		<cloneof></cloneof>
+		<crc>90B1CAB6</crc>
+		<manufacturer>Gamestar - Activision</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Geographic Jigsaw (USA)" index="" image="">
+		<description>Geographic Jigsaw (USA)</description>
+		<cloneof></cloneof>
+		<crc>43B85433</crc>
+		<manufacturer>Eclat Microproducts</manufacturer>
+		<year>1992</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GeoPuzzle (USA)" index="" image="">
+		<description>GeoPuzzle (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E38C964</crc>
+		<manufacturer>PC Globe</manufacturer>
+		<year>1990</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GeoQuiz (USA)" index="" image="">
+		<description>GeoQuiz (USA)</description>
+		<cloneof></cloneof>
+		<crc>4E280B67</crc>
+		<manufacturer>PC Globe</manufacturer>
+		<year>1990</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Express Atlas (USA) (Disk 1)" index="" image="">
+		<description>Global Express Atlas (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>585894EF</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Express Atlas (USA) (Disk 2)" index="" image="">
+		<description>Global Express Atlas (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>7845F4EC</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Express Atlas (USA) (Disk 3)" index="" image="">
+		<description>Global Express Atlas (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>EF52682A</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Express Atlas (USA) (Disk 4)" index="" image="">
+		<description>Global Express Atlas (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>672F35B1</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Global Express Atlas (USA) (Disk 5)" index="" image="">
+		<description>Global Express Atlas (USA) (Disk 5)</description>
+		<cloneof></cloneof>
+		<crc>FE049DA7</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gnarly Golf (USA) (Disk 1)" index="" image="">
+		<description>Gnarly Golf (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>18EABB8A</crc>
+		<manufacturer>Fanfare</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gnarly Golf (USA) (Disk 2)" index="" image="">
+		<description>Gnarly Golf (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>817DB130</crc>
+		<manufacturer>Fanfare</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Of The Americas (USA)" index="" image="">
+		<description>Gold Of The Americas (USA)</description>
+		<cloneof></cloneof>
+		<crc>F8E2303C</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Rush (USA) (Disk 1)" index="" image="">
+		<description>Gold Rush (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B5953E2E</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Rush (USA) (Disk 2)" index="" image="">
+		<description>Gold Rush (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>705E2FA2</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Rush (USA) (Disk 3)" index="" image="">
+		<description>Gold Rush (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>A97DE55A</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Rush (USA) (Disk 4)" index="" image="">
+		<description>Gold Rush (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>52DFC8C0</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix Circuit (USA)" index="" image="">
+		<description>Grand Prix Circuit (USA)</description>
+		<cloneof></cloneof>
+		<crc>E32BCFC5</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Western Shootout (USA)" index="" image="">
+		<description>Great Western Shootout (USA)</description>
+		<cloneof></cloneof>
+		<crc>6C902A61</crc>
+		<manufacturer>Britannica - Fanfare</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grizzly Bears (USA) (Disk 1)" index="" image="">
+		<description>Grizzly Bears (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>4F3C544A</crc>
+		<manufacturer>Advanced Ideas Inc.</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grizzly Bears (USA) (Disk 2)" index="" image="">
+		<description>Grizzly Bears (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D14B4D14</crc>
+		<manufacturer>Advanced Ideas Inc.</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hacker II (USA)" index="true" image="h">
+		<description>Hacker II (USA)</description>
+		<cloneof></cloneof>
+		<crc>46F19E39</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Halls of Montezuma (USA) (Disk 1)" index="" image="">
+		<description>Halls of Montezuma (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>68D4E74E</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Halls of Montezuma (USA) (Disk 2)" index="" image="">
+		<description>Halls of Montezuma (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>DFEA24DE</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hardball! (USA)" index="" image="">
+		<description>Hardball! (USA)</description>
+		<cloneof></cloneof>
+		<crc>E48830FD</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hostage (USA)" index="" image="">
+		<description>Hostage (USA)</description>
+		<cloneof></cloneof>
+		<crc>53446DA4</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hover Blade (USA) (Disk 1)" index="" image="">
+		<description>Hover Blade (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>EDC68C83</crc>
+		<manufacturer>MCX</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hover Blade (USA) (Disk 2)" index="" image="">
+		<description>Hover Blade (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>70FB1D0A</crc>
+		<manufacturer>MCX</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hunt For Red October (USA)" index="" image="">
+		<description>Hunt For Red October (USA)</description>
+		<cloneof></cloneof>
+		<crc>E3E38968</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Immortal, The (USA) (Disk 1)" index="true" image="i">
+		<description>Immortal, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>48A2DCAE</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Immortal, The (USA) (Disk 2)" index="" image="">
+		<description>Immortal, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>E2CEB345</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Impossible Mission II (USA)" index="" image="">
+		<description>Impossible Mission II (USA)</description>
+		<cloneof></cloneof>
+		<crc>9CA2A813</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 1) (Game)" index="true" image="j">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 1) (Game)</description>
+		<cloneof></cloneof>
+		<crc>1EE685F0</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 2) (Course 1)" index="" image="">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 2) (Course 1)</description>
+		<cloneof></cloneof>
+		<crc>E4877BD0</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 3) (Course 2)" index="" image="">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 3) (Course 2)</description>
+		<cloneof></cloneof>
+		<crc>09030217</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 4) (Course 3)" index="" image="">
+		<description>Jack Nicklaus Greatest 18 Holes of Major Championship Golf (USA) (Disk 4) (Course 3)</description>
+		<cloneof></cloneof>
+		<crc>EDD84066</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jigsaw (USA) (Disk 1)" index="" image="">
+		<description>Jigsaw (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>51861361</crc>
+		<manufacturer>Britannica Software</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jigsaw (USA) (Disk 2)" index="" image="">
+		<description>Jigsaw (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>1ACD0FB4</crc>
+		<manufacturer>Britannica Software</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Elway&apos;s Quarterback (USA)" index="" image="">
+		<description>John Elway&apos;s Quarterback (USA)</description>
+		<cloneof></cloneof>
+		<crc>13ECF50F</crc>
+		<manufacturer>Melbourne House</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kaleidokubes (USA)" index="true" image="k">
+		<description>Kaleidokubes (USA)</description>
+		<cloneof></cloneof>
+		<crc>7422EA94</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keef The Thief (USA) (Disk 1)" index="" image="">
+		<description>Keef The Thief (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>3A049949</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Keef The Thief (USA) (Disk 2)" index="" image="">
+		<description>Keef The Thief (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>3148129E</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kinderama (USA) (Disk 1)" index="" image="">
+		<description>Kinderama (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>F8759767</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kinderama (USA) (Disk 2)" index="" image="">
+		<description>Kinderama (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>356F8B75</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Chicago, The (USA) (Disk 1)" index="" image="">
+		<description>King of Chicago, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>D4427CCE</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Chicago, The (USA) (Disk 2)" index="" image="">
+		<description>King of Chicago, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4493AD03</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest - Quest for the Crown (USA) (Disk 1)" index="" image="">
+		<description>King&apos;s Quest - Quest for the Crown (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>E39848BD</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest - Quest for the Crown (USA) (Disk 2)" index="" image="">
+		<description>King&apos;s Quest - Quest for the Crown (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>24C192E2</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest II - Romancing The Throne (USA) (Disk 1)" index="" image="">
+		<description>King&apos;s Quest II - Romancing The Throne (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>DCB9A927</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest II - Romancing The Throne (USA) (Disk 2)" index="" image="">
+		<description>King&apos;s Quest II - Romancing The Throne (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>CA9F6588</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest III - To Heir is Human (USA) (Disk 1)" index="" image="">
+		<description>King&apos;s Quest III - To Heir is Human (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>BAAC92F1</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest III - To Heir is Human (USA) (Disk 2)" index="" image="">
+		<description>King&apos;s Quest III - To Heir is Human (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>154F9998</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 1)" index="" image="">
+		<description>King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>2927459F</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 2)" index="" image="">
+		<description>King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D271E052</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 3)" index="" image="">
+		<description>King&apos;s Quest IV - The Perils of Rosella (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>3B1340E1</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of the Unicorn (USA) (Disk 1)" index="true" image="l">
+		<description>Land of the Unicorn (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B3B9DBA3</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of the Unicorn (USA) (Disk 2)" index="" image="">
+		<description>Land of the Unicorn (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>51951D03</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of the Unicorn (USA) (Disk 3)" index="" image="">
+		<description>Land of the Unicorn (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>D65A159F</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Land of the Unicorn (USA) (Disk 4)" index="" image="">
+		<description>Land of the Unicorn (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>C36E084F</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laser Force (USA)" index="" image="">
+		<description>Laser Force (USA)</description>
+		<cloneof></cloneof>
+		<crc>6FBC12E0</crc>
+		<manufacturer>Fanfare</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Last Ninja, The (USA)" index="" image="">
+		<description>Last Ninja, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3D36AE7</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leisure Suit Larry In The Land of The Lounge Wizard (USA) (Disk 1)" index="" image="">
+		<description>Leisure Suit Larry In The Land of The Lounge Wizard (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B9A7A38B</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Leisure Suit Larry In The Land of The Lounge Wizard (USA) (Disk 2)" index="" image="">
+		<description>Leisure Suit Larry In The Land of The Lounge Wizard (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>E8EE8CD1</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lemmings (1996) (USA)" index="" image="">
+		<description>Lemmings (1996) (USA)</description>
+		<cloneof></cloneof>
+		<crc>87F3BCC7</crc>
+		<manufacturer>Psyognosis</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Life &amp; Death (USA) (Disk 1)" index="" image="">
+		<description>Life &amp; Death (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>26A051BE</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Life &amp; Death (USA) (Disk 2)" index="" image="">
+		<description>Life &amp; Death (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>1CB8375A</crc>
+		<manufacturer>The Software Toolworks</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 1)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>86571CB0</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 2)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>03B5B050</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 3)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>AE169D03</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 4)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>29C48CD8</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 5)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 5)</description>
+		<cloneof></cloneof>
+		<crc>82509294</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 6)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 6)</description>
+		<cloneof></cloneof>
+		<crc>937678A4</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Treasures of Infocom (USA) (Disk 7)" index="" image="">
+		<description>Lost Treasures of Infocom (USA) (Disk 7)</description>
+		<cloneof></cloneof>
+		<crc>2020EEB5</crc>
+		<manufacturer>Infocom</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Tribe, The (USA) (Disk 1)" index="" image="">
+		<description>Lost Tribe, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>5E6247BC</crc>
+		<manufacturer>Lawrence Productions</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Tribe, The (USA) (Disk 2)" index="" image="">
+		<description>Lost Tribe, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>1FE47CB4</crc>
+		<manufacturer>Lawrence Productions</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost Tribe, The (USA) (Disk 3)" index="" image="">
+		<description>Lost Tribe, The (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>3DAC4DEF</crc>
+		<manufacturer>Lawrence Productions</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mad Match (USA)" index="true" image="m">
+		<description>Mad Match (USA)</description>
+		<cloneof></cloneof>
+		<crc>5CF9D8F3</crc>
+		<manufacturer>Baudville</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Johnson&apos;s Basketball (USA) (Proto)" index="" image="">
+		<description>Magic Johnson&apos;s Basketball (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>D8976D49</crc>
+		<manufacturer>Melbourne House</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Myths (USA) (Disk 1)" index="" image="">
+		<description>Magical Myths (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>0C0ACE78</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magical Myths (USA) (Disk 2)" index="" image="">
+		<description>Magical Myths (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>BF41AB59</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mancala (USA)" index="" image="">
+		<description>Mancala (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B118974</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 1)" index="" image="">
+		<description>Manhunter - New York (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>EE07AB81</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 2)" index="" image="">
+		<description>Manhunter - New York (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>FDBBC81D</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 3)" index="" image="">
+		<description>Manhunter - New York (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>6F919F07</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manhunter - New York (USA) (Disk 4)" index="" image="">
+		<description>Manhunter - New York (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>D5961E81</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marble Madness (USA)" index="" image="">
+		<description>Marble Madness (USA)</description>
+		<cloneof></cloneof>
+		<crc>C0342573</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Marbleaire (USA)" index="" image="">
+		<description>Marbleaire (USA)</description>
+		<cloneof></cloneof>
+		<crc>E5B581FD</crc>
+		<manufacturer>SoftDisk Publishing</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math and Me (USA)" index="" image="">
+		<description>Math and Me (USA)</description>
+		<cloneof></cloneof>
+		<crc>F254C619</crc>
+		<manufacturer>Davidson and Associates</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Blaster Plus (USA)" index="" image="">
+		<description>Math Blaster Plus (USA)</description>
+		<cloneof></cloneof>
+		<crc>4BE1DB93</crc>
+		<manufacturer>Davidson and Associates</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Wizard (USA) (Disk 1)" index="" image="">
+		<description>Math Wizard (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>29D5CD96</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Wizard (USA) (Disk 2)" index="" image="">
+		<description>Math Wizard (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>42BEF2FC</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MathTalk (USA)" index="" image="">
+		<description>MathTalk (USA)</description>
+		<cloneof></cloneof>
+		<crc>793462BC</crc>
+		<manufacturer>First Byte</manufacturer>
+		<year>1987</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MathTalk Fractions (USA)" index="" image="">
+		<description>MathTalk Fractions (USA)</description>
+		<cloneof></cloneof>
+		<crc>E15E0C7C</crc>
+		<manufacturer>First Byte</manufacturer>
+		<year>1987</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mazer II (USA)" index="" image="">
+		<description>Mazer II (USA)</description>
+		<cloneof></cloneof>
+		<crc>F599BE6D</crc>
+		<manufacturer>Big Red Computer Club</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mean 18 (USA) (Disk 1)" index="" image="">
+		<description>Mean 18 (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>FE4B5C24</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mean 18 (USA) (Disk 2) (Famous Courses Volume 2)" index="" image="">
+		<description>Mean 18 (USA) (Disk 2) (Famous Courses Volume 2)</description>
+		<cloneof></cloneof>
+		<crc>620046D4</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mean 18 (USA) (Disk 3) (Famous Courses Volume 3)" index="" image="">
+		<description>Mean 18 (USA) (Disk 3) (Famous Courses Volume 3)</description>
+		<cloneof></cloneof>
+		<crc>6EE74610</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mean 18 (USA) (Disk 4) (Famous Courses Volume 4)" index="" image="">
+		<description>Mean 18 (USA) (Disk 4) (Famous Courses Volume 4)</description>
+		<cloneof></cloneof>
+		<crc>70039EFA</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Marvel Vs The Forces of E.V.I.L. (USA) (Disk 1)" index="" image="">
+		<description>Mighty Marvel Vs The Forces of E.V.I.L. (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>07F50A16</crc>
+		<manufacturer>ISM</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Marvel Vs The Forces of E.V.I.L. (USA) (Disk 2)" index="" image="">
+		<description>Mighty Marvel Vs The Forces of E.V.I.L. (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>264A14F3</crc>
+		<manufacturer>ISM</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Milestones 2000 (USA) (Unl)" index="" image="">
+		<description>Milestones 2000 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2F3E9893</crc>
+		<manufacturer>Franklin, Ken</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mini Prix (France) (Unl)" index="" image="">
+		<description>Mini Prix (France) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>656D1D34</crc>
+		<manufacturer>Free Tools Association</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mini Putt - The Ultimate Challenge (USA)" index="" image="">
+		<description>Mini Putt - The Ultimate Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>656FB43A</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mixed Up Mother Goose (USA) (Disk 1)" index="" image="">
+		<description>Mixed Up Mother Goose (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>1CE35432</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mixed Up Mother Goose (USA) (Disk 2)" index="" image="">
+		<description>Mixed Up Mother Goose (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>CE85A507</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monte Carlo (USA)" index="" image="">
+		<description>Monte Carlo (USA)</description>
+		<cloneof></cloneof>
+		<crc>038D1292</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1988</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neuromancer (USA)" index="true" image="n">
+		<description>Neuromancer (USA)</description>
+		<cloneof></cloneof>
+		<crc>6AF45880</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Omega (USA)" index="true" image="o">
+		<description>Omega (USA)</description>
+		<cloneof></cloneof>
+		<crc>24A26709</crc>
+		<manufacturer>Origin</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="One Arm Battle (USA) (Unl)" index="" image="">
+		<description>One Arm Battle (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F27B361E</crc>
+		<manufacturer>Franklin, Ken</manufacturer>
+		<year>1990</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orbizone (USA) (Disk 1) (Unl)" index="" image="">
+		<description>Orbizone (USA) (Disk 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>3666E623</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orbizone (USA) (Disk 2) (Templates 1) (Unl)" index="" image="">
+		<description>Orbizone (USA) (Disk 2) (Templates 1) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>64C8A486</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orbizone (USA) (Disk 3) (Templates 2) (Unl)" index="" image="">
+		<description>Orbizone (USA) (Disk 3) (Templates 2) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>04EE6701</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out of This World (USA) (Disk 1)" index="" image="">
+		<description>Out of This World (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>31446B40</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out of This World (USA) (Disk 2)" index="" image="">
+		<description>Out of This World (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D907225D</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pangea&apos;s 24 Hour Games (USA) (Unl)" index="true" image="p">
+		<description>Pangea&apos;s 24 Hour Games (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1D19D90C</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1989</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Panzer Battles (USA) (Disk 1)" index="" image="">
+		<description>Panzer Battles (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>A0C2FECE</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Panzer Battles (USA) (Disk 2)" index="" image="">
+		<description>Panzer Battles (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>52023204</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paperboy (USA)" index="" image="">
+		<description>Paperboy (USA)</description>
+		<cloneof></cloneof>
+		<crc>90EFE8BD</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pick&apos;n Pile (USA)" index="" image="">
+		<description>Pick&apos;n Pile (USA)</description>
+		<cloneof></cloneof>
+		<crc>E87FDC39</crc>
+		<manufacturer>Procyon</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinball Wizard (USA) (Proto)" index="" image="">
+		<description>Pinball Wizard (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>27AC1604</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pipe Dream (USA)" index="" image="">
+		<description>Pipe Dream (USA)</description>
+		<cloneof></cloneof>
+		<crc>48C26E20</crc>
+		<manufacturer>Lucasfilm Games</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates! (USA)" index="" image="">
+		<description>Pirates! (USA)</description>
+		<cloneof></cloneof>
+		<crc>AC9BEC98</crc>
+		<manufacturer>Microprose</manufacturer>
+		<year>1988</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plotting (USA) (Unl)" index="" image="">
+		<description>Plotting (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>B39A9A4A</crc>
+		<manufacturer>Once Product</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plunder (USA) (Unl)" index="" image="">
+		<description>Plunder (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1D7E5C3D</crc>
+		<manufacturer>Franklin, Ken</manufacturer>
+		<year>1990</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Police Quest (USA) (Disk 1)" index="" image="">
+		<description>Police Quest (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B117CB97</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Police Quest (USA) (Disk 2)" index="" image="">
+		<description>Police Quest (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>2FB33042</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puzznic (USA) (Proto)" index="" image="">
+		<description>Puzznic (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>1ABC8791</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Qix (USA)" index="true" image="q">
+		<description>Qix (USA)</description>
+		<cloneof></cloneof>
+		<crc>CA327126</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest for the Hoard (USA) (Unl)" index="" image="">
+		<description>Quest for the Hoard (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6111F684</crc>
+		<manufacturer>Pegasoft</manufacturer>
+		<year>1991</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questmaster I - The Prism of Heheutotol (USA) (Disk 1)" index="" image="">
+		<description>Questmaster I - The Prism of Heheutotol (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B4F59B53</crc>
+		<manufacturer>Miles Computing</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questmaster I - The Prism of Heheutotol (USA) (Disk 2)" index="" image="">
+		<description>Questmaster I - The Prism of Heheutotol (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>78FB087C</crc>
+		<manufacturer>Miles Computing</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questmaster I - The Prism of Heheutotol (USA) (Disk 3)" index="" image="">
+		<description>Questmaster I - The Prism of Heheutotol (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>8921CD8C</crc>
+		<manufacturer>Miles Computing</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Questron II (USA)" index="" image="">
+		<description>Questron II (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7388D2C</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rastan (USA) (US) (Disk 1)" index="true" image="r">
+		<description>Rastan (USA) (US) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>FF74FA9B</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rastan (USA) (US) (Disk 2)" index="" image="">
+		<description>Rastan (USA) (US) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4AD2A826</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reach For The Stars (USA)" index="" image="">
+		<description>Reach For The Stars (USA)</description>
+		<cloneof></cloneof>
+		<crc>F399D97C</crc>
+		<manufacturer>SSG</manufacturer>
+		<year>1988</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Read &amp; Rhyme (USA) (Disk 1)" index="" image="">
+		<description>Read &amp; Rhyme (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>BDBE9E0D</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Read &amp; Rhyme (USA) (Disk 2)" index="" image="">
+		<description>Read &amp; Rhyme (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>8AE94E23</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reader Rabbit (USA)" index="" image="">
+		<description>Reader Rabbit (USA)</description>
+		<cloneof></cloneof>
+		<crc>F7F762E7</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>1987</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revolution &apos;76 (USA) (Disk 1)" index="" image="">
+		<description>Revolution &apos;76 (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>80ADE76B</crc>
+		<manufacturer>Britannica Software</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revolution &apos;76 (USA) (Disk 2)" index="" image="">
+		<description>Revolution &apos;76 (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>266680ED</crc>
+		<manufacturer>Britannica Software</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revolution &apos;76 (USA) (Disk 3)" index="" image="">
+		<description>Revolution &apos;76 (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>E4BBC191</crc>
+		<manufacturer>Britannica Software</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roadwar 2000 (USA)" index="" image="">
+		<description>Roadwar 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>E9A4484B</crc>
+		<manufacturer>SSI</manufacturer>
+		<year>1987</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Ranger (USA) (Disk 1)" index="" image="">
+		<description>Rocket Ranger (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>D1BEF920</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Ranger (USA) (Disk 2)" index="" image="">
+		<description>Rocket Ranger (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>C934BD55</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sea Strike (USA)" index="true" image="s">
+		<description>Sea Strike (USA)</description>
+		<cloneof></cloneof>
+		<crc>545061FD</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secrets of Bahras, The (USA) (Disk 1)" index="" image="">
+		<description>Secrets of Bahras, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>DE4441E6</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secrets of Bahras, The (USA) (Disk 2)" index="" image="">
+		<description>Secrets of Bahras, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D0723C0E</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Secrets of Bahras, The (USA) (Disk 3)" index="" image="">
+		<description>Secrets of Bahras, The (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>25847AF0</crc>
+		<manufacturer>Victory Software</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sensei (USA) (Unl)" index="" image="">
+		<description>Sensei (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F623510C</crc>
+		<manufacturer>Miami Software</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Senseless Violence 1 &amp; 2 (USA) (Unl)" index="" image="">
+		<description>Senseless Violence 1 &amp; 2 (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>31AA66B5</crc>
+		<manufacturer>Pangea Software</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serve &amp; Volley (USA)" index="" image="">
+		<description>Serve &amp; Volley (USA)</description>
+		<cloneof></cloneof>
+		<crc>D293AC1A</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shadowgate (USA)" index="" image="">
+		<description>Shadowgate (USA)</description>
+		<cloneof></cloneof>
+		<crc>44B40D34</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai (USA)" index="" image="">
+		<description>Shanghai (USA)</description>
+		<cloneof></cloneof>
+		<crc>4480351C</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai II - Dragon&apos;s Eye (USA) (Disk 1)" index="" image="">
+		<description>Shanghai II - Dragon&apos;s Eye (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>25273437</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai II - Dragon&apos;s Eye (USA) (Disk 2)" index="" image="">
+		<description>Shanghai II - Dragon&apos;s Eye (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>2AD380FF</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shufflepuck Cafe (USA) (Proto)" index="" image="">
+		<description>Shufflepuck Cafe (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>E3D67CBD</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silent Service (USA)" index="" image="">
+		<description>Silent Service (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E8ECBC0</crc>
+		<manufacturer>Microprose</manufacturer>
+		<year>1987</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silpheed (USA) (Disk 1)" index="" image="">
+		<description>Silpheed (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>83062F65</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silpheed (USA) (Disk 2)" index="" image="">
+		<description>Silpheed (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>B94BB008</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinbad And The Throne of The Falcon (USA) (Disk 1)" index="" image="">
+		<description>Sinbad And The Throne of The Falcon (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>6120C7AE</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinbad And The Throne of The Falcon (USA) (Disk 2)" index="" image="">
+		<description>Sinbad And The Throne of The Falcon (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4EEFB500</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skate Or Die (USA)" index="" image="">
+		<description>Skate Or Die (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E49F71C</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Skateboarding</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solarian (USA) (Unl)" index="" image="">
+		<description>Solarian (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9716EF25</crc>
+		<manufacturer>Coloreez</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solitaire &amp; Cribbage (USA)" index="" image="">
+		<description>Solitaire &amp; Cribbage (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB046F83</crc>
+		<manufacturer>Computrek Software</manufacturer>
+		<year>1990</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solitaire Royale (USA)" index="" image="">
+		<description>Solitaire Royale (USA)</description>
+		<cloneof></cloneof>
+		<crc>50D6F131</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 1)" index="" image="">
+		<description>Space Ace (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>395C1A1A</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 2)" index="" image="">
+		<description>Space Ace (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>14FEF9B1</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 3)" index="" image="">
+		<description>Space Ace (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>6444A933</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 4)" index="" image="">
+		<description>Space Ace (USA) (Disk 4)</description>
+		<cloneof></cloneof>
+		<crc>89C90589</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 5)" index="" image="">
+		<description>Space Ace (USA) (Disk 5)</description>
+		<cloneof></cloneof>
+		<crc>C678A293</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 6)" index="" image="">
+		<description>Space Ace (USA) (Disk 6)</description>
+		<cloneof></cloneof>
+		<crc>CC2FF584</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 7)" index="" image="">
+		<description>Space Ace (USA) (Disk 7)</description>
+		<cloneof></cloneof>
+		<crc>C8C6F12F</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 8)" index="" image="">
+		<description>Space Ace (USA) (Disk 8)</description>
+		<cloneof></cloneof>
+		<crc>2BDE2751</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Ace (USA) (Disk 9)" index="" image="">
+		<description>Space Ace (USA) (Disk 9)</description>
+		<cloneof></cloneof>
+		<crc>77B00239</crc>
+		<manufacturer>ReadySoft</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Cluster (USA) (Unl)" index="" image="">
+		<description>Space Cluster (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>99949336</crc>
+		<manufacturer>Miami Software</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Fox (USA)" index="" image="">
+		<description>Space Fox (USA)</description>
+		<cloneof></cloneof>
+		<crc>5498FA99</crc>
+		<manufacturer>Seven Hills Software</manufacturer>
+		<year>1992</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Quest I - The Sarien Encounter (USA) (Disk 1)" index="" image="">
+		<description>Space Quest I - The Sarien Encounter (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>973A16D6</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Quest I - The Sarien Encounter (USA) (Disk 2)" index="" image="">
+		<description>Space Quest I - The Sarien Encounter (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D49D52B7</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Quest II - Vohaul&apos;s Revenge (USA) (Disk 1)" index="" image="">
+		<description>Space Quest II - Vohaul&apos;s Revenge (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>052A2DD9</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Quest II - Vohaul&apos;s Revenge (USA) (Disk 2)" index="" image="">
+		<description>Space Quest II - Vohaul&apos;s Revenge (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>28FF830B</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Shark (USA)" index="" image="">
+		<description>Space Shark (USA)</description>
+		<cloneof></cloneof>
+		<crc>030C7675</crc>
+		<manufacturer>Toolbox</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Shuttle Word Problems (USA)" index="" image="">
+		<description>Space Shuttle Word Problems (USA)</description>
+		<cloneof></cloneof>
+		<crc>B4F2D437</crc>
+		<manufacturer>Orange Cherry</manufacturer>
+		<year>1991</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirit of Excalibur (USA) (Disk 1)" index="" image="">
+		<description>Spirit of Excalibur (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>4EE2AB5F</crc>
+		<manufacturer>Virgin Mastertronic</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirit of Excalibur (USA) (Disk 2)" index="" image="">
+		<description>Spirit of Excalibur (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>272E9259</crc>
+		<manufacturer>Virgin Mastertronic</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirit of Excalibur (USA) (Disk 3)" index="" image="">
+		<description>Spirit of Excalibur (USA) (Disk 3)</description>
+		<cloneof></cloneof>
+		<crc>0F98A7CC</crc>
+		<manufacturer>Virgin Mastertronic</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Saga One - Beyond the Boundary (USA)" index="" image="">
+		<description>Star Saga One - Beyond the Boundary (USA)</description>
+		<cloneof></cloneof>
+		<crc>B54D36D5</crc>
+		<manufacturer>MasterPlay</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Saga Two - The Clathran Menance (USA)" index="" image="">
+		<description>Star Saga Two - The Clathran Menance (USA)</description>
+		<cloneof></cloneof>
+		<crc>BCCCD756</crc>
+		<manufacturer>MasterPlay</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wizard (USA)" index="" image="">
+		<description>Star Wizard (USA)</description>
+		<cloneof></cloneof>
+		<crc>37347C41</crc>
+		<manufacturer>-</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Sports Soccer (USA)" index="" image="">
+		<description>Street Sports Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>AAA72CEA</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 1)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>22862A31</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 2) (Data 1)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 2) (Data 1)</description>
+		<cloneof></cloneof>
+		<crc>0F2E510D</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 3) (Data 2)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 3) (Data 2)</description>
+		<cloneof></cloneof>
+		<crc>CF1D2431</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 4) (Data 3)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 4) (Data 3)</description>
+		<cloneof></cloneof>
+		<crc>A2ADAECE</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 5) (Data 4)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 5) (Data 4)</description>
+		<cloneof></cloneof>
+		<crc>F4B9C5AB</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strip Poker II (USA) (Disk 6) (Data 5)" index="" image="">
+		<description>Strip Poker II (USA) (Disk 6) (Data 5)</description>
+		<cloneof></cloneof>
+		<crc>B553E85E</crc>
+		<manufacturer>Artworx</manufacturer>
+		<year>1987</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sub Battle Simulator (USA)" index="" image="">
+		<description>Sub Battle Simulator (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E0C470F</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1987</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Subversion (USA)" index="" image="">
+		<description>Subversion (USA)</description>
+		<cloneof></cloneof>
+		<crc>ED04AF57</crc>
+		<manufacturer>Point of View Computing</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superstar Ice Hockey (USA)" index="" image="">
+		<description>Superstar Ice Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D8EF3E1</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Task Force (USA) (Disk 1)" index="true" image="t">
+		<description>Task Force (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>BC60614E</crc>
+		<manufacturer>Fanfare</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Task Force (USA) (Disk 2)" index="" image="">
+		<description>Task Force (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>BBFF6D1A</crc>
+		<manufacturer>Fanfare</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tass Times In Tonetown (USA)" index="" image="">
+		<description>Tass Times In Tonetown (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF7674FF</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1986</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teenage Queen (USA) (Proto)" index="" image="">
+		<description>Teenage Queen (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>7FA58FE6</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA) (Disk 1)" index="" image="">
+		<description>Test Drive II - The Duel (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>6A5D7430</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA) (Disk 2) (Super Cars)" index="" image="">
+		<description>Test Drive II - The Duel (USA) (Disk 2) (Super Cars)</description>
+		<cloneof></cloneof>
+		<crc>988D3563</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA) (Disk 3) (Muscle Cars)" index="" image="">
+		<description>Test Drive II - The Duel (USA) (Disk 3) (Muscle Cars)</description>
+		<cloneof></cloneof>
+		<crc>61BE1EF2</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA) (Disk 4) (European Scenario)" index="" image="">
+		<description>Test Drive II - The Duel (USA) (Disk 4) (European Scenario)</description>
+		<cloneof></cloneof>
+		<crc>FCCA63E7</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Test Drive II - The Duel (USA) (Disk 5) (California Scenario)" index="" image="">
+		<description>Test Drive II - The Duel (USA) (Disk 5) (California Scenario)</description>
+		<cloneof></cloneof>
+		<crc>72A8BC47</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (USA)" index="" image="">
+		<description>Tetris (USA)</description>
+		<cloneof></cloneof>
+		<crc>9EC4651E</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thexder (USA)" index="" image="">
+		<description>Thexder (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D763708</crc>
+		<manufacturer>Sierra</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Third Courier, The (USA) (Disk 1)" index="" image="">
+		<description>Third Courier, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>6F9F2DAF</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Third Courier, The (USA) (Disk 2)" index="" image="">
+		<description>Third Courier, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>F04CFE56</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1989</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Stooges, The (USA) (Disk 1)" index="" image="">
+		<description>Three Stooges, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>2530745B</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Stooges, The (USA) (Disk 2)" index="" image="">
+		<description>Three Stooges, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>190B8D64</crc>
+		<manufacturer>Cinemaware</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tinies, The (USA) (Unl)" index="" image="">
+		<description>Tinies, The (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5D7CF524</crc>
+		<manufacturer>Brutal Deluxe</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomahawk (USA) (Disk 1)" index="" image="">
+		<description>Tomahawk (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>0EA08BA7</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1988</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomahawk (USA) (Disk 2)" index="" image="">
+		<description>Tomahawk (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>9B2BD3C1</crc>
+		<manufacturer>Datasoft</manufacturer>
+		<year>1988</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower of Myraglen, The (USA) (Disk 1)" index="" image="">
+		<description>Tower of Myraglen, The (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>F7B49459</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower of Myraglen, The (USA) (Disk 2)" index="" image="">
+		<description>Tower of Myraglen, The (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>CF23A2D6</crc>
+		<manufacturer>PBI Software</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transylvania III (USA) (Disk 1)" index="" image="">
+		<description>Transylvania III (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>B8B51EC7</crc>
+		<manufacturer>Polarware</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transylvania III (USA) (Disk 2)" index="" image="">
+		<description>Transylvania III (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>E48BE186</crc>
+		<manufacturer>Polarware</manufacturer>
+		<year>1990</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triango (USA)" index="" image="">
+		<description>Triango (USA)</description>
+		<cloneof></cloneof>
+		<crc>6845BBFD</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1988</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tunnels of Armageddon (USA)" index="" image="">
+		<description>Tunnels of Armageddon (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F41A31E</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uninvited (USA)" index="true" image="u">
+		<description>Uninvited (USA)</description>
+		<cloneof></cloneof>
+		<crc>A2F6378F</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Craps (USA)" index="true" image="v">
+		<description>Vegas Craps (USA)</description>
+		<cloneof></cloneof>
+		<crc>6BE60F90</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1988</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Gambler (USA)" index="" image="">
+		<description>Vegas Gambler (USA)</description>
+		<cloneof></cloneof>
+		<crc>F379C752</crc>
+		<manufacturer>California Dreams</manufacturer>
+		<year>1988</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vindicators (USA) (Proto)" index="" image="">
+		<description>Vindicators (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>1293D99B</crc>
+		<manufacturer>Tengen - Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Volcanoes Deluxe (USA)" index="" image="">
+		<description>Volcanoes Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>09518649</crc>
+		<manufacturer>Earthware Services</manufacturer>
+		<year>1988</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War In Middle Earth (USA) (Disk 1)" index="true" image="w">
+		<description>War In Middle Earth (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>D4A30B8D</crc>
+		<manufacturer>Melbourne House</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War In Middle Earth (USA) (Disk 2)" index="" image="">
+		<description>War In Middle Earth (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>4E201B60</crc>
+		<manufacturer>Melbourne House</manufacturer>
+		<year>1989</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Warlock (USA)" index="" image="">
+		<description>Warlock (USA)</description>
+		<cloneof></cloneof>
+		<crc>6E01304D</crc>
+		<manufacturer>Three Sixty</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whales (USA) (Disk 1)" index="" image="">
+		<description>Whales (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>DABA3B9E</crc>
+		<manufacturer>Advanced Ideas Inc.</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whales (USA) (Disk 2)" index="" image="">
+		<description>Whales (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D2654D74</crc>
+		<manufacturer>Advanced Ideas Inc.</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wheel of Fortune (USA) (Unl)" index="" image="">
+		<description>Wheel of Fortune (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E4A91D16</crc>
+		<manufacturer>Rambeau</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in the USA is Carmen Sandiego (USA) (Disk 1)" index="" image="">
+		<description>Where in the USA is Carmen Sandiego (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>685ADDC9</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1990</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in the USA is Carmen Sandiego (USA) (Disk 2)" index="" image="">
+		<description>Where in the USA is Carmen Sandiego (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>D43580E7</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1990</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where in the World is Carmen Sandiego (USA)" index="" image="">
+		<description>Where in the World is Carmen Sandiego (USA)</description>
+		<cloneof></cloneof>
+		<crc>17AF4931</crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Windwalker (USA) (Disk 1)" index="" image="">
+		<description>Windwalker (USA) (Disk 1)</description>
+		<cloneof></cloneof>
+		<crc>A4F7757F</crc>
+		<manufacturer>Origin</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Windwalker (USA) (Disk 2)" index="" image="">
+		<description>Windwalker (USA) (Disk 2)</description>
+		<cloneof></cloneof>
+		<crc>E0C8FA41</crc>
+		<manufacturer>Origin</manufacturer>
+		<year>1990</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Winter Games (USA)" index="" image="">
+		<description>Winter Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>E467F029</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Olympic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wolfenstein 3D (USA) (Unl)" index="" image="">
+		<description>Wolfenstein 3D (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E9B16647</crc>
+		<manufacturer>Logicware</manufacturer>
+		<year>1997</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Master (USA)" index="" image="">
+		<description>Word Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>24FD8822</crc>
+		<manufacturer>Unicorn Software</manufacturer>
+		<year>1989</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Games (USA)" index="" image="">
+		<description>World Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>A93EC647</crc>
+		<manufacturer>Epyx</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Olympic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Tour Golf (USA)" index="" image="">
+		<description>World Tour Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>05988B6D</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenocide (USA)" index="true" image="x">
+		<description>Xenocide (USA)</description>
+		<cloneof></cloneof>
+		<crc>8CBABBFE</crc>
+		<manufacturer>Micro Revelations</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zany Golf (USA)" index="true" image="z">
+		<description>Zany Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>6612959A</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

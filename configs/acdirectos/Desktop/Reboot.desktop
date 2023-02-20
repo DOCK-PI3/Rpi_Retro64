@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Reboot
+Comment=Reboot ,shutdown -r now ,reiniciar
+Exec=sudo reboot
+Icon=xfsm-reboot
+Path=
+Terminal=false
+StartupNotify=false

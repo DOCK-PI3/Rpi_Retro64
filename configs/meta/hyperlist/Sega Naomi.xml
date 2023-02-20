@@ -1,0 +1,2289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Naomi</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>0.7a Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="18wheelr" index="true" image="1">
+		<description>18 Wheeler (Deluxe) (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="18wheels" index="" image="">
+		<description>18 Wheeler (Standart)</description>
+		<cloneof>18wheelr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="18wheelu" index="" image="">
+		<description>18 Wheeler (Upright)</description>
+		<cloneof>18wheelr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpilota" index="true" image="a">
+		<description>Airline Pilots (Rev. A)</description>
+		<cloneof>alpiltdx</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpiltdx" index="" image="">
+		<description>Airline Pilots Deluxe (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ausfache" index="" image="">
+		<description>Akatsuki Blitzkampf Ausf. Achse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Subtle Style</manufacturer>
+		<year>2008</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alienfnta" index="" image="">
+		<description>Alien Front (Rev. A)</description>
+		<cloneof>alienfnt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alienfnt" index="" image="">
+		<description>Alien Front (Rev. T)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asndynmt" index="" image="">
+		<description>Asian Dynamite / Dynamite Deka EX</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="azumanga" index="" image="">
+		<description>Azumanga Daioh Puzzle Bobble (GDL-0018)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Moss</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="beachspi" index="true" image="b">
+		<description>Beach Spikers (GDS-0014)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Volleyball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bdrdown" index="" image="">
+		<description>Border Down (Rev. A) (GDL-0023A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brickppl" index="" image="">
+		<description>Brick People / Block PeePoo (Ver 1.002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cspike" index="true" image="c">
+		<description>Cannon Spike / Gun Spike</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo / Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cvs2gd" index="" image="">
+		<description>Capcom vs SNK 2 Millionaire Fighting 2001 (Rev. A) (GDL-0007A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cvsgd" index="" image="">
+		<description>Capcom vs SNK Millenium Fight 2000 Pro (GDL-0004)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capsnkb" index="" image="">
+		<description>Capcom Vs. SNK Millennium Fight 2000</description>
+		<cloneof>capsnk</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capsnka" index="" image="">
+		<description>Capcom Vs. SNK Millennium Fight 2000 (Rev. A)</description>
+		<cloneof>capsnk</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capsnk" index="" image="">
+		<description>Capcom Vs. SNK Millennium Fight 2000 (Rev. C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / SNK</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cfield" index="" image="">
+		<description>Chaos Field (GDL-0025)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Able</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cleoftp" index="" image="">
+		<description>Cleopatra Fortune Plus (GDL-0012)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Altron</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubkcyc" index="" image="">
+		<description>Club Kart for Cycraft (Rev. A) (GDS-0029A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubkprz" index="" image="">
+		<description>Club Kart Prize</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubkrto" index="" image="">
+		<description>Club Kart: European Session (2001)</description>
+		<cloneof>clubkrt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubkrtc" index="" image="">
+		<description>Club Kart: European Session (2001) (Rev. C)</description>
+		<cloneof>clubkrt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubkrt" index="" image="">
+		<description>Club Kart: European Session (2001) (Rev. D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubk2kp" index="" image="">
+		<description>Club Kart: European Session (2003) (Prototype)</description>
+		<cloneof>clubk2k3</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clubk2k3" index="" image="">
+		<description>Club Kart: European Session (2003) (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="confmiss" index="" image="">
+		<description>Confidential Mission (GDS-0001)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csmasho" index="" image="">
+		<description>Cosmic Smash</description>
+		<cloneof>csmash</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csmash" index="" image="">
+		<description>Cosmic Smash (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crackndj" index="" image="">
+		<description>Crackin&apos; DJ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crakndj2" index="" image="">
+		<description>Crackin&apos; DJ Part 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<year>2001</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crzytaxi" index="" image="">
+		<description>Crazy Taxi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="doa2" index="true" image="d">
+		<description>Dead or Alive 2 (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="doa2m" index="" image="">
+		<description>Dead or Alive 2 Millennium</description>
+		<cloneof>doa2</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deathcox" index="" image="">
+		<description>Death Crimson OX</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ecole</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangril" index="" image="">
+		<description>Dengen Tenshi Taisen Janshi Shangri-la</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Marvelous Ent.</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="derbyocm" index="" image="">
+		<description>Derby Owners Club (Main) (Rev. B)</description>
+		<cloneof>derbyoc</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="derbyo2km" index="" image="">
+		<description>Derby Owners Club 2000 Ver.2 (Main) (Rev. A)</description>
+		<cloneof>derbyo2k</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="derbyoc2m" index="" image="">
+		<description>Derby Owners Club II Ver.2.1 (Main) (Rev. B)</description>
+		<cloneof>derbyoc2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="derbyoc2" index="" image="">
+		<description>Derby Owners Club II Ver.2.1 (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drbyocwc" index="" image="">
+		<description>Derby Owners Club World Edition (Rev. C)</description>
+		<cloneof>derbyocw</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Hitmaker</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="derbyocwm" index="" image="">
+		<description>Derby Owners Club World Edition EX (Main) (Rev. D)</description>
+		<cloneof>derbyocw</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dinoking" index="" image="">
+		<description>Dinosaur King (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dinoki25" index="" image="">
+		<description>Dinosaur King: D-Team VS. the Alpha Fortress (Export) (Ver 2.500) (MDA-C0047)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2008</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dinokior" index="" image="">
+		<description>Dinosaur King: Operation: Dinosaur Rescue (USA, Export)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starseek" index="" image="">
+		<description>Doki Doki Idol Star Seeker (GDL-0005)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dybb99" index="" image="">
+		<description>Dynamite Baseball &apos;99 / World Series 99 (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dybbnao" index="" image="">
+		<description>Dynamite Baseball Naomi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f355" index="true" image="f">
+		<description>Ferrari F355 Challenge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f355twin" index="" image="">
+		<description>Ferrari F355 Challenge (Twin)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f355twn2" index="" image="">
+		<description>Ferrari F355 Challenge 2 (Twin)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f355twn2d" index="" image="">
+		<description>Ferrari F355 Challenge 2 Deluxe</description>
+		<cloneof>f355twn2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f355twind" index="" image="">
+		<description>Ferrari F355 Challenge Deluxe (Twin)</description>
+		<cloneof>f355twin</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gram2000" index="true" image="g">
+		<description>Giant Gram 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggram2" index="" image="">
+		<description>Giant Gram: All Japan Pro Wrestling 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gwing2" index="" image="">
+		<description>Giga Wing 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Takumi / Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggx" index="" image="">
+		<description>Guilty Gear X</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggxxrlo" index="" image="">
+		<description>Guilty Gear XX #Reload (GDL-0019)</description>
+		<cloneof>ggxxrl</cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggxxrl" index="" image="">
+		<description>Guilty Gear XX #Reload (Rev. A) (GDL-0019A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2003</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggxx" index="" image="">
+		<description>Guilty Gear XX (GDL-0011)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggxxac" index="" image="">
+		<description>Guilty Gear XX Accent Core (GDL-0041)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2006</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ggxxsla" index="" image="">
+		<description>Guilty Gear XX Slash (Rev. A) (GDL-0033A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunsur2" index="" image="">
+		<description>Gun Survivor 2 Biohazard Code: Veronica (Asia) (BHF2 Ver. E)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / Namco</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunsur2j" index="" image="">
+		<description>Gun Survivor 2 Biohazard Code: Veronica (Japan) (BHF1 Ver. E)</description>
+		<cloneof>gunsur2</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / Namco</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hmgeo" index="true" image="h">
+		<description>Heavy Metal Geomatrix (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotd2o" index="" image="">
+		<description>House of the Dead 2</description>
+		<cloneof>hotd2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotd2p" index="" image="">
+		<description>House of the Dead 2 (prototype)</description>
+		<cloneof>hotd2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotd2" index="" image="">
+		<description>House of the Dead 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suchie3" index="true" image="i">
+		<description>Idol Janshi Suchie-Pai 3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ikaruga" index="" image="">
+		<description>Ikaruga (GDL-0010)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Treasure</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="illvelo" index="" image="">
+		<description>Illvelo (Illmatic Envelope)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Milestone Inc.</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdexpo" index="" image="">
+		<description>Initial D Arcade Stage (Export) (GDS-0025)</description>
+		<cloneof>initdexp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdexp" index="" image="">
+		<description>Initial D Arcade Stage (Export) (Rev. A) (GDS-0025A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdo" index="" image="">
+		<description>Initial D Arcade Stage (Japan) (GDS-0020)</description>
+		<cloneof>initd</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initd" index="" image="">
+		<description>Initial D Arcade Stage (Japan) (Rev. B) (GDS-0020B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv2e" index="" image="">
+		<description>Initial D Arcade Stage Ver. 2 (Export) (GDS-0027)</description>
+		<cloneof>initdv2j</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv2jo" index="" image="">
+		<description>Initial D Arcade Stage Ver. 2 (Japan) (GDS-0026)</description>
+		<cloneof>initdv2j</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv2j" index="" image="">
+		<description>Initial D Arcade Stage Ver. 2 (Japan) (Rev. A) (GDS-0026A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv3e" index="" image="">
+		<description>Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv3jb" index="" image="">
+		<description>Initial D Arcade Stage Ver. 3 (Japan) (Rev. B) (GDS-0032B)</description>
+		<cloneof>initdv3j</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="initdv3j" index="" image="">
+		<description>Initial D Arcade Stage Ver. 3 (Japan) (Rev. C) (GDS-0032C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="inidv3ca" index="" image="">
+		<description>Initial D Arcade Stage Ver. 3: Cycraft Edition (Export) (Rev. A) (GDS-0039A)</description>
+		<cloneof>inidv3cy</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="inidv3cy" index="" image="">
+		<description>Initial D Arcade Stage Ver. 3: Cycraft Edition (Export) (Rev. B) (GDS-0039B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="inunoos" index="" image="">
+		<description>Inu No Osanpo (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / WOW Ent.</manufacturer>
+		<year>2001</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jambo" index="true" image="j">
+		<description>Jambo! Safari (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jingystm" index="" image="">
+		<description>Jingi Storm: The Arcade (GDL-0037)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atrativa Japan</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="karous" index="true" image="k">
+		<description>Karous (GDL-0040)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Milestone</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kingrt66" index="" image="">
+		<description>King of Route 66, The (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kurucham" index="" image="">
+		<description>Kurukuru Chameleon (GDL-0034)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Able</manufacturer>
+		<year>2006</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="keyboard" index="true" image="l">
+		<description>La Keyboard (GDS-0017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lovebero" index="" image="">
+		<description>Love And Berry: 1st-2nd Collection (Export) (Ver 1.003)</description>
+		<cloneof>lovebery</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lovebery" index="" image="">
+		<description>Love And Berry: 1st-2nd Collection (Export) (Ver 2.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loveber3" index="" image="">
+		<description>Love And Berry: 3rd-5th Collection (USA, Export) (Ver 1.002) (MDA-C0042)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2007</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lupinsho" index="" image="">
+		<description>Lupin The Third: The Shooting (GDS-0018)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="luptype" index="" image="">
+		<description>Lupin The Third: The Typing (Rev. A) (GDS-0021A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mamonoro" index="true" image="m">
+		<description>Mamoru-kun wa Norowarete Shimatta!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G.Rev</manufacturer>
+		<year>2008</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="manicpnc" index="" image="">
+		<description>Manic Panic Ghosts! (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2007</year>
+		<genre>Gun / Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marstv" index="" image="">
+		<description>Mars TV</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mvsc2" index="" image="">
+		<description>Marvel Vs. Capcom 2 New Age of Heroes (Export, Korea) (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mvsc2u" index="" image="">
+		<description>Marvel Vs. Capcom 2 New Age of Heroes (USA) (Rev. A)</description>
+		<cloneof>mvsc2</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mazana" index="" image="">
+		<description>Mazan: Flash of The Blade (Asia) (MAZ2 Ver. A)</description>
+		<cloneof>mazan</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mazan" index="" image="">
+		<description>Mazan: Flash of The Blade (US) (MAZ3 Ver. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mok" index="" image="">
+		<description>Maze of the Kings, The (GDS-0022)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="meltyblo" index="" image="">
+		<description>Melty Blood Act Cadenza (GDL-0028)</description>
+		<cloneof>meltybld</cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="meltybld" index="" image="">
+		<description>Melty Blood Act Cadenza Ver. A (GDL-0028C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2005</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="meltybo" index="" image="">
+		<description>Melty Blood Act Cadenza Version B (GDL-0039)</description>
+		<cloneof>meltyb</cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2006</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="meltyb" index="" image="">
+		<description>Melty Blood Act Cadenza Version B2 (GDL-0039A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2007</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mbaao" index="" image="">
+		<description>Melty Blood Actress Again</description>
+		<cloneof>mbaa</cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2008</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mbaa" index="" image="">
+		<description>Melty Blood Actress Again Version A (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2008</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundmct" index="" image="">
+		<description>Mobile Suit Gundam: Federation Vs. Zeon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundmgd" index="" image="">
+		<description>Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gundmxgd" index="" image="">
+		<description>Mobile Suit Gundam: Federation Vs. Zeon DX (GDL-0006)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moeru" index="" image="">
+		<description>Moeru Casinyo (GDL-0013)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Altron</manufacturer>
+		<year>2002</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="monkeyba" index="" image="">
+		<description>Monkey Ball (GDS-0008)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chocomk" index="" image="">
+		<description>Musapey&apos;s Choco Marker (Rev. A) (GDL-0014A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ecole Software</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mtkob2" index="" image="">
+		<description>Mushiking The King Of Beetle (2K3 2ND) (Ver. 1.003-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mushi2k5" index="" image="">
+		<description>Mushiking The King Of Beetles 2005 First (Japan) (Ver. 1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mushi2eo" index="" image="">
+		<description>Mushiking The King Of Beetles: Mushiking II (Ver. 1.001-)</description>
+		<cloneof>mushik2e</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mushik2e" index="" image="">
+		<description>Mushiking The King Of Beetles: Mushiking II (Ver. 2.001-)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2005</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjaslta" index="true" image="n">
+		<description>Ninja Assault (Asia) (NJA2 Ver. A)</description>
+		<cloneof>ninjaslt</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjasltj" index="" image="">
+		<description>Ninja Assault (Japan) (NJA1 Ver. A)</description>
+		<cloneof>ninjaslt</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjasltu" index="" image="">
+		<description>Ninja Assault (US) (NJA3 Ver. A)</description>
+		<cloneof>ninjaslt</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjaslt" index="" image="">
+		<description>Ninja Assault (World) (NJA4 Ver. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="takoron" index="" image="">
+		<description>Noukone Puzzle Takoron (GDL-0042)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Compile</manufacturer>
+		<year>2006</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="oinori" index="true" image="o">
+		<description>Oinori-daimyoujin ~Matsuri~</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otrigger" index="" image="">
+		<description>OutTrigger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pokasuka" index="true" image="p">
+		<description>Pokasuka Ghost!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2007</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pstone" index="" image="">
+		<description>Power Stone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pstone2" index="" image="">
+		<description>Power Stone 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pjustic" index="" image="">
+		<description>Project Justice / Moero Justice Gakuen (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psyvar2" index="" image="">
+		<description>Psyvariar 2: The Will To Fabricate (GDL-0024)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puyoda" index="" image="">
+		<description>Puyo Puyo Da!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puyofev" index="" image="">
+		<description>Puyo Puyo Fever (GDS-0031)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puyofevp" index="" image="">
+		<description>Puyo Puyo Fever (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qmegamis" index="true" image="q">
+		<description>Quiz Ah Megamisama</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quizqgd" index="" image="">
+		<description>Quiz Keitai Q mode (GDL-0017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Amedio</manufacturer>
+		<year>2002</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radirgyo" index="true" image="r">
+		<description>Radirgy (GDL-0032)</description>
+		<cloneof>radirgy</cloneof>
+		<crc></crc>
+		<manufacturer>Milestone</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radirgy" index="" image="">
+		<description>Radirgy (Rev. A) (GDL-0032A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Milestone</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radirgyn" index="" image="">
+		<description>Radirgy Noa</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Milestone Inc.</manufacturer>
+		<year>2009</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rhytngk" index="" image="">
+		<description>Rhythm Tengoku</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo / Sega</manufacturer>
+		<year>2007</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringout" index="" image="">
+		<description>Ring Out 4x4 (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="samba" index="true" image="s">
+		<description>Samba De Amigo (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sambap" index="" image="">
+		<description>Samba De Amigo (USA) (prototype)</description>
+		<cloneof>samba</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="samba2k" index="" image="">
+		<description>Samba De Amigo Ver. 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smarinef" index="" image="">
+		<description>Sega Marine Fishing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sstrkfgt" index="" image="">
+		<description>Sega Strike Fighter (Rev. A) (Set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sstrkfgta" index="" image="">
+		<description>Sega Strike Fighter (Rev. A) (Set 2)</description>
+		<cloneof>sstrkfgt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sstrkfgtd" index="" image="">
+		<description>Sega Strike Fighter Deluxe (Rev. A) (Set 1)</description>
+		<cloneof>sstrkfgt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgtetris" index="" image="">
+		<description>Sega Tetris</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="senkoo" index="" image="">
+		<description>Senko No Ronde (GDL-0030)</description>
+		<cloneof>senko</cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="senko" index="" image="">
+		<description>Senko No Ronde NEW ver. (Rev. A) (GDL-0030A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="senkosp" index="" image="">
+		<description>Senko No Ronde Special (GDL-0038)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shaktam" index="" image="">
+		<description>Shakatto Tambourine (Rev. B) (GDS-0002B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shaktamb" index="" image="">
+		<description>Shakatto Tambourine Cho Powerup Chu (2K1 AUT) (GDS-0016)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shaktmsp" index="" image="">
+		<description>Shakatto Tambourine Motto Norinori Shinkyoku Tsuika (2K1 SPR) (GDS-0013)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shikgam2" index="" image="">
+		<description>Shikigami No Shiro II / The Castle of Shikigami II (GDL-0021)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alfa System</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toukon4" index="" image="">
+		<description>Shin Nihon Prowrestling Toukon Retsuden 4 Arcade Edition (Japan) (TRF1 Ver. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sl2007" index="" image="">
+		<description>Shooting Love 2007</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Triangle</manufacturer>
+		<year>2007</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shootopl" index="" image="">
+		<description>Shootout Pool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shootpl" index="" image="">
+		<description>Shootout Pool Prize / Shootout Pool The Medal (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shootplm" index="" image="">
+		<description>Shootout Pool Prize / Shootout Pool The Medal Ver. B</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slasho" index="" image="">
+		<description>Slashout</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slashout" index="" image="">
+		<description>Slashout (GDS-0004)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soulsurf" index="" image="">
+		<description>Soul Surfer (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Surfing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spawn" index="" image="">
+		<description>Spawn In the Demon&apos;s Hand (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spkrbtl" index="" image="">
+		<description>Spikers Battle (GDS-0005)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprtjam" index="" image="">
+		<description>Sports Jam (GDS-0003)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starhrct" index="" image="">
+		<description>Star Horse (Control Unit)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports / Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starhrse" index="" image="">
+		<description>Star Horse (Main Screen)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports / Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starhrcl" index="" image="">
+		<description>Star Horse (Satellite)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports / Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starhrsp" index="" image="">
+		<description>Star Horse Progress (Satellite) (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2003</year>
+		<genre>Sports / Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="starhrpr" index="" image="">
+		<description>Star Horse Progress Returns (Satellite)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Sports / Horse Racing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfz3ugd" index="" image="">
+		<description>Street Fighter Zero 3 Upper (GDL-0002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smlg99" index="" image="">
+		<description>Super Major League 99 / World Series 99</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ss2005o" index="" image="">
+		<description>Super Shanghai 2005 (GDL-0031)</description>
+		<cloneof>ss2005</cloneof>
+		<crc></crc>
+		<manufacturer>Starfish</manufacturer>
+		<year>2005</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ss2005" index="" image="">
+		<description>Super Shanghai 2005 (Rev. A) (GDL-0031A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Starfish</manufacturer>
+		<year>2005</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hopper" index="" image="">
+		<description>SWP Hopper Board</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tetgiano" index="true" image="t">
+		<description>Tetris Giant / Tetris Dekaris (MDA-C0076)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle / Drop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tetgiant" index="" image="">
+		<description>Tetris Giant / Tetris Dekaris (Ver.2.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle / Drop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tetkiwam" index="" image="">
+		<description>Tetris Kiwamemichi (GDL-0020)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>2004</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="totdo" index="" image="">
+		<description>The Typing of the Dead</description>
+		<cloneof>totd</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="totd" index="" image="">
+		<description>The Typing of the Dead (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokyobus" index="" image="">
+		<description>Tokyo Bus Guide (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Fortyfive</manufacturer>
+		<year>1999</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tduno" index="" image="">
+		<description>Touch De Uno!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tduno2" index="" image="">
+		<description>Touch De Uno! 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zunou" index="" image="">
+		<description>Touch de Zunou (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2006</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toyfight" index="" image="">
+		<description>Toy Fighter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trgheart" index="" image="">
+		<description>Trigger Heart Exelica (Rev. A) (GDL-0036A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warashi</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trizeal" index="" image="">
+		<description>Trizeal (GDL-0026)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="undefeat" index="true" image="u">
+		<description>Under Defeat (GDL-0035)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G-Rev</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usagiym" index="" image="">
+		<description>Usagui: Yamashiro Mahjong Hen (GDL-0022)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warashi</manufacturer>
+		<year>2003</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vathlete" index="true" image="v">
+		<description>Virtua Athletics / Virtua Athlete (GDS-0019)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Track &amp; Field</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4cart" index="" image="">
+		<description>Virtua Fighter 4</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4o" index="" image="">
+		<description>Virtua Fighter 4 (GDS-0012)</description>
+		<cloneof>vf4</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4b" index="" image="">
+		<description>Virtua Fighter 4 (GDS-0012B)</description>
+		<cloneof>vf4</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4evoct" index="" image="">
+		<description>Virtua Fighter 4 Evolution</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4evoa" index="" image="">
+		<description>Virtua Fighter 4 Evolution (GDS-0024A)</description>
+		<cloneof>vf4evo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4evo" index="" image="">
+		<description>Virtua Fighter 4 Evolution (Version B) (GDS-0024B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2002</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4tuneda" index="" image="">
+		<description>Virtua Fighter 4 Final Tuned (GDS-0036A)</description>
+		<cloneof>vf4tuned</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4tunedd" index="" image="">
+		<description>Virtua Fighter 4 Final Tuned (Ver. A) (GDS-0036D)</description>
+		<cloneof>vf4tuned</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4tuned" index="" image="">
+		<description>Virtua Fighter 4 Final Tuned (Ver. B) (GDS-0036F)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2004</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vf4" index="" image="">
+		<description>Virtua Fighter 4 Version C (GDS-0012C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dygolf" index="" image="">
+		<description>Virtua Golf / Dynamic Golf (Rev. A) (GDS-0009A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="virnbao" index="" image="">
+		<description>Virtua NBA</description>
+		<cloneof>virnba</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="virnbap" index="" image="">
+		<description>Virtua NBA (prototype)</description>
+		<cloneof>virnba</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="virnba" index="" image="">
+		<description>Virtua NBA (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vs2_2k" index="" image="">
+		<description>Virtua Striker 2 Ver. 2000 (Rev. C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vstrik3co" index="" image="">
+		<description>Virtua Striker 3</description>
+		<cloneof>vstrik3c</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vstrik3" index="" image="">
+		<description>Virtua Striker 3 (GDS-0006)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vstrik3c" index="" image="">
+		<description>Virtua Striker 3 (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vtennis" index="" image="">
+		<description>Virtua Tennis / Power Smash</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vtennisg" index="" image="">
+		<description>Virtua Tennis / Power Smash (GDS-0011)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vtenis2c" index="" image="">
+		<description>Virtua Tennis 2 / Power Smash 2 (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vtennis2" index="" image="">
+		<description>Virtua Tennis 2 / Power Smash 2 (Rev. A) (GDS-0015A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vonot" index="" image="">
+		<description>Virtual-On Oratorio Tangram M.S.B.S. Ver. 5.66</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wrungp" index="true" image="w">
+		<description>Wave Runner GP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / CRI</manufacturer>
+		<year>2001</year>
+		<genre>Water</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wrungpo" index="" image="">
+		<description>Wave Runner GP (USA) (Rev. A)</description>
+		<cloneof>wrungp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / CRI</manufacturer>
+		<year>2001</year>
+		<genre>Water</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wldrider" index="" image="">
+		<description>Wild Riders</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wldkicksa" index="" image="">
+		<description>World Kicks (Asia) (WK2 Ver. A)</description>
+		<cloneof>wldkicks</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wldkicks" index="" image="">
+		<description>World Kicks (US) (WK3 Ver. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wldkicksj" index="" image="">
+		<description>World Kicks PCB (Japan) (WKC1 Ver. A)</description>
+		<cloneof>wldkicks</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wsbbgd" index="" image="">
+		<description>World Series Baseball / Super Major League (GDS-0010)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wwfroyal" index="" image="">
+		<description>WWF Royal Rumble</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zerogu2" index="true" image="z">
+		<description>Zero Gunner 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2001</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zombrvno" index="" image="">
+		<description>Zombie Revenge</description>
+		<cloneof>zombrvn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zombrvn" index="" image="">
+		<description>Zombie Revenge (Rev. A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

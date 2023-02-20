@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Watara Supervision</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2 in 1 - Block Buster + Cross High (USA, Europe)" index="true" image="2">
+		<description>2 in 1: Block Buster + Cross High (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7E05D84F</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)" index="" image="">
+		<description>2 in 1: Hash Blocks + Eagle Plan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C1354952</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien (USA, Europe)" index="true" image="a">
+		<description>Alien (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8DBB2C53</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Fight (USA, Europe)" index="true" image="b">
+		<description>Balloon Fight (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8188B755</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Block Buster (USA, Europe)" index="" image="">
+		<description>Block Buster (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A3DB285</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Power (USA, Europe)" index="" image="">
+		<description>Brain Power (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5E6706B9</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble World (USA, Europe)" index="" image="">
+		<description>Bubble World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E5C2CFB5</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carrier (USA, Europe)" index="true" image="c">
+		<description>Carrier (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5ECFB674</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cave Wonders (USA, Europe)" index="" image="">
+		<description>Cave Wonders (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E0266CE7</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Challenger Tank (USA, Europe)" index="" image="">
+		<description>Challenger Tank (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C92382CE</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chimera (USA, Europe)" index="" image="">
+		<description>Chimera (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4A458AA8</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chinese Checkers (USA, Europe)" index="" image="">
+		<description>Chinese Checkers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>EDED8AEC</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic Casino (USA, Europe)" index="" image="">
+		<description>Classic Casino (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>72A96443</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1993</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Climber (USA, Europe)" index="" image="">
+		<description>Climber (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>12C45309</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystball (USA, Europe)" index="" image="">
+		<description>Crystball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>10DCC110</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dancing Block (USA, Europe)" index="true" image="d">
+		<description>Dancing Block (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>345CA42A</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Delta Hero (USA, Europe)" index="" image="">
+		<description>Delta Hero (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>32CCDF89</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dream World (USA, Europe)" index="" image="">
+		<description>Dream World (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB0F463F</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eagle Plan (USA, Europe)" index="true" image="e">
+		<description>Eagle Plan (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1CB8364</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earth Defender (USA, Europe)" index="" image="">
+		<description>Earth Defender (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A6CBB074</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fatal Craft (USA, Europe)" index="true" image="f">
+		<description>Fatal Craft (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>917CAB48</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Combat (USA, Europe)" index="" image="">
+		<description>Final Combat (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>465D78CD</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galactic Crusader (USA, Europe)" index="true" image="g">
+		<description>Galactic Crusader (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B494BC5C</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy Fighter (USA, Europe)" index="" image="">
+		<description>Galaxy Fighter (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>581703BE</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix (USA, Europe)" index="" image="">
+		<description>Grand Prix (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>CEF3F295</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Pairs (USA, Europe)" index="true" image="h">
+		<description>Happy Pairs (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>112F5EED</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Race (USA, Europe)" index="" image="">
+		<description>Happy Race (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>552AFA89</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hash Blocks (USA, Europe)" index="" image="">
+		<description>Hash Blocks (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6BD7C885</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hero Hawk (USA, Europe)" index="" image="">
+		<description>Hero Hawk (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>99BF6CF5</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hero Kid (USA, Europe)" index="" image="">
+		<description>Hero Kid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>25DDD6E1</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Honey Bee (USA, Europe)" index="" image="">
+		<description>Honey Bee (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E856875A</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jacky Lucky (USA, Europe)" index="true" image="j">
+		<description>Jacky Lucky (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7D8A607F</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jaguar Bomber (USA, Europe)" index="" image="">
+		<description>Jaguar Bomber (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AA4372D4</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="John Adventure (USA, Europe)" index="" image="">
+		<description>John Adventure (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E9EA3AE0</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Juggler (USA, Europe)" index="" image="">
+		<description>Juggler (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>32E68D6F</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kabi Island - Gold in Island (USA, Europe)" index="true" image="k">
+		<description>Kabi Island: Gold in Island (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2BC03096</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kitchen War (USA, Europe)" index="" image="">
+		<description>Kitchen War (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>20225F5C</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung-Fu Street (USA, Europe)" index="" image="">
+		<description>Kung-Fu Street (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7DAED2EB</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Linear Racing (USA, Europe)" index="true" image="l">
+		<description>Linear Racing (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6F8ABAF9</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magincross (USA, Europe)" index="true" image="m">
+		<description>Magincross (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E406A91C</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Matta Blatta (USA, Europe)" index="" image="">
+		<description>Matta Blatta (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>21864295</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Olympic Trials (USA, Europe)" index="true" image="o">
+		<description>Olympic Trials (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>85DC8111</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Olympic</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="P-52 Sea Battle (USA, Europe)" index="true" image="p">
+		<description>P-52 Sea Battle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>748F9DAE</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PacBoy &amp; Mouse (USA, Europe)" index="" image="">
+		<description>PacBoy &amp; Mouse (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1A89AC88</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pacific Battle (USA, Europe)" index="" image="">
+		<description>Pacific Battle (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E5DCE795</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguin Hideout (USA, Europe)" index="" image="">
+		<description>Penguin Hideout (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>FE5F9774</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Police Bust (USA, Europe)" index="" image="">
+		<description>Police Bust (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>531F0B51</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Popo Team (USA, Europe)" index="" image="">
+		<description>Popo Team (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E11A756C</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pyramid (USA, Europe)" index="" image="">
+		<description>Pyramid (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E0BFE163</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Recycle Design (USA, Europe)" index="true" image="r">
+		<description>Recycle Design (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C36BD216</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scaffolder (USA, Europe)" index="true" image="s">
+		<description>Scaffolder (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>46FB22C5</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Champion (USA, Europe)" index="" image="">
+		<description>Soccer Champion (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>45204DC4</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonny Xpress (USA, Europe)" index="" image="">
+		<description>Sonny Xpress (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>C99B985A</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Fighter (USA, Europe)" index="" image="">
+		<description>Space Fighter (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7CD650C8</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SSSnake (USA, Europe)" index="" image="">
+		<description>SSSnake (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BE9B6F10</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Block (USA, Europe)" index="" image="">
+		<description>Super Block (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2E2C7AD</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kong (USA, Europe)" index="" image="">
+		<description>Super Kong (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>59C7FF64</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Pang (USA, Europe)" index="" image="">
+		<description>Super Pang (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>181D12DD</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tasac 2010 (USA, Europe)" index="true" image="t">
+		<description>Tasac 2010 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3D5F3964</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis Pro &apos;92 (USA, Europe)" index="" image="">
+		<description>Tennis Pro &apos;92 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>BD004CB7</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Shooting (USA, Europe)" index="" image="">
+		<description>Thunder Shooting (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>AD147842</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure Hunter (USA, Europe)" index="" image="">
+		<description>Treasure Hunter (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB35B809</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Untouchable (USA, Europe)" index="true" image="u">
+		<description>Untouchable (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB3FE76A</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Witty Cat (USA, Europe)" index="true" image="w">
+		<description>Witty Cat (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>24A115F9</crc>
+		<manufacturer>Watara</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,699 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>GCE Vectrex</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2D Narrow Escape (USA) (Hack)" index="true" image="2">
+		<description>2D Narrow Escape (USA) (Hack)</description>
+		<cloneof></cloneof>
+		<crc>1EDA284C</crc>
+		<manufacturer>Fred Taft</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D Crazy Coaster (USA)" index="true" image="3">
+		<description>3D Crazy Coaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>92709B11</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D Mine Storm (USA)" index="" image="">
+		<description>3D Mine Storm (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2313487</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D Narrow Escape (USA)" index="" image="">
+		<description>3D Narrow Escape (USA)</description>
+		<cloneof></cloneof>
+		<crc>050BD949</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="All Good Things (World) (Unl)" index="true" image="a">
+		<description>All Good Things (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>E98AB5A2</crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AnimAction (USA)" index="" image="">
+		<description>AnimAction (USA)</description>
+		<cloneof></cloneof>
+		<crc>9F62E167</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Armor..Attack (World)" index="" image="">
+		<description>Armor..Attack (World)</description>
+		<cloneof></cloneof>
+		<crc>B7510971</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Master (USA)" index="" image="">
+		<description>Art Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8E2F247</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Becky&apos;s Message (World) (Unl)" index="true" image="b">
+		<description>Becky&apos;s Message (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1A7469AD</crc>
+		<manufacturer>Dan Siewers</manufacturer>
+		<year>2003</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bedlam (USA, Europe)" index="" image="">
+		<description>Bedlam (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A2FA649B</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Berzerk (World)" index="" image="">
+		<description>Berzerk (World)</description>
+		<cloneof></cloneof>
+		<crc>EAFE2455</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blitz! - Action Football (USA, Europe)" index="" image="">
+		<description>Blitz! - Action Football (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0F11CE0C</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clean Sweep (World)" index="true" image="c">
+		<description>Clean Sweep (World)</description>
+		<cloneof></cloneof>
+		<crc>F1B1DE78</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Continuum (World) (Unl)" index="" image="">
+		<description>Continuum (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>05F6D6FC</crc>
+		<manufacturer>George Pelonis</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Chasm (World)" index="" image="">
+		<description>Cosmic Chasm (World)</description>
+		<cloneof></cloneof>
+		<crc>6C1AFA52</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Tower (World) (Proto)" index="true" image="d">
+		<description>Dark Tower (World) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>9DCFD5B7</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fortress of Narzod (USA, Europe)" index="true" image="f">
+		<description>Fortress of Narzod (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>13A35C8A</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gravitrex (World) (Unl)" index="true" image="g">
+		<description>Gravitrex (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>83B06492</crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heads-Up - Action Soccer (USA)" index="true" image="h">
+		<description>Heads-Up - Action Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>E61A7DE3</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hexed! (World) (Unl)" index="" image="">
+		<description>Hexed! (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>8C967871</crc>
+		<manufacturer>Tabletop</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HyperChase - Auto Race (World)" index="" image="">
+		<description>HyperChase - Auto Race (World)</description>
+		<cloneof></cloneof>
+		<crc>4BB13472</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koko&apos;s Retribution (World) (Unl)" index="true" image="k">
+		<description>Koko&apos;s Retribution (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D122561A</crc>
+		<manufacturer>Dan Siewers</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mail Plane (USA) (Proto)" index="true" image="m">
+		<description>Mail Plane (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>DA1AC0DB</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Melody Master (World)" index="" image="">
+		<description>Melody Master (World)</description>
+		<cloneof></cloneof>
+		<crc>AFEFA29C</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mine Storm (World)" index="" image="">
+		<description>Mine Storm (World)</description>
+		<cloneof></cloneof>
+		<crc>6D509566</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mine Storm II (USA)" index="" image="">
+		<description>Mine Storm II (USA)</description>
+		<cloneof></cloneof>
+		<crc>F5B3B374</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Boston - Clean Sweep (USA) (Unl)" index="" image="">
+		<description>Mr. Boston - Clean Sweep (USA) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BD4DA4C2</crc>
+		<manufacturer>Mr. Boston</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nebula Commander (World) (Unl)" index="true" image="n">
+		<description>Nebula Commander (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>A97F6C31</crc>
+		<manufacturer>Craig Aker</manufacturer>
+		<year>2005</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Omega Chase (World) (Unl)" index="true" image="o">
+		<description>Omega Chase (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9B4D0540</crc>
+		<manufacturer>Christopher Tumber</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Patriots (World) (Unl)" index="true" image="p">
+		<description>Patriots (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>F0073328</crc>
+		<manufacturer>John Donzila</manufacturer>
+		<year>1996</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Patriots III - BALListics Busters (World) (Unl)" index="" image="">
+		<description>Patriots III - BALListics Busters (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>D783DE03</crc>
+		<manufacturer>John Donzila</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitcher&apos;s Duel (USA) (Proto)" index="" image="">
+		<description>Pitcher&apos;s Duel (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>C25F2E0E</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Polar Rescue (USA)" index="" image="">
+		<description>Polar Rescue (USA)</description>
+		<cloneof></cloneof>
+		<crc>A7471784</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pole Position (USA)" index="" image="">
+		<description>Pole Position (USA)</description>
+		<cloneof></cloneof>
+		<crc>A00ED3D6</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Protector (World) (Unl)" index="" image="">
+		<description>Protector (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>62F062FE</crc>
+		<manufacturer>Alex Herbert</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revector (World) (Unl)" index="true" image="r">
+		<description>Revector (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>69DBA2BE</crc>
+		<manufacturer>Graig Aker</manufacturer>
+		<year>2004</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rip Off (World)" index="" image="">
+		<description>Rip Off (World)</description>
+		<cloneof></cloneof>
+		<crc>34A98132</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Royal 21 (World) (Unl)" index="" image="">
+		<description>Royal 21 (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>021796DB</crc>
+		<manufacturer>George Pelonis</manufacturer>
+		<year>2009</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scramble (USA, Europe)" index="true" image="s">
+		<description>Scramble (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>707C8FFE</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sectis (World) (Unl)" index="" image="">
+		<description>Sectis (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>2A9B2FE5</crc>
+		<manufacturer>	George Pelonis</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solar Quest (World)" index="" image="">
+		<description>Solar Quest (World)</description>
+		<cloneof></cloneof>
+		<crc>5C4611C8</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Frenzy (World) (Unl)" index="" image="">
+		<description>Space Frenzy (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>4D05FDA8</crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>2006</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Wars (World)" index="" image="">
+		<description>Space Wars (World)</description>
+		<cloneof></cloneof>
+		<crc>A3BE5AFF</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spike (USA, Europe)" index="" image="">
+		<description>Spike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>62A61843</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spike Hoppin&apos; (World) (Unl)" index="" image="">
+		<description>Spike Hoppin&apos; (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1C6B030E</crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>2006</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spinball (USA)" index="" image="">
+		<description>Spinball (USA)</description>
+		<cloneof></cloneof>
+		<crc>02F41733</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Castle (USA)" index="" image="">
+		<description>Star Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>C9039623</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Hawk (World)" index="" image="">
+		<description>Star Hawk (World)</description>
+		<cloneof></cloneof>
+		<crc>4DE1F06B</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Sling (World) (Unl)" index="" image="">
+		<description>Star Sling (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alex Nicholson</manufacturer>
+		<year>2006</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - The Motion Picture (USA)" index="" image="">
+		<description>Star Trek - The Motion Picture (USA)</description>
+		<cloneof></cloneof>
+		<crc>3768D8C3</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thrust (World) (Unl)" index="true" image="t">
+		<description>Thrust (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>569B50E7</crc>
+		<manufacturer>Ville Krumlinde</manufacturer>
+		<year>2004</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tour De France (USA) (Proto)" index="" image="">
+		<description>Tour De France (USA) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>BB4791F1</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Biking</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vaboom! (World) (Unl)" index="true" image="v">
+		<description>Vaboom! (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>0B833D2E</crc>
+		<manufacturer>Ronen Habot</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vec Fu (World) (Unl)" index="" image="">
+		<description>Vec Fu (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>27A11B7B</crc>
+		<manufacturer>Michael Borrmann</manufacturer>
+		<year>2000</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vec Sports Boxing (World) (Unl)" index="" image="">
+		<description>Vec Sports Boxing (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>1E29EC6B</crc>
+		<manufacturer>Manu Parssinen</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vecmania (World) (Unl)" index="" image="">
+		<description>Vecmania (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectopia (World) (Unl)" index="" image="">
+		<description>Vectopia (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>2001</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vector 21 (World) (Unl)" index="" image="">
+		<description>Vector 21 (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9D47924B</crc>
+		<manufacturer>Fury Unlimited</manufacturer>
+		<year>2006</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vector Pong (World) (Unl)" index="" image="">
+		<description>Vector Pong (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>10506248</crc>
+		<manufacturer>BinaryStar</manufacturer>
+		<year>2014</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vector Vaders (World) (Unl)" index="" image="">
+		<description>Vector Vaders (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>825987E3</crc>
+		<manufacturer>John Dondzila</manufacturer>
+		<year>1996</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectrace (World) (Unl)" index="" image="">
+		<description>Vectrace (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>635B3377</crc>
+		<manufacturer>Ronen Habot</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectrex Frogger (World) (Unl)" index="" image="">
+		<description>Vectrex Frogger (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>BB4791F1</crc>
+		<manufacturer>Chris Salomons</manufacturer>
+		<year>2000</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vectrexians (World) (Unl)" index="" image="">
+		<description>Vectrexians (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>05F67127</crc>
+		<manufacturer>Kristof Tuts</manufacturer>
+		<year>2008</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War of the Robots - Bow to the Queen (World) (Unl)" index="true" image="w">
+		<description>War of the Robots - Bow to the Queen (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>5799BFDE</crc>
+		<manufacturer>Fury Unlimited</manufacturer>
+		<year>2003</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Web Wars (USA)" index="" image="">
+		<description>Web Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>2EE20103</crc>
+		<manufacturer>GCE</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xmas Cart 2014 (World) (Unl)" index="true" image="x">
+		<description>Xmas Cart 2014 (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>6C967B40</crc>
+		<manufacturer>BinaryStar</manufacturer>
+		<year>2014</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xmas Cart 2015 (World) (Unl)" index="" image="">
+		<description>Xmas Cart 2015 (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>C9321E95</crc>
+		<manufacturer>BinaryStar</manufacturer>
+		<year>2015</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yasi (World) (Unl)" index="true" image="y">
+		<description>Yasi (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>62F062FE</crc>
+		<manufacturer>Alex Herbert</manufacturer>
+		<year>2003</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zantis (World) (Unl)" index="true" image="z">
+		<description>Zantis (World) (Unl)</description>
+		<cloneof></cloneof>
+		<crc>9F623F4D</crc>
+		<manufacturer>George Pelonis</manufacturer>
+		<year>2011</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

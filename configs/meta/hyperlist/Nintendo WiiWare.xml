@@ -1,0 +1,4549 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo WiiWare</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="101-in-1 Explosive Megamix (USA)" index="true" image="1">
+		<description>101-in-1 Explosive Megamix (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E4970FA</crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2 Fast 4 Gnomz (USA)" index="true" image="2">
+		<description>2 Fast 4 Gnomz (USA)</description>
+		<cloneof></cloneof>
+		<crc>A07E96F3</crc>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3 Degrees Celcius (Japan)" index="true" image="3">
+		<description>3 Degrees Celcius (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1DC8A30C</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3-2-1, Rattle Battle! (USA)" index="" image="">
+		<description>3-2-1, Rattle Battle! (USA)</description>
+		<cloneof></cloneof>
+		<crc>7C9A72C0</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2009</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3D Pixel Racing (USA)" index="" image="">
+		<description>3D Pixel Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>29ECA369</crc>
+		<manufacturer>Microforum</manufacturer>
+		<year>2011</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="5 Arcade Gems (USA)" index="true" image="5">
+		<description>5 Arcade Gems (USA)</description>
+		<cloneof></cloneof>
+		<crc>53C70A69</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2011</year>
+		<genre>Compilation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="5 Spots Party (USA)" index="" image="">
+		<description>5 Spots Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>442A0A98</crc>
+		<manufacturer>Cosmonaut Games</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="5-in-1 Solitaire (USA)" index="" image="">
+		<description>5-in-1 Solitaire (USA)</description>
+		<cloneof></cloneof>
+		<crc>44422093</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2010</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="81diver Wii (Japan)" index="true" image="8">
+		<description>81diver Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>68881855</crc>
+		<manufacturer>Silver Star Japan</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure Island - The Beginning (USA)" index="true" image="a">
+		<description>Adventure Island: The Beginning (USA)</description>
+		<cloneof></cloneof>
+		<crc>65739FAB</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventure on Lost Island - Hidden Object Game (USA)" index="" image="">
+		<description>Adventure on Lost Island: Hidden Object Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>6A73142E</crc>
+		<manufacturer>Ateam</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aero Guitar (Japan)" index="" image="">
+		<description>Aero Guitar (Japan)</description>
+		<cloneof></cloneof>
+		<crc>319B5969</crc>
+		<manufacturer>Yudo</manufacturer>
+		<year>2008</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aha! I Found It! - Hidden Object Game (USA)" index="" image="">
+		<description>Aha! I Found It!: Hidden Object Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>94B0BE66</crc>
+		<manufacturer>Ateam</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aha! I Got It! - Escape Game (USA)" index="" image="">
+		<description>Aha! I Got It!: Escape Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>F6ACB2CD</crc>
+		<manufacturer>Ateam</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Airport Mania - First Flight (USA)" index="" image="">
+		<description>Airport Mania: First Flight (USA)</description>
+		<cloneof></cloneof>
+		<crc>5AC8F5C4</crc>
+		<manufacturer>Lemon Games</manufacturer>
+		<year>2010</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Crush Returns (USA)" index="" image="">
+		<description>Alien Crush Returns (USA)</description>
+		<cloneof></cloneof>
+		<crc>E23C5E08</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>2008</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing Brain Train, The! (USA)" index="" image="">
+		<description>Amazing Brain Train, The! (USA)</description>
+		<cloneof></cloneof>
+		<crc>F0F913F6</crc>
+		<manufacturer>Wahoo Studios</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="And Yet It Moves (USA)" index="" image="">
+		<description>And Yet It Moves (USA)</description>
+		<cloneof></cloneof>
+		<crc>36DBC39C</crc>
+		<manufacturer>Broken Rules</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ANIMA - Ark of Sinners (USA)" index="" image="">
+		<description>ANIMA: Ark of Sinners (USA)</description>
+		<cloneof></cloneof>
+		<crc>25544AEE</crc>
+		<manufacturer>Anima Game Studio</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ant Nation (USA)" index="" image="">
+		<description>Ant Nation (USA)</description>
+		<cloneof></cloneof>
+		<crc>22B28125</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AquaSpace (USA)" index="" image="">
+		<description>AquaSpace (USA)</description>
+		<cloneof></cloneof>
+		<crc>70B776A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Essentials (USA)" index="" image="">
+		<description>Arcade Essentials (USA)</description>
+		<cloneof></cloneof>
+		<crc>AB50AA80</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Sports (USA)" index="" image="">
+		<description>Arcade Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>2EC48F1D</crc>
+		<manufacturer>Icon Games</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid Plus! (USA)" index="" image="">
+		<description>Arkanoid Plus! (USA)</description>
+		<cloneof></cloneof>
+		<crc>D6DF1EDB</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Around the World (USA)" index="" image="">
+		<description>Around the World (USA)</description>
+		<cloneof></cloneof>
+		<crc>B78BE33</crc>
+		<manufacturer>Wizarbox</manufacturer>
+		<year>2010</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art of Balance (USA)" index="" image="">
+		<description>Art of Balance (USA)</description>
+		<cloneof></cloneof>
+		<crc>85F0D5DE</crc>
+		<manufacturer>Shin&apos;en</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Style - CUBELLO (USA)" index="" image="">
+		<description>Art Style: CUBELLO (USA)</description>
+		<cloneof></cloneof>
+		<crc>40E84A60</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Style - light trax (USA)" index="" image="">
+		<description>Art Style: light trax (USA)</description>
+		<cloneof></cloneof>
+		<crc>A58F450F</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Style - ORBIENT (USA)" index="" image="">
+		<description>Art Style: ORBIENT (USA)</description>
+		<cloneof></cloneof>
+		<crc>7FBB5866</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Style - ROTOHEX (USA)" index="" image="">
+		<description>Art Style: ROTOHEX (USA)</description>
+		<cloneof></cloneof>
+		<crc>60D7C3AC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Art Style - ROTOZOA (USA)" index="" image="">
+		<description>Art Style: ROTOZOA (USA)</description>
+		<cloneof></cloneof>
+		<crc>EF28EF14</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Astro Bugz Revenge (USA)" index="" image="">
+		<description>Astro Bugz Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>EF0CD23F</crc>
+		<manufacturer>Sudden Games</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aya and the Cubes of Light (USA)" index="" image="">
+		<description>Aya and the Cubes of Light (USA)</description>
+		<cloneof></cloneof>
+		<crc>31CAF8D8</crc>
+		<manufacturer>Object Vision Software</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bakutan (Japan)" index="true" image="b">
+		<description>Bakutan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FB17C99B</crc>
+		<manufacturer>Alpha Unit</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balloon Pop Festival (USA)" index="" image="">
+		<description>Balloon Pop Festival (USA)</description>
+		<cloneof></cloneof>
+		<crc>23AF48B3</crc>
+		<manufacturer>UFO Interactive</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bang Attack (USA)" index="" image="">
+		<description>Bang Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>7EA4CA76</crc>
+		<manufacturer>Engine Software</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Poker (USA)" index="" image="">
+		<description>Battle Poker (USA)</description>
+		<cloneof></cloneof>
+		<crc>8451891</crc>
+		<manufacturer>Left Field Productions</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bejeweled 2 (USA)" index="" image="">
+		<description>Bejeweled 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>5E3B187F</crc>
+		<manufacturer>PopCap</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ben 10 Alien Force - The Rise of Hex (USA)" index="" image="">
+		<description>Ben 10 Alien Force: The Rise of Hex (USA)</description>
+		<cloneof></cloneof>
+		<crc>74AFB6DF</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Bass Arcade (USA)" index="" image="">
+		<description>Big Bass Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF9073D9</crc>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2011</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Kahuna Party (USA)" index="" image="">
+		<description>Big Kahuna Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>7F388025</crc>
+		<manufacturer>Reflexive Entertainment</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Town Shoot Out (USA)" index="" image="">
+		<description>Big Town Shoot Out (USA)</description>
+		<cloneof></cloneof>
+		<crc>57330DE5</crc>
+		<manufacturer>Performance Design Products</manufacturer>
+		<year>2011</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bingo Party Deluxe (USA)" index="" image="">
+		<description>Bingo Party Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>1CD862AA</crc>
+		<manufacturer>Ateam Inc.</manufacturer>
+		<year>2011</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit Boy!! (USA)" index="" image="">
+		<description>Bit Boy!! (USA)</description>
+		<cloneof></cloneof>
+		<crc>308F8055</crc>
+		<manufacturer>Bplus</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Beat (USA)" index="" image="">
+		<description>Bit. Trip Beat (USA)</description>
+		<cloneof></cloneof>
+		<crc>A5AC70B5</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Core (USA)" index="" image="">
+		<description>Bit. Trip Core (USA)</description>
+		<cloneof></cloneof>
+		<crc>85606D2A</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Fate (USA)" index="" image="">
+		<description>Bit. Trip Fate (USA)</description>
+		<cloneof></cloneof>
+		<crc>CB968704</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2010</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Flux (USA)" index="" image="">
+		<description>Bit. Trip Flux (USA)</description>
+		<cloneof></cloneof>
+		<crc>B8551F7</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2011</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Runner (USA)" index="" image="">
+		<description>Bit. Trip Runner (USA)</description>
+		<cloneof></cloneof>
+		<crc>2284C14B</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2010</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bit. Trip Void (USA)" index="" image="">
+		<description>Bit. Trip Void (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6CC95D4</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bittos Plus (USA)" index="" image="">
+		<description>Bittos Plus (USA)</description>
+		<cloneof></cloneof>
+		<crc>7C0E0D2E</crc>
+		<manufacturer>MACHINE Studios</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blaster Master - Overdrive (USA)" index="" image="">
+		<description>Blaster Master: Overdrive (USA)</description>
+		<cloneof></cloneof>
+		<crc>B74D199F</crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Block Breaker Deluxe (USA)" index="" image="">
+		<description>Block Breaker Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>F59A45AD</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Breakout</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blood Beach (USA)" index="" image="">
+		<description>Blood Beach (USA)</description>
+		<cloneof></cloneof>
+		<crc>B420528E</crc>
+		<manufacturer>Coresoft</manufacturer>
+		<year>2010</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bloons (USA)" index="" image="">
+		<description>Bloons (USA)</description>
+		<cloneof></cloneof>
+		<crc>52B579F</crc>
+		<manufacturer>Hands-On Mobile</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bobby Carrot Forever (USA)" index="" image="">
+		<description>Bobby Carrot Forever (USA)</description>
+		<cloneof></cloneof>
+		<crc>DE2DD1FB</crc>
+		<manufacturer>FDG Entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boingz (USA)" index="" image="">
+		<description>Boingz (USA)</description>
+		<cloneof></cloneof>
+		<crc>3D42463D</crc>
+		<manufacturer>Real Arcade</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boku wa Plarail Untenshi - Shinkansen &amp; Joukikikansha Hen (Japan)" index="" image="">
+		<description>Boku wa Plarail Untenshi: Shinkansen &amp; Joukikikansha Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5A165C17</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2010</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bokumo Sekai wo Sukuitai (Japan)" index="" image="">
+		<description>Bokumo Sekai wo Sukuitai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2FB584DD</crc>
+		<manufacturer>Poisoft</manufacturer>
+		<year>2010</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bokumo Sekai wo Sukuitai - Battle Tournament (Japan)" index="" image="">
+		<description>Bokumo Sekai wo Sukuitai: Battle Tournament (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BDCB6CD1</crc>
+		<manufacturer>Poisoft</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman Blast (USA)" index="" image="">
+		<description>Bomberman Blast (USA)</description>
+		<cloneof></cloneof>
+		<crc>E920B0C9</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bonsai Barber (USA)" index="" image="">
+		<description>Bonsai Barber (USA)</description>
+		<cloneof></cloneof>
+		<crc>4DCED598</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Challenge (USA)" index="" image="">
+		<description>Brain Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>A4AAA941</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Drain (USA)" index="" image="">
+		<description>Brain Drain (USA)</description>
+		<cloneof></cloneof>
+		<crc>F3AE3E5F</crc>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bruiser &amp; Scratch (USA)" index="" image="">
+		<description>Bruiser &amp; Scratch (USA)</description>
+		<cloneof></cloneof>
+		<crc>D43C0324</crc>
+		<manufacturer>Steel Penny Games</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble Plus! (USA)" index="" image="">
+		<description>Bubble Bobble Plus! (USA)</description>
+		<cloneof></cloneof>
+		<crc>D55BB3C8</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BurgerTime World Tour (USA)" index="" image="">
+		<description>BurgerTime World Tour (USA)</description>
+		<cloneof></cloneof>
+		<crc>312A0672</crc>
+		<manufacturer>MonkeyPaw Games</manufacturer>
+		<year>2012</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Burn the Rope (USA)" index="" image="">
+		<description>Burn the Rope (USA)</description>
+		<cloneof></cloneof>
+		<crc>6D8B22DE</crc>
+		<manufacturer>Big Blue Bubble</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bust-a-Move Plus! (USA)" index="" image="">
+		<description>Bust-a-Move Plus! (USA)</description>
+		<cloneof></cloneof>
+		<crc>5BF42D60</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmen Sandiego Adventures in Math - The Big Ben Burglary (USA)" index="true" image="c">
+		<description>Carmen Sandiego Adventures in Math: The Big Ben Burglary (USA)</description>
+		<cloneof></cloneof>
+		<crc>D5E00AAE</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmen Sandiego Adventures in Math - The Case of the Crumbling Cathedral (USA)" index="" image="">
+		<description>Carmen Sandiego Adventures in Math: The Case of the Crumbling Cathedral (USA)</description>
+		<cloneof></cloneof>
+		<crc>AE8E1F26</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2012</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmen Sandiego Adventures in Math - The Great Gateway Grab (USA)" index="" image="">
+		<description>Carmen Sandiego Adventures in Math: The Great Gateway Grab (USA)</description>
+		<cloneof></cloneof>
+		<crc>46BB359F</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2012</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmen Sandiego Adventures in Math - The Island of Diamonds (USA)" index="" image="">
+		<description>Carmen Sandiego Adventures in Math: The Island of Diamonds (USA)</description>
+		<cloneof></cloneof>
+		<crc>2688125F</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2012</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carmen Sandiego Adventures in Math - The Lady Liberty Larceny (USA)" index="" image="">
+		<description>Carmen Sandiego Adventures in Math: The Lady Liberty Larceny (USA)</description>
+		<cloneof></cloneof>
+		<crc>D6ABBC1</crc>
+		<manufacturer>The Learning Company</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Carnival King (USA)" index="" image="">
+		<description>Carnival King (USA)</description>
+		<cloneof></cloneof>
+		<crc>A957A98C</crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania - The Adventure ReBirth (USA)" index="" image="">
+		<description>Castlevania: The Adventure ReBirth (USA)</description>
+		<cloneof></cloneof>
+		<crc>40470D65</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cave Story (USA)" index="" image="">
+		<description>Cave Story (USA)</description>
+		<cloneof></cloneof>
+		<crc>B31D5893</crc>
+		<manufacturer>Nicalis</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chess Challenge! (USA)" index="" image="">
+		<description>Chess Challenge! (USA)</description>
+		<cloneof></cloneof>
+		<crc>421DDF9C</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2010</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chick Chick BOOM (USA)" index="" image="">
+		<description>Chick Chick BOOM (USA)</description>
+		<cloneof></cloneof>
+		<crc>D92245FB</crc>
+		<manufacturer>Tons of Bits</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chindouchuu!! Pole no Daibouken (Japan)" index="" image="">
+		<description>Chindouchuu!! Pole no Daibouken (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B55F3FA8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Christmas Clix (USA)" index="" image="">
+		<description>Christmas Clix (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8E492FD</crc>
+		<manufacturer>JV Games</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chronos Twins DX (USA)" index="" image="">
+		<description>Chronos Twins DX (USA)</description>
+		<cloneof></cloneof>
+		<crc>7812F620</crc>
+		<manufacturer>EnjoyUP Games</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocoto Fishing Master (USA)" index="" image="">
+		<description>Cocoto Fishing Master (USA)</description>
+		<cloneof></cloneof>
+		<crc>CF786A9E</crc>
+		<manufacturer>Neko Entertainment</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cocoto Platform Jumper (USA)" index="" image="">
+		<description>Cocoto Platform Jumper (USA)</description>
+		<cloneof></cloneof>
+		<crc>AF232671</crc>
+		<manufacturer>Neko Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ColorZ (USA)" index="" image="">
+		<description>ColorZ (USA)</description>
+		<cloneof></cloneof>
+		<crc>3AA3D264</crc>
+		<manufacturer>Exkee</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra ReBirth (USA)" index="" image="">
+		<description>Contra ReBirth (USA)</description>
+		<cloneof></cloneof>
+		<crc>4F212CE1</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copter Crisis (USA)" index="" image="">
+		<description>Copter Crisis (USA)</description>
+		<cloneof></cloneof>
+		<crc>FC138C2A</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2009</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cozy Fire (USA)" index="" image="">
+		<description>Cozy Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B9682C</crc>
+		<manufacturer>DTP Entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cricket Challenge (Europe)" index="" image="">
+		<description>Cricket Challenge (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4971416D</crc>
+		<manufacturer>Gameshastra</manufacturer>
+		<year>2011</year>
+		<genre>Sports/Cricket</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Critter Round-Up (USA)" index="" image="">
+		<description>Critter Round-Up (USA)</description>
+		<cloneof></cloneof>
+		<crc>AEB444F9</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cruise Party (USA)" index="" image="">
+		<description>Cruise Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>C589B49C</crc>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2010</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal Defenders R1 (USA)" index="" image="">
+		<description>Crystal Defenders R1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>F4DF7C25</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crystal Defenders R2 (USA)" index="" image="">
+		<description>Crystal Defenders R2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D23E375C</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dart Rage (USA)" index="true" image="d">
+		<description>Dart Rage (USA)</description>
+		<cloneof></cloneof>
+		<crc>BA7CA0D2</crc>
+		<manufacturer>JV Games</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darts Wii (Japan)" index="" image="">
+		<description>Darts Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>CE857A82</crc>
+		<manufacturer>Alpha Unit</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deer Captor (USA)" index="" image="">
+		<description>Deer Captor (USA)</description>
+		<cloneof></cloneof>
+		<crc>30951FA</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Hunting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defend Your Castle (USA)" index="" image="">
+		<description>Defend Your Castle (USA)</description>
+		<cloneof></cloneof>
+		<crc>DD2D8041</crc>
+		<manufacturer>XGen Studios</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Derby Dogs (USA)" index="" image="">
+		<description>Derby Dogs (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B42D333</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2010</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diatomic (USA)" index="" image="">
+		<description>Diatomic (USA)</description>
+		<cloneof></cloneof>
+		<crc>34F49C65</crc>
+		<manufacturer>Grendel Games</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Diner Dash (USA)" index="" image="">
+		<description>Diner Dash (USA)</description>
+		<cloneof></cloneof>
+		<crc>1216C03D</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Discipline - Teikoku no Tanjyou (Japan)" index="" image="">
+		<description>Discipline: Teikoku no Tanjyou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AD9B8603</crc>
+		<manufacturer>Marvelous Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dive - The Medes Islands Secret (USA)" index="" image="">
+		<description>Dive: The Medes Islands Secret (USA)</description>
+		<cloneof></cloneof>
+		<crc>579FF899</crc>
+		<manufacturer>Cosmonaut Games</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doc Clock - The Toasted Sandwich of Time (USA)" index="" image="">
+		<description>Doc Clock: The Toasted Sandwich of Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>F8980BD3</crc>
+		<manufacturer>Stickmen Studios</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doc Louiss Punch Out (USA) (Promo)" index="" image="">
+		<description>Doc Louiss Punch Out (USA) (Promo)</description>
+		<cloneof></cloneof>
+		<crc>AD30BD69</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Downtown Nekketsu Dodgeball (Japan)" index="" image="">
+		<description>Downtown Nekketsu Dodgeball (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BEB772AD</crc>
+		<manufacturer>Miracle Kidz</manufacturer>
+		<year>2011</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Mario Online Rx (USA)" index="" image="">
+		<description>Dr. Mario Online Rx (USA)</description>
+		<cloneof></cloneof>
+		<crc>F419561E</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dracula - Undead Awakening (USA)" index="" image="">
+		<description>Dracula: Undead Awakening (USA)</description>
+		<cloneof></cloneof>
+		<crc>B7FEF13F</crc>
+		<manufacturer>Chillingo</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Master Spell Caster (USA)" index="" image="">
+		<description>Dragon Master Spell Caster (USA)</description>
+		<cloneof></cloneof>
+		<crc>A920B42C</crc>
+		<manufacturer>Stickmen Studios</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Driift Mania (USA)" index="" image="">
+		<description>Driift Mania (USA)</description>
+		<cloneof></cloneof>
+		<crc>3DA7816C</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drill Sergeant Mindstrong (USA)" index="" image="">
+		<description>Drill Sergeant Mindstrong (USA)</description>
+		<cloneof></cloneof>
+		<crc>56BD95C7</crc>
+		<manufacturer>Xseed Games</manufacturer>
+		<year>2009</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drop Zone - Under Fire (USA)" index="" image="">
+		<description>Drop Zone: Under Fire (USA)</description>
+		<cloneof></cloneof>
+		<crc>4FEF2B8</crc>
+		<manufacturer>Selectsoft</manufacturer>
+		<year>2012</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eat! Fat! FIGHT! (USA)" index="true" image="e">
+		<description>Eat! Fat! FIGHT! (USA)</description>
+		<cloneof></cloneof>
+		<crc>5A6A5117</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2009</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eco Shooter - Plant 530 (USA)" index="" image="">
+		<description>Eco Shooter: Plant 530 (USA)</description>
+		<cloneof></cloneof>
+		<crc>C271373B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eduardo the Samurai Toaster (USA)" index="" image="">
+		<description>Eduardo the Samurai Toaster (USA)</description>
+		<cloneof></cloneof>
+		<crc>9430F631</crc>
+		<manufacturer>Semnat Studios</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Enjoy your Massage! (USA)" index="" image="">
+		<description>Enjoy your Massage! (USA)</description>
+		<cloneof></cloneof>
+		<crc>C11AA331</crc>
+		<manufacturer>Microforum</manufacturer>
+		<year>2010</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Equilibrio (USA)" index="" image="">
+		<description>Equilibrio (USA)</description>
+		<cloneof></cloneof>
+		<crc>E750E3DE</crc>
+		<manufacturer>DK Games</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="escapeVektor - Chapter 1 (USA)" index="" image="">
+		<description>escapeVektor: Chapter 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>82FABBBF</crc>
+		<manufacturer>Nnooo</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evasive Space (USA)" index="" image="">
+		<description>Evasive Space (USA)</description>
+		<cloneof></cloneof>
+		<crc>1B3F9EC6</crc>
+		<manufacturer>Yuke&apos;s</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Excitebike - World Rally (USA)" index="" image="">
+		<description>Excitebike: World Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>B8FDB831</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Motorcycle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-O-R-T-U-N-E - Hoshi no Furi Sosogu Oka (Japan)" index="true" image="f">
+		<description>F-O-R-T-U-N-E: Hoshi no Furi Sosogu Oka (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BE89DA51</crc>
+		<manufacturer>Cybird</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family &amp; Friends Party (USA)" index="" image="">
+		<description>Family &amp; Friends Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>72058546</crc>
+		<manufacturer>Gammick Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Card Games (USA)" index="" image="">
+		<description>Family Card Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>D73AAAC4</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Games - Pen and Paper Edition (USA)" index="" image="">
+		<description>Family Games: Pen and Paper Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>CAF0A830</crc>
+		<manufacturer>Icon Games</manufacturer>
+		<year>2010</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Glide Hockey (USA)" index="" image="">
+		<description>Family Glide Hockey (USA)</description>
+		<cloneof></cloneof>
+		<crc>EF83944E</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Go-Kart Racing (USA)" index="" image="">
+		<description>Family Go-Kart Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>D16C2DE9</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2010</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Mini Golf (USA)" index="" image="">
+		<description>Family Mini Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>4FAB85C8</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Pirate Party (USA)" index="" image="">
+		<description>Family Pirate Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>D8132D5E</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Slot Car Racing (USA)" index="" image="">
+		<description>Family Slot Car Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>366E2F0A</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Table Tennis (USA)" index="" image="">
+		<description>Family Table Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0010CAE</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2008</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Tennis (USA)" index="" image="">
+		<description>Family Tennis (USA)</description>
+		<cloneof></cloneof>
+		<crc>EC8883CC</crc>
+		<manufacturer>Aksys Games</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasic Cube (Japan)" index="" image="">
+		<description>Fantasic Cube (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3EF58FFD</crc>
+		<manufacturer>Zoom</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantastic Tambourine (Japan)" index="" image="">
+		<description>Fantastic Tambourine (Japan)</description>
+		<cloneof></cloneof>
+		<crc>88293498</crc>
+		<manufacturer>Zoom</manufacturer>
+		<year>2009</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Slots - Adventure Slots and Games (USA)" index="" image="">
+		<description>Fantasy Slots: Adventure Slots and Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>95DC9935</crc>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2010</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fast Draw Showdown (USA)" index="" image="">
+		<description>Fast Draw Showdown (USA)</description>
+		<cloneof></cloneof>
+		<crc>4C5F8B6C</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2010</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FAST - Racing League (USA)" index="" image="">
+		<description>FAST: Racing League (USA)</description>
+		<cloneof></cloneof>
+		<crc>42B7D256</crc>
+		<manufacturer>Shin&apos;en</manufacturer>
+		<year>2011</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fenimore Fillmore - The Westerner (USA)" index="" image="">
+		<description>Fenimore Fillmore: The Westerner (USA)</description>
+		<cloneof></cloneof>
+		<crc>63B36303</crc>
+		<manufacturer>Revistronic</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Crystal Chronicles - My Life as a Darklord (USA)" index="" image="">
+		<description>Final Fantasy Crystal Chronicles: My Life as a Darklord (USA)</description>
+		<cloneof></cloneof>
+		<crc>FF3FDD56</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy Crystal Chronicles - My Life as a King (USA)" index="" image="">
+		<description>Final Fantasy Crystal Chronicles: My Life as a King (USA)</description>
+		<cloneof></cloneof>
+		<crc>DAEEDD76</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2008</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Fantasy IV - The After Years (USA)" index="" image="">
+		<description>Final Fantasy IV: The After Years (USA)</description>
+		<cloneof></cloneof>
+		<crc>9005A588</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fireplacing (USA)" index="" image="">
+		<description>Fireplacing (USA)</description>
+		<cloneof></cloneof>
+		<crc>67699882</crc>
+		<manufacturer>Korner Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fish Tank (USA)" index="" image="">
+		<description>Fish Tank (USA)</description>
+		<cloneof></cloneof>
+		<crc>74CF9471</crc>
+		<manufacturer>iFun4all</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fish&apos;em All (USA)" index="" image="">
+		<description>Fish&apos;em All (USA)</description>
+		<cloneof></cloneof>
+		<crc>58290D90</crc>
+		<manufacturer>Abylight</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fishie Fishie (USA)" index="" image="">
+		<description>Fishie Fishie (USA)</description>
+		<cloneof></cloneof>
+		<crc>85CF9D50</crc>
+		<manufacturer>DK Games</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flight Control (USA)" index="" image="">
+		<description>Flight Control (USA)</description>
+		<cloneof></cloneof>
+		<crc>516B6E09</crc>
+		<manufacturer>Firemint</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flowerworks (USA)" index="" image="">
+		<description>Flowerworks (USA)</description>
+		<cloneof></cloneof>
+		<crc>12873677</crc>
+		<manufacturer>Nocturnal Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fluidity (USA)" index="" image="">
+		<description>Fluidity (USA)</description>
+		<cloneof></cloneof>
+		<crc>74F0F9BB</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frobot (USA)" index="" image="">
+		<description>Frobot (USA)</description>
+		<cloneof></cloneof>
+		<crc>7D7B09C8</crc>
+		<manufacturer>Fugazo</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger Returns (USA)" index="" image="">
+		<description>Frogger Returns (USA)</description>
+		<cloneof></cloneof>
+		<crc>5A9A8C3C</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frogger - Hyper Arcade Edition (USA)" index="" image="">
+		<description>Frogger: Hyper Arcade Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>D54E9259</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fun! Fun! Minigolf (USA)" index="" image="">
+		<description>Fun! Fun! Minigolf (USA)</description>
+		<cloneof></cloneof>
+		<crc>585B1FB3</crc>
+		<manufacturer>Shin&apos;en</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Furry Legends (USA)" index="" image="">
+		<description>Furry Legends (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F16AEFD</crc>
+		<manufacturer>Gamelion Studios</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gabrielle&apos;s Ghostly Groove - Monster Mix (USA)" index="true" image="g">
+		<description>Gabrielle&apos;s Ghostly Groove: Monster Mix (USA)</description>
+		<cloneof></cloneof>
+		<crc>3E4782E3</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2011</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Sound Station (Japan)" index="" image="">
+		<description>Game Sound Station (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B4C09660</crc>
+		<manufacturer>Gust</manufacturer>
+		<year>2009</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gene Labs (USA)" index="" image="">
+		<description>Gene Labs (USA)</description>
+		<cloneof></cloneof>
+		<crc>37D9F53E</crc>
+		<manufacturer>Frontline Studios</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost Mania (USA)" index="" image="">
+		<description>Ghost Mania (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E7FC1FF</crc>
+		<manufacturer>Legendo Entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ghost Mansion Party (USA)" index="" image="">
+		<description>Ghost Mansion Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>41F66D75</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GhostSlayer (USA)" index="" image="">
+		<description>GhostSlayer (USA)</description>
+		<cloneof></cloneof>
+		<crc>887F2B72</crc>
+		<manufacturer>Gevo Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Girlfriends Forever - Magic Skate (Europe)" index="" image="">
+		<description>Girlfriends Forever: Magic Skate (Europe)</description>
+		<cloneof></cloneof>
+		<crc>18B1CE6F</crc>
+		<manufacturer>Kolkom</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Skating</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gnomz (USA)" index="" image="">
+		<description>Gnomz (USA)</description>
+		<cloneof></cloneof>
+		<crc>64B05FD1</crc>
+		<manufacturer>QubicGames</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gods vs. Humans (USA)" index="" image="">
+		<description>Gods vs. Humans (USA)</description>
+		<cloneof></cloneof>
+		<crc>9C1642CF</crc>
+		<manufacturer>Zallag</manufacturer>
+		<year>2010</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gradius ReBirth (USA)" index="" image="">
+		<description>Gradius ReBirth (USA)</description>
+		<cloneof></cloneof>
+		<crc>21704887</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gravitronix (USA)" index="" image="">
+		<description>Gravitronix (USA)</description>
+		<cloneof></cloneof>
+		<crc>64ADD3B9</crc>
+		<manufacturer>Medaverse Studios</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grill-Off with Ultra Hand! (USA) (Promo)" index="" image="">
+		<description>Grill-Off with Ultra Hand! (USA) (Promo)</description>
+		<cloneof></cloneof>
+		<crc>4FB2AC67</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Groovin&apos; Blocks (USA)" index="" image="">
+		<description>Groovin&apos; Blocks (USA)</description>
+		<cloneof></cloneof>
+		<crc>5FF1B7F5</crc>
+		<manufacturer>Empty Clip Studios</manufacturer>
+		<year>2008</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gyrostarr (USA)" index="" image="">
+		<description>Gyrostarr (USA)</description>
+		<cloneof></cloneof>
+		<crc>DDE38445</crc>
+		<manufacturer>High Voltage Software</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hajiite! Block Rush (Japan)" index="true" image="h">
+		<description>Hajiite! Block Rush (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7F19FF05</crc>
+		<manufacturer>Agenda</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hamekomi Lucky Puzzle Wii Returns (Japan)" index="" image="">
+		<description>Hamekomi Lucky Puzzle Wii Returns (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2B7FF079</crc>
+		<manufacturer>Tryfirst</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Hammerin&apos; (USA)" index="" image="">
+		<description>Happy Hammerin&apos; (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8E31B4A</crc>
+		<manufacturer>Gamebridge</manufacturer>
+		<year>2010</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Holidays - Christmas (USA)" index="" image="">
+		<description>Happy Holidays: Christmas (USA)</description>
+		<cloneof></cloneof>
+		<crc>21D48499</crc>
+		<manufacturer>505 Games</manufacturer>
+		<year>2009</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Holidays - Halloween (USA)" index="" image="">
+		<description>Happy Holidays: Halloween (USA)</description>
+		<cloneof></cloneof>
+		<crc>E79C5B25</crc>
+		<manufacturer>505 Games</manufacturer>
+		<year>2010</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon - My Little Shop (USA)" index="" image="">
+		<description>Harvest Moon: My Little Shop (USA)</description>
+		<cloneof></cloneof>
+		<crc>1F5D894D</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2009</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HB Arcade Cards (USA)" index="" image="">
+		<description>HB Arcade Cards (USA)</description>
+		<cloneof></cloneof>
+		<crc>C6CF3B95</crc>
+		<manufacturer>HB Studios Multimedia</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HB Arcade Disc Golf (USA)" index="" image="">
+		<description>HB Arcade Disc Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>74EE16F2</crc>
+		<manufacturer>HB Studios Multimedia</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Fire - Black Arms (USA)" index="" image="">
+		<description>Heavy Fire: Black Arms (USA)</description>
+		<cloneof></cloneof>
+		<crc>C2B5C271</crc>
+		<manufacturer>Teyon</manufacturer>
+		<year>2011</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Fire - Special Operations (USA)" index="" image="">
+		<description>Heavy Fire: Special Operations (USA)</description>
+		<cloneof></cloneof>
+		<crc>94436D01</crc>
+		<manufacturer>Teyon</manufacturer>
+		<year>2010</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Helix (USA)" index="" image="">
+		<description>Helix (USA)</description>
+		<cloneof></cloneof>
+		<crc>B49FCB97</crc>
+		<manufacturer>Ghostfire Games</manufacturer>
+		<year>2008</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heracles Chariot Racing (USA)" index="" image="">
+		<description>Heracles Chariot Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>373DE671</crc>
+		<manufacturer>Neko Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heron - Steam Machine (USA)" index="" image="">
+		<description>Heron: Steam Machine (USA)</description>
+		<cloneof></cloneof>
+		<crc>3B815E4C</crc>
+		<manufacturer>Triangle Studios</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Voltage Hot Rod Show (USA)" index="" image="">
+		<description>High Voltage Hot Rod Show (USA)</description>
+		<cloneof></cloneof>
+		<crc>9797D0F6</crc>
+		<manufacturer>High Voltage Software</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hirameki Card Battle - Mekuruka (Japan)" index="" image="">
+		<description>Hirameki Card Battle: Mekuruka (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5543ADAF</crc>
+		<manufacturer>Tom Create</manufacturer>
+		<year>2009</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hockey Allstar Shootout (USA)" index="" image="">
+		<description>Hockey Allstar Shootout (USA)</description>
+		<cloneof></cloneof>
+		<crc>1D486ED0</crc>
+		<manufacturer>Big Blue Bubble</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Sweet Home (USA)" index="" image="">
+		<description>Home Sweet Home (USA)</description>
+		<cloneof></cloneof>
+		<crc>D405C222</crc>
+		<manufacturer>Big Blue Bubble</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HoopWorld (USA)" index="" image="">
+		<description>HoopWorld (USA)</description>
+		<cloneof></cloneof>
+		<crc>A8C140C</crc>
+		<manufacturer>Virtual Toys</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Horizon Riders (USA)" index="" image="">
+		<description>Horizon Riders (USA)</description>
+		<cloneof></cloneof>
+		<crc>A36561CD</crc>
+		<manufacturer>Sabarasa Entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hubert the Teddy Bear - Winter Games (USA)" index="" image="">
+		<description>Hubert the Teddy Bear: Winter Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC7C9D87</crc>
+		<manufacturer>Teyon</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incoming! (USA)" index="true" image="i">
+		<description>Incoming! (USA)</description>
+		<cloneof></cloneof>
+		<crc>F07199A8</crc>
+		<manufacturer>JV Games</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Maze, The (USA)" index="" image="">
+		<description>Incredible Maze, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>138E557E</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inkub (USA)" index="" image="">
+		<description>Inkub (USA)</description>
+		<cloneof></cloneof>
+		<crc>E793DBBC</crc>
+		<manufacturer>Cosmonaut Games</manufacturer>
+		<year>2010</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ivy the Kiwi - Mini (Japan)" index="" image="">
+		<description>Ivy the Kiwi: Mini (Japan)</description>
+		<cloneof></cloneof>
+		<crc>854AB26E</crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jam City Rollergirls (USA)" index="true" image="j">
+		<description>Jam City Rollergirls (USA)</description>
+		<cloneof></cloneof>
+		<crc>5EAD7FD3</crc>
+		<manufacturer>Frozen Codebase</manufacturer>
+		<year>2011</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Janken Party Paradise (Japan)" index="" image="">
+		<description>Janken Party Paradise (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2E991C8B</crc>
+		<manufacturer>Studio Zan</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JellyCar 2 (USA)" index="" image="">
+		<description>JellyCar 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>9E924AD1</crc>
+		<manufacturer>Disney Interactive Studios</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jett Rocket (USA)" index="" image="">
+		<description>Jett Rocket (USA)</description>
+		<cloneof></cloneof>
+		<crc>D560C001</crc>
+		<manufacturer>Shin&apos;en</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jewel Keepers - Easter Island (USA)" index="" image="">
+		<description>Jewel Keepers: Easter Island (USA)</description>
+		<cloneof></cloneof>
+		<crc>AAD9F060</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jinsei Game (Japan)" index="" image="">
+		<description>Jinsei Game (Japan)</description>
+		<cloneof></cloneof>
+		<crc>778BDC57</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jinsei Game - Happy Step (Japan)" index="" image="">
+		<description>Jinsei Game: Happy Step (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A34E0597</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2010</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jintori Action! Taikoukenchi - Karakuri Shiro no Nazo (Japan)" index="" image="">
+		<description>Jintori Action! Taikoukenchi: Karakuri Shiro no Nazo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F29769BC</crc>
+		<manufacturer>Perpetuum</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Speed (USA)" index="" image="">
+		<description>Jungle Speed (USA)</description>
+		<cloneof></cloneof>
+		<crc>241A7225</crc>
+		<manufacturer>Playful Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Just JAM (USA)" index="" image="">
+		<description>Just JAM (USA)</description>
+		<cloneof></cloneof>
+		<crc>6A34058D</crc>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2011</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kaku! Ugoku! Tsukamaeru! Sensei Wii (Japan)" index="true" image="k">
+		<description>Kaku! Ugoku! Tsukamaeru! Sensei Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FA1155AE</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kanken - Minna de Wai Wai Kanji Nou (Japan)" index="" image="">
+		<description>Kanken: Minna de Wai Wai Kanji Nou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>35DDBA67</crc>
+		<manufacturer>IE Institute</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kappa-kun to Asobou - Kappa-kun no Ota no Shimikai (Japan)" index="" image="">
+		<description>Kappa-kun to Asobou: Kappa-kun no Ota no Shimikai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9AF51029</crc>
+		<manufacturer>Studio Zan</manufacturer>
+		<year>2008</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kappa-kun to Asobou - Kappa-kun to 3 Bikino Koneko (Japan)" index="" image="">
+		<description>Kappa-kun to Asobou: Kappa-kun to 3 Bikino Koneko (Japan)</description>
+		<cloneof></cloneof>
+		<crc>DFEF06F5</crc>
+		<manufacturer>Studio Zan</manufacturer>
+		<year>2009</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kappa-kun to Asobou - Kappa-kun to Mori no Nakamatachi (Japan)" index="" image="">
+		<description>Kappa-kun to Asobou: Kappa-kun to Mori no Nakamatachi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E5BF773B</crc>
+		<manufacturer>Studio Zan</manufacturer>
+		<year>2008</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karaoke Joysound Wii (Japan)" index="" image="">
+		<description>Karaoke Joysound Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3E7C2C44</crc>
+		<manufacturer>XING</manufacturer>
+		<year>2012</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Karate Phants - Gloves of Glory (Europe)" index="" image="">
+		<description>Karate Phants: Gloves of Glory (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2EC7E612</crc>
+		<manufacturer>Snap Dragon Games</manufacturer>
+		<year>2009</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kentei TV! Wii - Minna de Gotouchi Quiz Battle! (Japan)" index="" image="">
+		<description>Kentei TV! Wii: Minna de Gotouchi Quiz Battle! (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C44FE2E5</crc>
+		<manufacturer>Kosaido</manufacturer>
+		<year>2009</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kentoushi - Furi Furi Boxing (Japan)" index="" image="">
+		<description>Kentoushi: Furi Furi Boxing (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5D5356B4</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kodomo Kyouiku Terebi Wii - Aiue Ouchan (Japan)" index="" image="">
+		<description>Kodomo Kyouiku Terebi Wii: Aiue Ouchan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A5884F69</crc>
+		<manufacturer>HomeMedia</manufacturer>
+		<year>2009</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kodomo Kyouiku Terebi Wii - Aiue Oumuzu (Japan)" index="" image="">
+		<description>Kodomo Kyouiku Terebi Wii: Aiue Oumuzu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>727D0A50</crc>
+		<manufacturer>HomeMedia</manufacturer>
+		<year>2009</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kotoba no Puzzle - Mojipittan Wii (Japan)" index="" image="">
+		<description>Kotoba no Puzzle: Mojipittan Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6DC43779</crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kung Fu Funk - Everybody is Kung Fu Fighting! (USA)" index="" image="">
+		<description>Kung Fu Funk: Everybody is Kung Fu Fighting! (USA)</description>
+		<cloneof></cloneof>
+		<crc>606D7FC</crc>
+		<manufacturer>Stickmen Studios</manufacturer>
+		<year>2010</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kyotokei (USA)" index="" image="">
+		<description>Kyotokei (USA)</description>
+		<cloneof></cloneof>
+		<crc>E23FE4A0</crc>
+		<manufacturer>Microforum</manufacturer>
+		<year>2011</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="La-Mulana (USA)" index="true" image="l">
+		<description>La-Mulana (USA)</description>
+		<cloneof></cloneof>
+		<crc>6F11702B</crc>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lead the Meerkats (USA)" index="" image="">
+		<description>Lead the Meerkats (USA)</description>
+		<cloneof></cloneof>
+		<crc>3D7EE0D9</crc>
+		<manufacturer>Lapland Studio</manufacturer>
+		<year>2010</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Learning with The PooYoos - Episode 1 (USA)" index="" image="">
+		<description>Learning with The PooYoos: Episode 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>339F097D</crc>
+		<manufacturer>Lexis Numerique</manufacturer>
+		<year>2009</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Learning with The PooYoos - Episode 2 (USA)" index="" image="">
+		<description>Learning with The PooYoos: Episode 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D80A5D26</crc>
+		<manufacturer>Lexis Numerique</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Learning with The PooYoos - Episode 3 (USA)" index="" image="">
+		<description>Learning with The PooYoos: Episode 3 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3E5C30F</crc>
+		<manufacturer>Lexis Numerique</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Catch (USA)" index="" image="">
+		<description>Let&apos;s Catch (USA)</description>
+		<cloneof></cloneof>
+		<crc>7EB983CD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Create! - Pottery (USA)" index="" image="">
+		<description>Let&apos;s Create!: Pottery (USA)</description>
+		<cloneof></cloneof>
+		<crc>BCE64481</crc>
+		<manufacturer>Infinite Dreams</manufacturer>
+		<year>2012</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Let&apos;s Zenryoku Hitchhike!!!!!!!!! (Japan)" index="" image="">
+		<description>Let&apos;s Zenryoku Hitchhike!!!!!!!!! (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5495F8B1</crc>
+		<manufacturer>Nippon Ichi Software</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Licca-chan Oshare House (Japan)" index="" image="">
+		<description>Licca-chan Oshare House (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E6E36CD9</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2009</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Liight (USA)" index="" image="">
+		<description>Liight (USA)</description>
+		<cloneof></cloneof>
+		<crc>9041D68</crc>
+		<manufacturer>Studio Walljump</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lilt Line (USA)" index="" image="">
+		<description>Lilt Line (USA)</description>
+		<cloneof></cloneof>
+		<crc>806FEF89</crc>
+		<manufacturer>Gaijin Games</manufacturer>
+		<year>2010</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Line Attack Heroes (Japan)" index="" image="">
+		<description>Line Attack Heroes (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9C11CB41</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LIT (USA)" index="" image="">
+		<description>LIT (USA)</description>
+		<cloneof></cloneof>
+		<crc>A7B8A22B</crc>
+		<manufacturer>WayForward</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Tournament Over Yonder (USA)" index="" image="">
+		<description>Little Tournament Over Yonder (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2C03012</crc>
+		<manufacturer>Gevo Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lonpos (USA)" index="" image="">
+		<description>Lonpos (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5D0492A</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LostWinds (USA)" index="" image="">
+		<description>LostWinds (USA)</description>
+		<cloneof></cloneof>
+		<crc>93FB215A</crc>
+		<manufacturer>Frontier Developments, Square Enix</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="LostWinds - Winter of the Melodias (USA)" index="" image="">
+		<description>LostWinds: Winter of the Melodias (USA)</description>
+		<cloneof></cloneof>
+		<crc>81CB8CFC</crc>
+		<manufacturer>Frontier Developments</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maboshi&apos;s Arcade (USA)" index="true" image="m">
+		<description>Maboshi&apos;s Arcade (USA)</description>
+		<cloneof></cloneof>
+		<crc>C54E66DD</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MadStone (USA)" index="" image="">
+		<description>MadStone (USA)</description>
+		<cloneof></cloneof>
+		<crc>89D8E8DE</crc>
+		<manufacturer>RiverMan Media</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Destiny - Astrological Games (USA)" index="" image="">
+		<description>Magic Destiny: Astrological Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>1BF3D1A8</crc>
+		<manufacturer>Shanblue Interactive</manufacturer>
+		<year>2001</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Obelisk, The (USA)" index="" image="">
+		<description>Magic Obelisk, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>19E91645</crc>
+		<manufacturer>Game Arts</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magnetica Twist (USA)" index="" image="">
+		<description>Magnetica Twist (USA)</description>
+		<cloneof></cloneof>
+		<crc>9D7D9450</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magnetis (USA)" index="" image="">
+		<description>Magnetis (USA)</description>
+		<cloneof></cloneof>
+		<crc>61E111A7</crc>
+		<manufacturer>Yullaby</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahjong (Europe)" index="" image="">
+		<description>Mahjong (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A46C03E2</crc>
+		<manufacturer>Cosmigo</manufacturer>
+		<year>2009</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Major League Eating - The Game (USA)" index="" image="">
+		<description>Major League Eating: The Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA4E2A9</crc>
+		<manufacturer>Mastiff</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manic Monkey Mayhem (USA)" index="" image="">
+		<description>Manic Monkey Mayhem (USA)</description>
+		<cloneof></cloneof>
+		<crc>58CBAA4C</crc>
+		<manufacturer>Code Monkeys</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mart Racer (USA)" index="" image="">
+		<description>Mart Racer (USA)</description>
+		<cloneof></cloneof>
+		<crc>A6C23977</crc>
+		<manufacturer>Joju Games</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Max &amp; the Magic Marker (USA)" index="" image="">
+		<description>Max &amp; the Magic Marker (USA)</description>
+		<cloneof></cloneof>
+		<crc>B2261639</crc>
+		<manufacturer>Press Play</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MDK2 (USA)" index="" image="">
+		<description>MDK2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7198E25</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>2011</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man 10 (USA)" index="" image="">
+		<description>Mega Man 10 (USA)</description>
+		<cloneof></cloneof>
+		<crc>23BDD90D</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man 9 (USA)" index="" image="">
+		<description>Mega Man 9 (USA)</description>
+		<cloneof></cloneof>
+		<crc>BC2A8FEE</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2008</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midnight Bowling (USA)" index="" image="">
+		<description>Midnight Bowling (USA)</description>
+		<cloneof></cloneof>
+		<crc>364AB2D3</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Bowling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Midnight Pool (USA)" index="" image="">
+		<description>Midnight Pool (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EF6E530</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miffy&apos;s World (Europe)" index="" image="">
+		<description>Miffy&apos;s World (Europe)</description>
+		<cloneof></cloneof>
+		<crc>6771F202</crc>
+		<manufacturer>PAN Vision</manufacturer>
+		<year>2010</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Military Madness - Nectaris (USA)" index="" image="">
+		<description>Military Madness: Nectaris (USA)</description>
+		<cloneof></cloneof>
+		<crc>2E216E87</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de Asobou - Koinu de Kururin (Japan)" index="" image="">
+		<description>Minna de Asobou: Koinu de Kururin (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B03FBF06</crc>
+		<manufacturer>MTO</manufacturer>
+		<year>2008</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de Taisen Puzzle - Shanghai Wii (Japan)" index="" image="">
+		<description>Minna de Taisen Puzzle: Shanghai Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>119E3D17</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de Tobikome! Penguin Diving - Hooper Looper (Japan)" index="" image="">
+		<description>Minna de Tobikome! Penguin Diving: Hooper Looper (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2427DCD8</crc>
+		<manufacturer>Agenda</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mister Bumblebee Racing Champion (Europe)" index="" image="">
+		<description>Mister Bumblebee Racing Champion (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A92AD39C</crc>
+		<manufacturer>h2f Informationssysteme</manufacturer>
+		<year>2010</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mix Superstar (USA)" index="" image="">
+		<description>Mix Superstar (USA)</description>
+		<cloneof></cloneof>
+		<crc>C225252B</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2010</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moebius Drive (Japan)" index="" image="">
+		<description>Moebius Drive (Japan)</description>
+		<cloneof></cloneof>
+		<crc>EBF232B0</crc>
+		<manufacturer>Jorudan</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moki Moki (USA)" index="" image="">
+		<description>Moki Moki (USA)</description>
+		<cloneof></cloneof>
+		<crc>52CE8727</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monochrome Racing (USA)" index="" image="">
+		<description>Monochrome Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B536F91</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2011</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monsteca Corral, A - Monsters vs. Robots (USA)" index="" image="">
+		<description>Monsteca Corral, A: Monsters vs. Robots (USA)</description>
+		<cloneof></cloneof>
+		<crc>F8BFD2D2</crc>
+		<manufacturer>Onteca</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MotoHeroz (USA)" index="" image="">
+		<description>MotoHeroz (USA)</description>
+		<cloneof></cloneof>
+		<crc>529498CE</crc>
+		<manufacturer>RedLynx</manufacturer>
+		<year>2011</year>
+		<genre>Motorcycle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mouse House (USA)" index="" image="">
+		<description>Mouse House (USA)</description>
+		<cloneof></cloneof>
+		<crc>5967441C</crc>
+		<manufacturer>Big John Games</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. Driller W (USA)" index="" image="">
+		<description>Mr. Driller W (USA)</description>
+		<cloneof></cloneof>
+		<crc>3347E710</crc>
+		<manufacturer>Namco Bandai</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muscle March (USA)" index="" image="">
+		<description>Muscle March (USA)</description>
+		<cloneof></cloneof>
+		<crc>C4AB5256</crc>
+		<manufacturer>Namco Bandai</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Aquarium (USA)" index="" image="">
+		<description>My Aquarium (USA)</description>
+		<cloneof></cloneof>
+		<crc>25725328</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2008</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Aquarium 2 (USA)" index="" image="">
+		<description>My Aquarium 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>83590274</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2010</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Dolphin (USA)" index="" image="">
+		<description>My Dolphin (USA)</description>
+		<cloneof></cloneof>
+		<crc>76F7483E</crc>
+		<manufacturer>T&amp;S</manufacturer>
+		<year>2009</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Little Baby (USA)" index="" image="">
+		<description>My Little Baby (USA)</description>
+		<cloneof></cloneof>
+		<crc>B677340F</crc>
+		<manufacturer>dtp young entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Planetarium (USA)" index="" image="">
+		<description>My Planetarium (USA)</description>
+		<cloneof></cloneof>
+		<crc>2D493240</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Pokemon Ranch (USA)" index="" image="">
+		<description>My Pokemon Ranch (USA)</description>
+		<cloneof></cloneof>
+		<crc>61175D04</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="My Zoo (USA)" index="" image="">
+		<description>My Zoo (USA)</description>
+		<cloneof></cloneof>
+		<crc>C099630C</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystery of Whiterock Castle, The (USA)" index="" image="">
+		<description>Mystery of Whiterock Castle, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3175DE56</crc>
+		<manufacturer>RTL Interactive</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neves Plus (USA)" index="true" image="n">
+		<description>Neves Plus (USA)</description>
+		<cloneof></cloneof>
+		<crc>55727688</crc>
+		<manufacturer>Yuke&apos;s</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Newton vs The Horde (USA)" index="" image="">
+		<description>Newton vs The Horde (USA)</description>
+		<cloneof></cloneof>
+		<crc>754EA2C3</crc>
+		<manufacturer>RadiationBurn</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Niki - Rock &apos;n&apos; Ball (USA)" index="" image="">
+		<description>Niki: Rock &apos;n&apos; Ball (USA)</description>
+		<cloneof></cloneof>
+		<crc>422764A3</crc>
+		<manufacturer>Bplus</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NyxQuest - Kindred Spirits (USA)" index="" image="">
+		<description>NyxQuest: Kindred Spirits (USA)</description>
+		<cloneof></cloneof>
+		<crc>E63A0C66</crc>
+		<manufacturer>Over The Top Games</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oekaki Logic (Japan)" index="true" image="o">
+		<description>Oekaki Logic (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E8C6CB14</crc>
+		<manufacturer>G-Mode</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Onslaught (USA)" index="" image="">
+		<description>Onslaught (USA)</description>
+		<cloneof></cloneof>
+		<crc>5AD2D7EB</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Order!! (Japan)" index="" image="">
+		<description>Order!! (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D9637B2</crc>
+		<manufacturer>Poisoft</manufacturer>
+		<year>2009</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Osu! Exercise Doujou (Japan)" index="" image="">
+		<description>Osu! Exercise Doujou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D8F4309B</crc>
+		<manufacturer>IE Institute</manufacturer>
+		<year>2010</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Othello (Japan)" index="" image="">
+		<description>Othello (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3378ED9F</crc>
+		<manufacturer>Arc System Works</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ouchide Mugen Puti Puti (Japan)" index="" image="">
+		<description>Ouchide Mugen Puti Puti (Japan)</description>
+		<cloneof></cloneof>
+		<crc>816EA202</crc>
+		<manufacturer>Bandai Namco Games</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out of Galaxy - Gin no Koushika (Japan)" index="" image="">
+		<description>Out of Galaxy: Gin no Koushika (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D221E3F5</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Overflow (USA)" index="" image="">
+		<description>Overflow (USA)</description>
+		<cloneof></cloneof>
+		<crc>C8321320</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Overturn (USA)" index="" image="">
+		<description>Overturn (USA)</description>
+		<cloneof></cloneof>
+		<crc>80388216</crc>
+		<manufacturer>Studio Zan</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paint Splash (USA)" index="true" image="p">
+		<description>Paint Splash (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD5CBA5B</crc>
+		<manufacturer>KnapNok Games</manufacturer>
+		<year>2011</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pallurikio (USA)" index="" image="">
+		<description>Pallurikio (USA)</description>
+		<cloneof></cloneof>
+		<crc>97EA3745</crc>
+		<manufacturer>Playstos Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paper Wars - Cannon Fodder (USA)" index="" image="">
+		<description>Paper Wars: Cannon Fodder (USA)</description>
+		<cloneof></cloneof>
+		<crc>67A06CDB</crc>
+		<manufacturer>iFun4all</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Party Fun Pirate (USA)" index="" image="">
+		<description>Party Fun Pirate (USA)</description>
+		<cloneof></cloneof>
+		<crc>267B9937</crc>
+		<manufacturer>Tomy Corporation</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pearl Harbor - Episode 1 - Red Sun Rising (USA)" index="" image="">
+		<description>Pearl Harbor: Episode 1: Red Sun Rising (USA)</description>
+		<cloneof></cloneof>
+		<crc>E2934FE9</crc>
+		<manufacturer>Legendo Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguins &amp; Friends - Hey! That&apos;s My Fish! (USA)" index="" image="">
+		<description>Penguins &amp; Friends: Hey! That&apos;s My Fish! (USA)</description>
+		<cloneof></cloneof>
+		<crc>AE82171C</crc>
+		<manufacturer>Gammick Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phalanx (Japan)" index="" image="">
+		<description>Phalanx (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F9036793</crc>
+		<manufacturer>Zoom</manufacturer>
+		<year>2009</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney (USA)</description>
+		<cloneof></cloneof>
+		<crc>947DDCC4</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney Justice for All (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney Justice for All (USA)</description>
+		<cloneof></cloneof>
+		<crc>A44EBD50</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phoenix Wright - Ace Attorney Trials and Tribulations (USA)" index="" image="">
+		<description>Phoenix Wright: Ace Attorney Trials and Tribulations (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2B5277B</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Physio Fun - Balance Training (Europe)" index="" image="">
+		<description>Physio Fun: Balance Training (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EE9AF9F</crc>
+		<manufacturer>Kaasa Solution</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Physio Fun - Pelvic Floor Training (Europe)" index="" image="">
+		<description>Physio Fun: Pelvic Floor Training (Europe)</description>
+		<cloneof></cloneof>
+		<crc>44003572</crc>
+		<manufacturer>Kaasa Solution</manufacturer>
+		<year>2011</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PictureBook Games - Pop-Up Pursuit (USA)" index="" image="">
+		<description>PictureBook Games: Pop-Up Pursuit (USA)</description>
+		<cloneof></cloneof>
+		<crc>971F93</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinocchio&apos;s Puzzle (USA)" index="" image="">
+		<description>Pinocchio&apos;s Puzzle (USA)</description>
+		<cloneof></cloneof>
+		<crc>DC3C9A31</crc>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates - The Key of Dreams (USA)" index="" image="">
+		<description>Pirates: The Key of Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>83077BEF</crc>
+		<manufacturer>Oxygen Interactive</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pit Crew Panic! (USA)" index="" image="">
+		<description>Pit Crew Panic! (USA)</description>
+		<cloneof></cloneof>
+		<crc>D7807802</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plaettchen Twist &apos;n&apos; Paint (USA)" index="" image="">
+		<description>Plaettchen Twist &apos;n&apos; Paint (USA)</description>
+		<cloneof></cloneof>
+		<crc>7246013A</crc>
+		<manufacturer>Bplus</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planet Fish (USA)" index="" image="">
+		<description>Planet Fish (USA)</description>
+		<cloneof></cloneof>
+		<crc>CD2A1699</crc>
+		<manufacturer>Ludia</manufacturer>
+		<year>2011</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Planet Pachinko (USA)" index="" image="">
+		<description>Planet Pachinko (USA)</description>
+		<cloneof></cloneof>
+		<crc>B88D4212</crc>
+		<manufacturer>Allied Kingdoms</manufacturer>
+		<year>2009</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Play with Birds (USA)" index="" image="">
+		<description>Play with Birds (USA)</description>
+		<cloneof></cloneof>
+		<crc>23AB8384</crc>
+		<manufacturer>Games Farm</manufacturer>
+		<year>2011</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan)" index="" image="">
+		<description>Pokemon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>ECA431E2</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Fushigi no Dungeon - Mezase! Hikari no Boukendan (Japan)" index="" image="">
+		<description>Pokemon Fushigi no Dungeon: Mezase! Hikari no Boukendan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FA339B9B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan)" index="" image="">
+		<description>Pokemon Fushigi no Dungeon: Susume! Honou no Boukendan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8A4F7FC</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Rumble (USA)" index="" image="">
+		<description>Pokemon Rumble (USA)</description>
+		<cloneof></cloneof>
+		<crc>26BA0575</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokers Wii (Japan)" index="" image="">
+		<description>Pokers Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>34703667</crc>
+		<manufacturer>Milestone</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokosuka Racing (Japan)" index="" image="">
+		<description>Pokosuka Racing (Japan)</description>
+		<cloneof></cloneof>
+		<crc>672CD374</crc>
+		<manufacturer>Recom</manufacturer>
+		<year>2010</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pong Toss Pro - Frat Party Games (USA)" index="" image="">
+		<description>Pong Toss Pro: Frat Party Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>CBFB6D1A</crc>
+		<manufacturer>JV Games</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pong Toss! Frat Party Games (USA)" index="" image="">
+		<description>Pong Toss! Frat Party Games (USA)</description>
+		<cloneof></cloneof>
+		<crc>CBC8C9E3</crc>
+		<manufacturer>JV Games</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ponjan Wii (Japan)" index="" image="">
+		<description>Ponjan Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6A47F1BF</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pool Revolution - Cue Sports (USA)" index="" image="">
+		<description>Pool Revolution: Cue Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>C123B625</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2008</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop &apos;Em, Drop &apos;Em SameGame (USA)" index="" image="">
+		<description>Pop &apos;Em, Drop &apos;Em SameGame (USA)</description>
+		<cloneof></cloneof>
+		<crc>3C3D899</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop (USA)" index="" image="">
+		<description>Pop (USA)</description>
+		<cloneof></cloneof>
+		<crc>B71F1D80</crc>
+		<manufacturer>Nnooo</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Popple to Mahou no Crayon (Japan)" index="" image="">
+		<description>Popple to Mahou no Crayon (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B427B5D3</crc>
+		<manufacturer>G-Mode</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Potpourrii (USA)" index="" image="">
+		<description>Potpourrii (USA)</description>
+		<cloneof></cloneof>
+		<crc>233605DB</crc>
+		<manufacturer>Abstraction Games</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Princess Ai Monogatari (Japan)" index="" image="">
+		<description>Princess Ai Monogatari (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7157D5F3</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2009</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Protoethea (USA)" index="" image="">
+		<description>Protoethea (USA)</description>
+		<cloneof></cloneof>
+		<crc>B5F4B270</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pub Darts (USA)" index="" image="">
+		<description>Pub Darts (USA)</description>
+		<cloneof></cloneof>
+		<crc>F4AE4727</crc>
+		<manufacturer>Big Blue Bubble</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pucca&apos;s Kisses Game (USA)" index="" image="">
+		<description>Pucca&apos;s Kisses Game (USA)</description>
+		<cloneof></cloneof>
+		<crc>5B080650</crc>
+		<manufacturer>BigBen Interactive</manufacturer>
+		<year>2011</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rabbids Lab (USA)" index="true" image="r">
+		<description>Rabbids Lab (USA)</description>
+		<cloneof></cloneof>
+		<crc>2591F70A</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2009</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racers&apos; Islands - Crazy Arenas (USA)" index="" image="">
+		<description>Racers&apos; Islands: Crazy Arenas (USA)</description>
+		<cloneof></cloneof>
+		<crc>551438CD</crc>
+		<manufacturer>Zallag</manufacturer>
+		<year>2010</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Racers&apos; Islands - Crazy Racers (USA)" index="" image="">
+		<description>Racers&apos; Islands: Crazy Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>814E5CD7</crc>
+		<manufacturer>Zallag</manufacturer>
+		<year>2010</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rage of the Gladiator (USA)" index="" image="">
+		<description>Rage of the Gladiator (USA)</description>
+		<cloneof></cloneof>
+		<crc>2F81A216</crc>
+		<manufacturer>Ghostfire Games</manufacturer>
+		<year>2010</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rainbow Islands - Towering Adventure! (USA)" index="" image="">
+		<description>Rainbow Islands: Towering Adventure! (USA)</description>
+		<cloneof></cloneof>
+		<crc>BCD8DF36</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reel Fishing Challenge (USA)" index="" image="">
+		<description>Reel Fishing Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>21A2B79</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reel Fishing Challenge II (USA)" index="" image="">
+		<description>Reel Fishing Challenge II (USA)</description>
+		<cloneof></cloneof>
+		<crc>F1DE130E</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2010</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reel Fishing - Ocean Challenge (USA)" index="" image="">
+		<description>Reel Fishing: Ocean Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>DCEE4237</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2012</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Retro City Rampage (USA)" index="" image="">
+		<description>Retro City Rampage (USA)</description>
+		<cloneof></cloneof>
+		<crc>5FC5C11A</crc>
+		<manufacturer>Vblank Entertainment</manufacturer>
+		<year>2013</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robin Hood - The Return of Richard (USA)" index="" image="">
+		<description>Robin Hood: The Return of Richard (USA)</description>
+		<cloneof></cloneof>
+		<crc>8B6C13A7</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2010</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robocalypse - Beaver Defense (USA)" index="" image="">
+		<description>Robocalypse: Beaver Defense (USA)</description>
+		<cloneof></cloneof>
+		<crc>84B30C59</crc>
+		<manufacturer>Vogster Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robox (USA)" index="" image="">
+		<description>Robox (USA)</description>
+		<cloneof></cloneof>
+		<crc>8CC17EC5</crc>
+		<manufacturer>Dreambox Games</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock N&apos; Roll Climber (USA)" index="" image="">
+		<description>Rock N&apos; Roll Climber (USA)</description>
+		<cloneof></cloneof>
+		<crc>595CF7EF</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rubik&apos;s Puzzle Galaxy - RUSH (USA)" index="" image="">
+		<description>Rubik&apos;s Puzzle Galaxy: RUSH (USA)</description>
+		<cloneof></cloneof>
+		<crc>5AD11965</crc>
+		<manufacturer>Game Factory</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rush Rush Rally Racing (Europe)" index="" image="">
+		<description>Rush Rush Rally Racing (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BF6CD9F4</crc>
+		<manufacturer>redspotgames</manufacturer>
+		<year>2012</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saikyou Ginsei Gomoku Narabe (Japan)" index="true" image="s">
+		<description>Saikyou Ginsei Gomoku Narabe (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4325D479</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saikyou Ginsei Igo (Japan)" index="" image="">
+		<description>Saikyou Ginsei Igo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6A30DED1</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saikyou Ginsei Mahjong (Japan)" index="" image="">
+		<description>Saikyou Ginsei Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>212D46DA</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2008</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Saikyou Ginsei Shogi (Japan)" index="" image="">
+		<description>Saikyou Ginsei Shogi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C7BA3554</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sandy Beach (USA)" index="" image="">
+		<description>Sandy Beach (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3BE26EB</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Save the Furries (USA)" index="" image="">
+		<description>Save the Furries (USA)</description>
+		<cloneof></cloneof>
+		<crc>CEB6329</crc>
+		<manufacturer>SDP Games</manufacturer>
+		<year>2012</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sekai no Omoshiro Party Game (Japan)" index="" image="">
+		<description>Sekai no Omoshiro Party Game (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7499B5C</crc>
+		<manufacturer>SIMS</manufacturer>
+		<year>2010</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sekai no Omoshiro Party Game 2 (Japan)" index="" image="">
+		<description>Sekai no Omoshiro Party Game 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F7448AE5</crc>
+		<manufacturer>SIMS</manufacturer>
+		<year>2010</year>
+		<genre>Party</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sexy Poker (USA)" index="" image="">
+		<description>Sexy Poker (USA)</description>
+		<cloneof></cloneof>
+		<crc>D9C8F7CE</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ShadowPlay (USA)" index="" image="">
+		<description>ShadowPlay (USA)</description>
+		<cloneof></cloneof>
+		<crc>17C84ABC</crc>
+		<manufacturer>Deep Fried Entertainment</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shikakui Atama wo Maru Kusuru - Mainichi Minna no Challenge Hen (Japan)" index="" image="">
+		<description>Shikakui Atama wo Maru Kusuru: Mainichi Minna no Challenge Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AD519A96</crc>
+		<manufacturer>IE Institute</manufacturer>
+		<year>2009</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shootanto - Evolutionary Mayhem (USA)" index="" image="">
+		<description>Shootanto: Evolutionary Mayhem (USA)</description>
+		<cloneof></cloneof>
+		<crc>9AA5D93B</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silver Star Chess (USA)" index="" image="">
+		<description>Silver Star Chess (USA)</description>
+		<cloneof></cloneof>
+		<crc>B065E965</crc>
+		<manufacturer>Agetec</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silver Star Reversi (USA)" index="" image="">
+		<description>Silver Star Reversi (USA)</description>
+		<cloneof></cloneof>
+		<crc>7675FF42</crc>
+		<manufacturer>Agetec</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Series Vol. 1 - The Block Kuzushi neo (Japan)" index="" image="">
+		<description>Simple Series Vol. 1: The Block Kuzushi neo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>19D33B1B</crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Series Vol. 2 - The Number Puzzle neo (Japan)" index="" image="">
+		<description>Simple Series Vol. 2: The Number Puzzle neo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E34F21B3</crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Series Vol. 3 - The Mahjong (Japan)" index="" image="">
+		<description>Simple Series Vol. 3: The Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1406DF55</crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2008</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Series Vol. 4 - The Misshitsu kara no Dasshutsu (Japan)" index="" image="">
+		<description>Simple Series Vol. 4: The Misshitsu kara no Dasshutsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1C12FDCE</crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Simple Series Vol. 5 - The Judo (Japan)" index="" image="">
+		<description>Simple Series Vol. 5: The Judo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>18925085</crc>
+		<manufacturer>D3Publisher</manufacturer>
+		<year>2009</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snail Mail (USA)" index="" image="">
+		<description>Snail Mail (USA)</description>
+		<cloneof></cloneof>
+		<crc>43947D9C</crc>
+		<manufacturer>Sandlot Games</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sneezies (USA)" index="" image="">
+		<description>Sneezies (USA)</description>
+		<cloneof></cloneof>
+		<crc>5698F999</crc>
+		<manufacturer>Chillingo</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snowboard Riot (USA)" index="" image="">
+		<description>Snowboard Riot (USA)</description>
+		<cloneof></cloneof>
+		<crc>D0CE3689</crc>
+		<manufacturer>Hudson Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Sports/Snowboarding</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snowpack Park (USA)" index="" image="">
+		<description>Snowpack Park (USA)</description>
+		<cloneof></cloneof>
+		<crc>E826210E</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Bashi (USA)" index="" image="">
+		<description>Soccer Bashi (USA)</description>
+		<cloneof></cloneof>
+		<crc>3BC4D143</crc>
+		<manufacturer>Icon Games</manufacturer>
+		<year>2011</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soccer Up! (USA)" index="" image="">
+		<description>Soccer Up! (USA)</description>
+		<cloneof></cloneof>
+		<crc>37CD68CB</crc>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2011</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solitaire (Europe)" index="" image="">
+		<description>Solitaire (Europe)</description>
+		<cloneof></cloneof>
+		<crc>688AC121</crc>
+		<manufacturer>GameOn</manufacturer>
+		<year>2009</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic the Hedgehog 4 - Episode I (USA)" index="" image="">
+		<description>Sonic the Hedgehog 4: Episode I (USA)</description>
+		<cloneof></cloneof>
+		<crc>E6736E6A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>2010</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcery Blade (Japan)" index="" image="">
+		<description>Sorcery Blade (Japan)</description>
+		<cloneof></cloneof>
+		<crc>41B56E2A</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders Get Even (USA)" index="" image="">
+		<description>Space Invaders Get Even (USA)</description>
+		<cloneof></cloneof>
+		<crc>C905D65F</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Trek (USA)" index="" image="">
+		<description>Space Trek (USA)</description>
+		<cloneof></cloneof>
+		<crc>701F03B0</crc>
+		<manufacturer>Studio Calaris</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spaceball Revolution (USA)" index="" image="">
+		<description>Spaceball Revolution (USA)</description>
+		<cloneof></cloneof>
+		<crc>175FF5B7</crc>
+		<manufacturer>Virtual Toys</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SPOGS Racing (USA)" index="" image="">
+		<description>SPOGS Racing (USA)</description>
+		<cloneof></cloneof>
+		<crc>1AD0B22D</crc>
+		<manufacturer>D2C Games</manufacturer>
+		<year>2008</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spot the Differences! (USA)" index="" image="">
+		<description>Spot the Differences! (USA)</description>
+		<cloneof></cloneof>
+		<crc>4E63FA93</crc>
+		<manufacturer>Sanuk Games</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Soldier R (USA)" index="" image="">
+		<description>Star Soldier R (USA)</description>
+		<cloneof></cloneof>
+		<crc>650BE33F</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2008</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Step Up! (USA)" index="" image="">
+		<description>Step Up! (USA)</description>
+		<cloneof></cloneof>
+		<crc>3A639D9A</crc>
+		<manufacturer>GolemLabs</manufacturer>
+		<year>2011</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stonekeep - Bones of the Ancestors (USA)" index="" image="">
+		<description>Stonekeep: Bones of the Ancestors (USA)</description>
+		<cloneof></cloneof>
+		<crc>148468D5</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>2012</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stop Stress - A Day of Fury (USA)" index="" image="">
+		<description>Stop Stress: A Day of Fury (USA)</description>
+		<cloneof></cloneof>
+		<crc>14338687</crc>
+		<manufacturer>Abylight</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 1 - Homestar Ruiner (USA)" index="" image="">
+		<description>Strong Bad&apos;s Cool Game for Attractive People: Episode 1: Homestar Ruiner (USA)</description>
+		<cloneof></cloneof>
+		<crc>48AE09AA</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 2 - Strong Badia the Free (USA)" index="" image="">
+		<description>Strong Bad&apos;s Cool Game for Attractive People: Episode 2: Strong Badia the Free (USA)</description>
+		<cloneof></cloneof>
+		<crc>7726C535</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 3 - Baddest of the Bands (USA)" index="" image="">
+		<description>Strong Bad&apos;s Cool Game for Attractive People: Episode 3: Baddest of the Bands (USA)</description>
+		<cloneof></cloneof>
+		<crc>A3C797E2</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 4 - Dangeresque 3 - The Criminal Projective (USA)" index="" image="">
+		<description>Strong Bad&apos;s Cool Game for Attractive People: Episode 4: Dangeresque 3: The Criminal Projective (USA)</description>
+		<cloneof></cloneof>
+		<crc>4EA2DC33</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)" index="" image="">
+		<description>Strong Bad&apos;s Cool Game for Attractive People: Episode 5: 8-Bit Is Enough (USA)</description>
+		<cloneof></cloneof>
+		<crc>1B748F22</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2008</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stunt Cars (USA)" index="" image="">
+		<description>Stunt Cars (USA)</description>
+		<cloneof></cloneof>
+		<crc>A50ABB5A</crc>
+		<manufacturer>Icon Games</manufacturer>
+		<year>2009</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning German - Year 2 (Europe)" index="" image="">
+		<description>Successfully Learning German: Year 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F9AE11A6</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning German - Year 3 (Europe)" index="" image="">
+		<description>Successfully Learning German: Year 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>966E215D</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning German - Year 4 (Europe)" index="" image="">
+		<description>Successfully Learning German: Year 4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FD2C69AD</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning German - Year 5 (Europe)" index="" image="">
+		<description>Successfully Learning German: Year 5 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>544336C9</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning Mathematics - Year 2 (Europe)" index="" image="">
+		<description>Successfully Learning Mathematics: Year 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>961DC7AE</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning Mathematics - Year 3 (Europe)" index="" image="">
+		<description>Successfully Learning Mathematics: Year 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A1C377F0</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning Mathematics - Year 4 (Europe)" index="" image="">
+		<description>Successfully Learning Mathematics: Year 4 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>5CDF1A45</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Successfully Learning Mathematics - Year 5 (Europe)" index="" image="">
+		<description>Successfully Learning Mathematics: Year 5 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>F05B44D8</crc>
+		<manufacturer>Tivola</manufacturer>
+		<year>2011</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sudoku Challenge! (USA)" index="" image="">
+		<description>Sudoku Challenge! (USA)</description>
+		<cloneof></cloneof>
+		<crc>96D51D8D</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sugarbunnies Wii - Youkoso Bunnies Field-e (Japan)" index="" image="">
+		<description>Sugarbunnies Wii: Youkoso Bunnies Field-e (Japan)</description>
+		<cloneof></cloneof>
+		<crc>696009D2</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sugu Suro Duo - New Pulsar R&amp;V (Japan)" index="" image="">
+		<description>Sugu Suro Duo: New Pulsar R&amp;V (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E9CB4A91</crc>
+		<manufacturer>Yamasa</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swords &amp; Soldiers (USA)" index="" image="">
+		<description>Swords &amp; Soldiers (USA)</description>
+		<cloneof></cloneof>
+		<crc>3F615C02</crc>
+		<manufacturer>Ronimo Games</manufacturer>
+		<year>2009</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Bearsworth Manor, The - Chaotic Conflicts (USA)" index="true" image="t">
+		<description>Tales of Bearsworth Manor, The: Chaotic Conflicts (USA)</description>
+		<cloneof></cloneof>
+		<crc>26FD6174</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Bearsworth Manor, The - Puzzling Pages (USA)" index="" image="">
+		<description>Tales of Bearsworth Manor, The: Puzzling Pages (USA)</description>
+		<cloneof></cloneof>
+		<crc>88891071</crc>
+		<manufacturer>Square Enix</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Elastic Boy - Mission 1 (USA)" index="" image="">
+		<description>Tales of Elastic Boy: Mission 1 (USA)</description>
+		<cloneof></cloneof>
+		<crc>FE578CDB</crc>
+		<manufacturer>Lexis Numerique</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal (USA)" index="" image="">
+		<description>Tales of Monkey Island: Chapter 1: Launch of the Screaming Narwhal (USA)</description>
+		<cloneof></cloneof>
+		<crc>94DCA5D6</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (USA)" index="" image="">
+		<description>Tales of Monkey Island: Chapter 2: The Siege of Spinner Cay (USA)</description>
+		<cloneof></cloneof>
+		<crc>B551A810</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)" index="" image="">
+		<description>Tales of Monkey Island: Chapter 3: Lair of the Leviathan (USA)</description>
+		<cloneof></cloneof>
+		<crc>7B672B09</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 4 - The Trial and Execution of Guybrush Threepwood (USA)" index="" image="">
+		<description>Tales of Monkey Island: Chapter 4: The Trial and Execution of Guybrush Threepwood (USA)</description>
+		<cloneof></cloneof>
+		<crc>123C27D1</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2009</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales of Monkey Island - Chapter 5 - Rise of the Pirate God (USA)" index="" image="">
+		<description>Tales of Monkey Island: Chapter 5: Rise of the Pirate God (USA)</description>
+		<cloneof></cloneof>
+		<crc>15545BE2</crc>
+		<manufacturer>Telltale Games</manufacturer>
+		<year>2010</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Target Toss Pro - Bags (USA)" index="" image="">
+		<description>Target Toss Pro: Bags (USA)</description>
+		<cloneof></cloneof>
+		<crc>8D08831E</crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2008</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Target Toss Pro - Lawn Darts (USA)" index="" image="">
+		<description>Target Toss Pro: Lawn Darts (USA)</description>
+		<cloneof></cloneof>
+		<crc>22124021</crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tenshi no Solitaire (Japan)" index="" image="">
+		<description>Tenshi no Solitaire (Japan)</description>
+		<cloneof></cloneof>
+		<crc>541FC769</crc>
+		<manufacturer>G-Mode</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Party (USA)" index="" image="">
+		<description>Tetris Party (USA)</description>
+		<cloneof></cloneof>
+		<crc>EC026285</crc>
+		<manufacturer>Tetris Online</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Texas Hold&apos;em Poker (USA)" index="" image="">
+		<description>Texas Hold&apos;em Poker (USA)</description>
+		<cloneof></cloneof>
+		<crc>9B31D96B</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Texas Hold&apos;em Tournament (USA)" index="" image="">
+		<description>Texas Hold&apos;em Tournament (USA)</description>
+		<cloneof></cloneof>
+		<crc>91AC97AD</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2009</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Musketeers, The - One For All (USA)" index="" image="">
+		<description>Three Musketeers, The: One For All (USA)</description>
+		<cloneof></cloneof>
+		<crc>9929BCBE</crc>
+		<manufacturer>Legendo Entertainment</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ThruSpace (USA)" index="" image="">
+		<description>ThruSpace (USA)</description>
+		<cloneof></cloneof>
+		<crc>27D95F2D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TikiTowers (USA)" index="" image="">
+		<description>TikiTowers (USA)</description>
+		<cloneof></cloneof>
+		<crc>D3D95BF8</crc>
+		<manufacturer>Real Arcade</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNT Racers (USA)" index="" image="">
+		<description>TNT Racers (USA)</description>
+		<cloneof></cloneof>
+		<crc>30E2AA70</crc>
+		<manufacturer>DTP Entertainment</manufacturer>
+		<year>2012</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toki Tori (USA)" index="" image="">
+		<description>Toki Tori (USA)</description>
+		<cloneof></cloneof>
+		<crc>A7B6DF23</crc>
+		<manufacturer>Two Tribes</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo City Nights (Japan)" index="" image="">
+		<description>Tokyo City Nights (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F40BBFE5</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomena Sanner (USA)" index="" image="">
+		<description>Tomena Sanner (USA)</description>
+		<cloneof></cloneof>
+		<crc>429051B3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomy Car Drive Shutsudou! Kinkyuu Sharyou Hen (Japan)" index="" image="">
+		<description>Tomy Car Drive Shutsudou! Kinkyuu Sharyou Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>11B694F1</crc>
+		<manufacturer>Takara Tomy</manufacturer>
+		<year>2009</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toribash (USA)" index="" image="">
+		<description>Toribash (USA)</description>
+		<cloneof></cloneof>
+		<crc>12D7B752</crc>
+		<manufacturer>Nabi Studios</manufacturer>
+		<year>2010</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trenches Generals (USA)" index="" image="">
+		<description>Trenches Generals (USA)</description>
+		<cloneof></cloneof>
+		<crc>1BADA296</crc>
+		<manufacturer>Fishing Cactus</manufacturer>
+		<year>2011</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Jumping Sports (USA)" index="" image="">
+		<description>Triple Jumping Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>7F604A4E</crc>
+		<manufacturer>The Code Monkeys</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Running Sports (USA)" index="" image="">
+		<description>Triple Running Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>728D4297</crc>
+		<manufacturer>The Code Monkeys</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Shot Sports (USA)" index="" image="">
+		<description>Triple Shot Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>49959EAF</crc>
+		<manufacturer>The Code Monkeys</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Throwing Sports (USA)" index="" image="">
+		<description>Triple Throwing Sports (USA)</description>
+		<cloneof></cloneof>
+		<crc>C13FFD82</crc>
+		<manufacturer>The Code Monkeys</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tsuushin Taikyoku - Hayazashi Shogi Sandan (Japan)" index="" image="">
+		<description>Tsuushin Taikyoku: Hayazashi Shogi Sandan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D5B1001F</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tsuushin Taikyoku - Igo Dojo 2700-Mon (Japan)" index="" image="">
+		<description>Tsuushin Taikyoku: Igo Dojo 2700-Mon (Japan)</description>
+		<cloneof></cloneof>
+		<crc>499C44D</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tsuushin Taikyoku - World Chess (Japan)" index="" image="">
+		<description>Tsuushin Taikyoku: World Chess (Japan)</description>
+		<cloneof></cloneof>
+		<crc>21701967</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tumblebugs 2 (USA)" index="" image="">
+		<description>Tumblebugs 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>AD514A84</crc>
+		<manufacturer>Gameshastra</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TV Show King (USA)" index="" image="">
+		<description>TV Show King (USA)</description>
+		<cloneof></cloneof>
+		<crc>684CDB70</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Game Show</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TV Show King 2 (USA)" index="" image="">
+		<description>TV Show King 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>B8479BB8</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2009</year>
+		<genre>Game Show</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ubongo (USA)" index="true" image="u">
+		<description>Ubongo (USA)</description>
+		<cloneof></cloneof>
+		<crc>50537CAB</crc>
+		<manufacturer>Korner Entertainment</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="UNO (USA)" index="" image="">
+		<description>UNO (USA)</description>
+		<cloneof></cloneof>
+		<crc>A0B05F78</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2010</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kids - Okigaru Unou Training (Japan)" index="" image="">
+		<description>Unou Kids: Okigaru Unou Training (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6CEBC0BD</crc>
+		<manufacturer>IE Institute</manufacturer>
+		<year>2009</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urbanix (USA)" index="" image="">
+		<description>Urbanix (USA)</description>
+		<cloneof></cloneof>
+		<crc>3D8DC247</crc>
+		<manufacturer>Nordcurrent</manufacturer>
+		<year>2011</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="V.I.P. Casino - Blackjack (USA)" index="true" image="v">
+		<description>V.I.P. Casino: Blackjack (USA)</description>
+		<cloneof></cloneof>
+		<crc>BB8D4B41</crc>
+		<manufacturer>High Voltage Software</manufacturer>
+		<year>2008</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vampire Crystals (USA)" index="" image="">
+		<description>Vampire Crystals (USA)</description>
+		<cloneof></cloneof>
+		<crc>EBE45172</crc>
+		<manufacturer>Shanblue Interactive</manufacturer>
+		<year>2012</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Very Hungry Caterpillar&apos;s ABCs, The (USA)" index="" image="">
+		<description>Very Hungry Caterpillar&apos;s ABCs, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1553F7D5</crc>
+		<manufacturer>Cybird</manufacturer>
+		<year>2010</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Violin Paradise (USA)" index="" image="">
+		<description>Violin Paradise (USA)</description>
+		<cloneof></cloneof>
+		<crc>F79F0BCA</crc>
+		<manufacturer>Keystone Game Studio</manufacturer>
+		<year>2010</year>
+		<genre>Rhythm</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Viral Survival (USA)" index="" image="">
+		<description>Viral Survival (USA)</description>
+		<cloneof></cloneof>
+		<crc>FA49426</crc>
+		<manufacturer>NIS America</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voodoo Dice (USA)" index="" image="">
+		<description>Voodoo Dice (USA)</description>
+		<cloneof></cloneof>
+		<crc>FDF3680</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WarioWare D.I.Y. Showcase (USA)" index="true" image="w">
+		<description>WarioWare D.I.Y. Showcase (USA)</description>
+		<cloneof></cloneof>
+		<crc>A38A285B</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2010</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="WarMen Tactics (USA)" index="" image="">
+		<description>WarMen Tactics (USA)</description>
+		<cloneof></cloneof>
+		<crc>5E725344</crc>
+		<manufacturer>Studio Calaris</manufacturer>
+		<year>2010</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Water Warfare (USA)" index="" image="">
+		<description>Water Warfare (USA)</description>
+		<cloneof></cloneof>
+		<crc>6693D165</crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>2009</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where&apos;s Wally - Fantastic Journey 1 (Europe)" index="" image="">
+		<description>Where&apos;s Wally: Fantastic Journey 1 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1D58D31</crc>
+		<manufacturer>Ludia</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where&apos;s Wally - Fantastic Journey 2 (Europe)" index="" image="">
+		<description>Where&apos;s Wally: Fantastic Journey 2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A727177C</crc>
+		<manufacturer>Ludia</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Where&apos;s Wally - Fantastic Journey 3 (Europe)" index="" image="">
+		<description>Where&apos;s Wally: Fantastic Journey 3 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>AC675C84</crc>
+		<manufacturer>Ludia</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild West Guns (USA)" index="" image="">
+		<description>Wild West Guns (USA)</description>
+		<cloneof></cloneof>
+		<crc>CE84D203</crc>
+		<manufacturer>Gameloft</manufacturer>
+		<year>2008</year>
+		<genre>Gun</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Will of Dr. Frankenstein, The (Europe)" index="" image="">
+		<description>Will of Dr. Frankenstein, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>7B9BB860</crc>
+		<manufacturer>Enjoy Gaming</manufacturer>
+		<year>2010</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Searcher (USA)" index="" image="">
+		<description>Word Searcher (USA)</description>
+		<cloneof></cloneof>
+		<crc>C5B77C78</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Word Searcher Deluxe (USA)" index="" image="">
+		<description>Word Searcher Deluxe (USA)</description>
+		<cloneof></cloneof>
+		<crc>C24DA114</crc>
+		<manufacturer>Digital Leisure</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World of Goo (USA)" index="" image="">
+		<description>World of Goo (USA)</description>
+		<cloneof></cloneof>
+		<crc>190966CB</crc>
+		<manufacturer>2D Boy</manufacturer>
+		<year>2008</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xmas Puzzle (USA)" index="true" image="x">
+		<description>Xmas Puzzle (USA)</description>
+		<cloneof></cloneof>
+		<crc>A9617907</crc>
+		<manufacturer>EnjoyUp Games</manufacturer>
+		<year>2011</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yakuman Wii - Ide Yosuke no Kenkou Mahjong (Japan)" index="true" image="y">
+		<description>Yakuman Wii: Ide Yosuke no Kenkou Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1D22287</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2008</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yard Sale Hidden Treasures - Sunnyville (USA)" index="" image="">
+		<description>Yard Sale Hidden Treasures: Sunnyville (USA)</description>
+		<cloneof></cloneof>
+		<crc>D2B28C89</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2010</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yomi Kiku Asobi Wii (Japan)" index="" image="">
+		<description>Yomi Kiku Asobi Wii (Japan)</description>
+		<cloneof></cloneof>
+		<crc>32989786</crc>
+		<manufacturer>Perpetuum</manufacturer>
+		<year>2008</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="You, Me, and the Cubes (USA)" index="" image="">
+		<description>You, Me, and the Cubes (USA)</description>
+		<cloneof></cloneof>
+		<crc>B8C86CA4</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2009</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yummy Yummy Cooking Jam (USA)" index="" image="">
+		<description>Yummy Yummy Cooking Jam (USA)</description>
+		<cloneof></cloneof>
+		<crc>AA9CB3AC</crc>
+		<manufacturer>Virtual Toys</manufacturer>
+		<year>2008</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombie Panic in Wonderland (USA)" index="true" image="z">
+		<description>Zombie Panic in Wonderland (USA)</description>
+		<cloneof></cloneof>
+		<crc>8A04FBD6</crc>
+		<manufacturer>Akaoni Studio</manufacturer>
+		<year>2010</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombii Attack (USA)" index="" image="">
+		<description>Zombii Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>D88C007F</crc>
+		<manufacturer>Gamers Digital</manufacturer>
+		<year>2012</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoo Disc Golf (USA)" index="" image="">
+		<description>Zoo Disc Golf (USA)</description>
+		<cloneof></cloneof>
+		<crc>90F500FB</crc>
+		<manufacturer>Sonalysts</manufacturer>
+		<year>2010</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,1459 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Nintendo Super Game Boy</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>2.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures of Lolo (Europe)" index="true" image="a">
+		<description>Adventures of Lolo (Europe)</description>
+		<cloneof></cloneof>
+		<crc>176d2eeb</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aladdin (USA)" index="" image="">
+		<description>Aladdin (USA)</description>
+		<cloneof></cloneof>
+		<crc>af6bdc50</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alleyway (World)" index="" image="">
+		<description>Alleyway (World)</description>
+		<cloneof></cloneof>
+		<crc>5cc01586</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Animaniacs (USA)" index="" image="">
+		<description>Animaniacs (USA)</description>
+		<cloneof></cloneof>
+		<crc>673c815d</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 1 - Asteroids &amp; Missile Command (USA, Europe)" index="" image="">
+		<description>Arcade Classic No. 1: Asteroids &amp; Missile Command (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8259ac54</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 2 - Centipede &amp; Millipede (USA, Europe)" index="" image="">
+		<description>Arcade Classic No. 2: Centipede &amp; Millipede (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b14c3b31</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 3 - Galaga &amp; Galaxian (USA)" index="" image="">
+		<description>Arcade Classic No. 3: Galaga &amp; Galaxian (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a6ecfec</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classic No. 4 - Defender &amp; Joust (USA, Europe)" index="" image="">
+		<description>Arcade Classic No. 4: Defender &amp; Joust (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1c829ce3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arcade Classics - Battlezone &amp; Super Breakout (USA, Europe)" index="" image="">
+		<description>Arcade Classics: Battlezone &amp; Super Breakout (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6c292739</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Azure Dreams (USA)" index="" image="">
+		<description>Azure Dreams (USA)</description>
+		<cloneof></cloneof>
+		<crc>71d52876</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball (World)" index="true" image="b">
+		<description>Baseball (World)</description>
+		<cloneof></cloneof>
+		<crc>6eea2526</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Battle Arena Toshinden (USA)" index="" image="">
+		<description>Battle Arena Toshinden (USA)</description>
+		<cloneof></cloneof>
+		<crc>2d0c1073</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blaster Master - Enemy Below (USA, Europe)" index="" image="">
+		<description>Blaster Master: Enemy Below (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2f91e17c</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>2000</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomberman GB (USA, Europe)" index="" image="">
+		<description>Bomberman GB (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f372d175</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bonk&apos;s Revenge (USA)" index="" image="">
+		<description>Bonk&apos;s Revenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>f1344b78</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Brain Drain (USA)" index="" image="">
+		<description>Brain Drain (USA)</description>
+		<cloneof></cloneof>
+		<crc>aff0b159</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble (USA, Europe)" index="" image="">
+		<description>Bubble Bobble (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d516841d</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castlevania Legends (USA, Europe)" index="true" image="c">
+		<description>Castlevania Legends (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ad9c17fb</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centipede (USA, Europe)" index="" image="">
+		<description>Centipede (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>245afcdc</crc>
+		<manufacturer>Accolade</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chase H.Q. - Secret Police (USA)" index="" image="">
+		<description>Chase H.Q.: Secret Police (USA)</description>
+		<cloneof></cloneof>
+		<crc>7c7fdefc</crc>
+		<manufacturer>Metro3D</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Conker&apos;s Pocket Tales (USA, Europe)" index="" image="">
+		<description>Conker&apos;s Pocket Tales (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a50be9a8</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1999</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra - The Alien Wars (USA)" index="" image="">
+		<description>Contra: The Alien Wars (USA)</description>
+		<cloneof></cloneof>
+		<crc>f1c81eb0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Desert Strike - Return to the Gulf (USA)" index="true" image="d">
+		<description>Desert Strike: Return to the Gulf (USA)</description>
+		<cloneof></cloneof>
+		<crc>6a702c32</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong (World)" index="" image="">
+		<description>Donkey Kong (World)</description>
+		<cloneof></cloneof>
+		<crc>f777a5d8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Land (USA, Europe)" index="" image="">
+		<description>Donkey Kong Land (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>49dc0d37</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Land 2 (USA, Europe)" index="" image="">
+		<description>Donkey Kong Land 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2827e5d4</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donkey Kong Land III (USA, Europe)" index="" image="">
+		<description>Donkey Kong Land III (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>a19acdb6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Mario (World)" index="" image="">
+		<description>Dr. Mario (World)</description>
+		<cloneof></cloneof>
+		<crc>f0225dd0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Warrior I &amp; II (USA)" index="" image="">
+		<description>Dragon Warrior I &amp; II (USA)</description>
+		<cloneof></cloneof>
+		<crc>71d693da</crc>
+		<manufacturer>Enix Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elite Soccer (USA)" index="true" image="e">
+		<description>Elite Soccer (USA)</description>
+		<cloneof></cloneof>
+		<crc>f54158a6</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-1 Race (World)" index="true" image="f">
+		<description>F-1 Race (World)</description>
+		<cloneof></cloneof>
+		<crc>ab83bd70</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA 2000 (USA, Europe)" index="" image="">
+		<description>FIFA 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e6bc2e8c</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA International Soccer (USA, Europe)" index="" image="">
+		<description>FIFA International Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>e5989908</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;96 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>af4a5de1</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FIFA Soccer &apos;97 (USA, Europe)" index="" image="">
+		<description>FIFA Soccer &apos;97 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dcab906c</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game &amp; Watch Gallery (USA)" index="true" image="g">
+		<description>Game &amp; Watch Gallery (USA)</description>
+		<cloneof></cloneof>
+		<crc>9e6cdc96</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game &amp; Watch Gallery 2 (USA, Europe)" index="" image="">
+		<description>Game &amp; Watch Gallery 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>969c8961</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game &amp; Watch Gallery 3 (USA, Europe)" index="" image="">
+		<description>Game &amp; Watch Gallery 3 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>1ac625da</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game Boy Gallery (Europe)" index="" image="">
+		<description>Game Boy Gallery (Europe)</description>
+		<cloneof></cloneof>
+		<crc>263fd152</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golf (World)" index="" image="">
+		<description>Golf (World)</description>
+		<cloneof></cloneof>
+		<crc>6ed10383</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Theft Auto (USA)" index="" image="">
+		<description>Grand Theft Auto (USA)</description>
+		<cloneof></cloneof>
+		<crc>924de366</crc>
+		<manufacturer>Rockstar Games</manufacturer>
+		<year>1999</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon 2 GBC (USA)" index="true" image="h">
+		<description>Harvest Moon 2 GBC (USA)</description>
+		<cloneof></cloneof>
+		<crc>08906220</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harvest Moon GB (USA)" index="" image="">
+		<description>Harvest Moon GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>1eae0e10</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1998</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hexcite - The Shapes of Victory (USA, Europe)" index="" image="">
+		<description>Hexcite: The Shapes of Victory (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>84084e5f</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hugo - Black Diamond Fever (Europe)" index="" image="">
+		<description>Hugo: Black Diamond Fever (Europe)</description>
+		<cloneof></cloneof>
+		<crc>685cafcc</crc>
+		<manufacturer>ITE Media</manufacturer>
+		<year>2001</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Rally (USA)" index="true" image="i">
+		<description>International Rally (USA)</description>
+		<cloneof></cloneof>
+		<crc>b85fd752</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer &apos;99 (Europe)" index="" image="">
+		<description>International Superstar Soccer &apos;99 (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1b76d115</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Superstar Soccer (USA, Europe)" index="" image="">
+		<description>International Superstar Soccer (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>94757be8</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="International Track &amp; Field (USA)" index="" image="">
+		<description>International Track &amp; Field (USA)</description>
+		<cloneof></cloneof>
+		<crc>803d5d57</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ironman X-O Manowar in Heavy Metal (USA, Europe)" index="" image="">
+		<description>Ironman X-O Manowar in Heavy Metal (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>173232e5</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 (USA, Europe)" index="true" image="j">
+		<description>James Bond 007 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ca3bc3ce</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeopardy! - Platinum Edition (USA)" index="" image="">
+		<description>Jeopardy!: Platinum Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>5206fd09</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1996</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jeopardy! - Teen Tournament (USA)" index="" image="">
+		<description>Jeopardy!: Teen Tournament (USA)</description>
+		<cloneof></cloneof>
+		<crc>cd3df0c1</crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1996</year>
+		<genre>Quiz</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Strike (USA, Europe)" index="" image="">
+		<description>Jungle Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>763ababb</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ken Griffey Jr. presents Major League Baseball (USA, Europe)" index="true" image="k">
+		<description>Ken Griffey Jr. presents Major League Baseball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0a9859c1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kid Icarus - Of Myths and Monsters (USA, Europe)" index="" image="">
+		<description>Kid Icarus: Of Myths and Monsters (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0c042862</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killer Instinct (USA, Europe)" index="" image="">
+		<description>Killer Instinct (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ac793b54</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters &apos;95, The (USA)" index="" image="">
+		<description>King of Fighters &apos;95, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>1ff84e8c</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Fighters, The - Heat of Battle (Europe)" index="" image="">
+		<description>King of Fighters, The: Heat of Battle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>4d2d8bc3</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Block Ball (USA, Europe)" index="" image="">
+		<description>Kirby&apos;s Block Ball (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7ad90b4b</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Dream Land (USA, Europe)" index="" image="">
+		<description>Kirby&apos;s Dream Land (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>40f25740</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Dream Land 2 (USA, Europe)" index="" image="">
+		<description>Kirby&apos;s Dream Land 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8dc07c35</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Pinball Land (USA, Europe)" index="" image="">
+		<description>Kirby&apos;s Pinball Land (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31cb6526</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kirby&apos;s Star Stacker (USA, Europe)" index="" image="">
+		<description>Kirby&apos;s Star Stacker (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>91300898</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King 2 (USA)" index="true" image="l">
+		<description>Legend of the River King 2 (USA)</description>
+		<cloneof></cloneof>
+		<crc>840fd525</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of the River King GB (USA)" index="" image="">
+		<description>Legend of the River King GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>7e821f47</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Legend of Zelda, The - Link&apos;s Awakening DX (USA, Europe)" index="" image="">
+		<description>Legend of Zelda, The: Link&apos;s Awakening DX (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>06887a34</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lil&apos; Monster (USA)" index="" image="">
+		<description>Lil&apos; Monster (USA)</description>
+		<cloneof></cloneof>
+		<crc>c6859b34</crc>
+		<manufacturer>Agetec Inc.</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The (USA)" index="" image="">
+		<description>Lion King, The (USA)</description>
+		<cloneof></cloneof>
+		<crc>3430d261</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost World, The - Jurassic Park (USA, Europe)" index="" image="">
+		<description>Lost World, The: Jurassic Park (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>391f532a</crc>
+		<manufacturer>Torus Games</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;95 (USA, Europe)" index="true" image="m">
+		<description>Madden &apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d2585bbb</crc>
+		<manufacturer>Halestorm</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;96 (USA, Europe)" index="" image="">
+		<description>Madden &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>fd9dc1ad</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden &apos;97 (USA)" index="" image="">
+		<description>Madden &apos;97 (USA)</description>
+		<cloneof></cloneof>
+		<crc>88a837a2</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Madden NFL 2000 (USA, Europe)" index="" image="">
+		<description>Madden NFL 2000 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>482944aa</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mario&apos;s Picross (USA, Europe)" index="" image="">
+		<description>Mario&apos;s Picross (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f2d652ad</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mega Man V (USA)" index="" image="">
+		<description>Mega Man V (USA)</description>
+		<cloneof></cloneof>
+		<crc>72e6d21d</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Men in Black - The Series (USA, Europe)" index="" image="">
+		<description>Men in Black: The Series (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>65b8b343</crc>
+		<manufacturer>Crave</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metroid II - Return of Samus (World)" index="" image="">
+		<description>Metroid II: Return of Samus (World)</description>
+		<cloneof></cloneof>
+		<crc>dee05370</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey Mouse - Magic Wand (USA, Europe)" index="" image="">
+		<description>Mickey Mouse: Magic Wand (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>f0482567</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers (USA, Europe)" index="" image="">
+		<description>Mighty Morphin Power Rangers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c60d032a</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mighty Morphin Power Rangers - The Movie (USA, Europe)" index="" image="">
+		<description>Mighty Morphin Power Rangers: The Movie (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>86a1c549</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mole Mania (USA, Europe)" index="" image="">
+		<description>Mole Mania (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>2c36c74c</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monkey Puncher (Europe)" index="" image="">
+		<description>Monkey Puncher (Europe)</description>
+		<cloneof></cloneof>
+		<crc>bc1809ce</crc>
+		<manufacturer>Event Horizon Software</manufacturer>
+		<year>2000</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monopoly (USA)" index="" image="">
+		<description>Monopoly (USA)</description>
+		<cloneof></cloneof>
+		<crc>fd90f0d6</crc>
+		<manufacturer>Park Brothers</manufacturer>
+		<year>1991</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Rancher Battle Card GB (USA)" index="" image="">
+		<description>Monster Rancher Battle Card GB (USA)</description>
+		<cloneof></cloneof>
+		<crc>50ddf120</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2000</year>
+		<genre>Card Battle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat 4 (USA, Europe)" index="" image="">
+		<description>Mortal Kombat 4 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>4eb71448</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1998</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ms. Pac-Man - Special Color Edition (USA)" index="" image="">
+		<description>Ms. Pac-Man: Special Color Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>103e212d</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mystical Ninja Starring Goemon (USA)" index="" image="">
+		<description>Mystical Ninja Starring Goemon (USA)</description>
+		<cloneof></cloneof>
+		<crc>fafb343c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA 3 on 3 featuring Kobe Bryant (USA)" index="true" image="n">
+		<description>NBA 3 on 3 featuring Kobe Bryant (USA)</description>
+		<cloneof></cloneof>
+		<crc>001f4754</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA In the Zone (USA)" index="" image="">
+		<description>NBA In the Zone (USA)</description>
+		<cloneof></cloneof>
+		<crc>be949f74</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NBA Live 96 (USA, Europe)" index="" image="">
+		<description>NBA Live 96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8885c7cd</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL &apos;96 (USA, Europe)" index="" image="">
+		<description>NHL &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>15cd2b63</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL 2000 (USA)" index="" image="">
+		<description>NHL 2000 (USA)</description>
+		<cloneof></cloneof>
+		<crc>bb625129</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>2000</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHL Hockey &apos;95 (USA, Europe)" index="" image="">
+		<description>NHL Hockey &apos;95 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>bcabd2d2</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Attack (USA)" index="true" image="p">
+		<description>Pac-Attack (USA)</description>
+		<cloneof></cloneof>
+		<crc>94e0af9c</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-In-Time (USA)" index="" image="">
+		<description>Pac-In-Time (USA)</description>
+		<cloneof></cloneof>
+		<crc>8690b691</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Man - Special Color Edition (USA)" index="" image="">
+		<description>Pac-Man: Special Color Edition (USA)</description>
+		<cloneof></cloneof>
+		<crc>3485ef86</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA European Tour (USA, Europe)" index="" image="">
+		<description>PGA European Tour (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7d7def64</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PGA Tour &apos;96 (USA, Europe)" index="" image="">
+		<description>PGA Tour &apos;96 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6ff72043</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon Pinball (USA)" index="" image="">
+		<description>Pokemon Pinball (USA)</description>
+		<cloneof></cloneof>
+		<crc>03ce8d9a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Blue Version (USA, Europe)" index="" image="">
+		<description>Pokemon: Blue Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>d6da8a1a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Gold Version (USA, Europe)" index="" image="">
+		<description>Pokemon: Gold Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6bde3c3e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Red Version (USA, Europe)" index="" image="">
+		<description>Pokemon: Red Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9f7fdd53</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pokemon - Silver Version (USA, Europe)" index="" image="">
+		<description>Pokemon: Silver Version (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8ad48636</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Quest (USA)" index="" image="">
+		<description>Power Quest (USA)</description>
+		<cloneof></cloneof>
+		<crc>dad6f6b4</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1998</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Qix (World)" index="true" image="q">
+		<description>Qix (World)</description>
+		<cloneof></cloneof>
+		<crc>9185e89e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest for Camelot (USA)" index="" image="">
+		<description>Quest for Camelot (USA)</description>
+		<cloneof></cloneof>
+		<crc>d903db7d</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1998</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest - Fantasy Challenge (USA)" index="" image="">
+		<description>Quest: Fantasy Challenge (USA)</description>
+		<cloneof></cloneof>
+		<crc>98285775</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Radar Mission (USA, Europe)" index="true" image="r">
+		<description>Radar Mission (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>581da9c9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Revelations - The Demon Slayer (USA)" index="" image="">
+		<description>Revelations: The Demon Slayer (USA)</description>
+		<cloneof></cloneof>
+		<crc>d1a65d74</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robopon - Sun Version (USA)" index="" image="">
+		<description>Robopon: Sun Version (USA)</description>
+		<cloneof></cloneof>
+		<crc>32caef11</crc>
+		<manufacturer>Atlus Co.</manufacturer>
+		<year>2000</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rugrats Movie, The (USA, Europe)" index="" image="">
+		<description>Rugrats Movie, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>b4091600</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1999</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Samurai Shodown (USA, Europe)" index="true" image="s">
+		<description>Samurai Shodown (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>69292ee6</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SeaQuest DSV (USA, Europe)" index="" image="">
+		<description>SeaQuest DSV (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>31a3bd99</crc>
+		<manufacturer>Malibu Games</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaq Fu (USA)" index="" image="">
+		<description>Shaq Fu (USA)</description>
+		<cloneof></cloneof>
+		<crc>7ed43fe6</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Small Soldiers (USA, Europe)" index="" image="">
+		<description>Small Soldiers (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dbf106d1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smurfs, The (USA, Europe)" index="" image="">
+		<description>Smurfs, The (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8b5bcde7</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SolarStriker (World)" index="" image="">
+		<description>SolarStriker (World)</description>
+		<cloneof></cloneof>
+		<crc>11817103</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1990</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders (USA)" index="" image="">
+		<description>Space Invaders (USA)</description>
+		<cloneof></cloneof>
+		<crc>7f0f5762</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1999</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek Generations - Beyond the Nexus (USA)" index="" image="">
+		<description>Star Trek Generations: Beyond the Nexus (USA)</description>
+		<cloneof></cloneof>
+		<crc>9f2d11c6</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Street Fighter II (USA, Europe)" index="" image="">
+		<description>Street Fighter II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>54a0aaa3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Land (World)" index="" image="">
+		<description>Super Mario Land (World)</description>
+		<cloneof></cloneof>
+		<crc>2c27ec70</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Land 2 - 6 Golden Coins (USA, Europe)" index="" image="">
+		<description>Super Mario Land 2: 6 Golden Coins (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>635a9112</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman (USA, Europe)" index="" image="">
+		<description>Superman (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>358e0091</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Survival Kids (USA)" index="" image="">
+		<description>Survival Kids (USA)</description>
+		<cloneof></cloneof>
+		<crc>c46aba56</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tamagotchi (USA, Europe)" index="true" image="t">
+		<description>Tamagotchi (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dbf1bd20</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1997</year>
+		<genre>Virtual Life</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tennis (World)" index="" image="">
+		<description>Tennis (World)</description>
+		<cloneof></cloneof>
+		<crc>5009215f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (World)" index="" image="">
+		<description>Tetris (World)</description>
+		<cloneof></cloneof>
+		<crc>46df91ad</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris 2 (USA, Europe)" index="" image="">
+		<description>Tetris 2 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>ea19a9d9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Attack (USA, Europe)" index="" image="">
+		<description>Tetris Attack (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>5ee45a4d</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Blast (USA, Europe)" index="" image="">
+		<description>Tetris Blast (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>7be5a73f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris DX (World)" index="" image="">
+		<description>Tetris DX (World)</description>
+		<cloneof></cloneof>
+		<crc>69989152</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1999</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris Plus (USA, Europe)" index="" image="">
+		<description>Tetris Plus (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>dafc3bff</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TNN Outdoors Fishing Champ (USA)" index="" image="">
+		<description>TNN Outdoors Fishing Champ (USA)</description>
+		<cloneof></cloneof>
+		<crc>00a14d18</crc>
+		<manufacturer>ASC Games</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Fishing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urban Strike (USA, Europe)" index="true" image="u">
+		<description>Urban Strike (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>89625945</crc>
+		<manufacturer>Black Pearl Software</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vegas Stakes (USA, Europe)" index="true" image="v">
+		<description>Vegas Stakes (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>c8be05d8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario Blast Featuring Bomberman! (USA, Europe)" index="true" image="w">
+		<description>Wario Blast Featuring Bomberman! (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>927b57a1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario Land II (USA, Europe)" index="" image="">
+		<description>Wario Land II (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>9c54358d</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wario Land - Super Mario Land 3 (World)" index="" image="">
+		<description>Wario Land: Super Mario Land 3 (World)</description>
+		<cloneof></cloneof>
+		<crc>40be3889</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wetrix GB (Europe)" index="" image="">
+		<description>Wetrix GB (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9cbfaa3d</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>2000</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Snake (USA)" index="" image="">
+		<description>Wild Snake (USA)</description>
+		<cloneof></cloneof>
+		<crc>72462125</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Cup 98 (USA, Europe)" index="" image="">
+		<description>World Cup 98 (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>6a3272b1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Heroes 2 Jet (USA, Europe)" index="" image="">
+		<description>World Heroes 2 Jet (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>67303954</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi (USA)" index="true" image="y">
+		<description>Yoshi (USA)</description>
+		<cloneof></cloneof>
+		<crc>f2f4bcca</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yoshi&apos;s Cookie (USA, Europe)" index="" image="">
+		<description>Yoshi&apos;s Cookie (USA, Europe)</description>
+		<cloneof></cloneof>
+		<crc>75336712</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

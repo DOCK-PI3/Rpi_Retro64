@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RetroFE Pi
+Comment=RetroFE FrontEnd Pi
+Exec=/home/retro/MABE/retrofeStart.sh
+Icon=/home/retro/MABE/RetroFE.png
+Path=
+Terminal=true
+StartupNotify=false

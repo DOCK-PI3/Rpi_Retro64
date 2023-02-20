@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega SC-3000</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bombjack_(SC-3000)" index="true" image="b">
+		<description>Bombjack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chack&apos;n_Pop_(SC-3000)" index="true" image="c">
+		<description>Chack&apos;n Pop</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1985</year>
+		<genre>platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Billards (SC-3000) [!]" index="" image="">
+		<description>Champion Billards</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter_(SC-3000)_[!]" index="" image="">
+		<description>Choplifter_</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1985</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drol_(SC-3000)" index="true" image="d">
+		<description>Drol</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Broderbund</manufacturer>
+		<year>1985</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exerion_(SC-3000)_[!]" index="true" image="e">
+		<description>Exerion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1983</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golgo_13_(SC-3000)" index="true" image="g">
+		<description>Golgo 13</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saito</manufacturer>
+		<year>1994</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guzzler_(SC-3000)_[!]" index="" image="">
+		<description>Guzzler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1983</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="HERO_(SC-3000)" index="true" image="h">
+		<description>H.E.R.O.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1985</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hustle_Chummy_(SC-3000)_[!]" index="" image="">
+		<description>Hustle Chummy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1984</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper_Sports_(SC-3000)_[!]" index="" image="">
+		<description>Hyper Sports</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James_Bond_007_(SC-3000)_[!]" index="true" image="j">
+		<description>James Bond 007</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="N-Sub_(SC-3000)" index="true" image="n">
+		<description>N-Sub_</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja_Princess_(SC-3000)" index="" image="">
+		<description>Ninja Princess</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orguss_(SC-3000)" index="true" image="o">
+		<description>Orguss</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>MBS, Big West</manufacturer>
+		<year>1984</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pacar_(SC-3000)" index="true" image="p">
+		<description>Pacar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguin Land (SC-3000)" index="" image="">
+		<description>Penguin Land</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop_Flamer_(SC-3000)_[!]" index="" image="">
+		<description>Pop Flamer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1983</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-bert_(SC-3000)_[!]" index="true" image="q">
+		<description>Q-bert</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1983</year>
+		<genre>action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Safari_Race_(SC-3000)" index="true" image="s">
+		<description>Safari Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega BASIC Level 2 (SC-3000)" index="" image="">
+		<description>Sega BASIC Level 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitec</manufacturer>
+		<year>1983</year>
+		<genre>educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega_BASIC_Level_3_V1_(SC-3000)" index="" image="">
+		<description>Sega BASIC Level 3 V1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitec</manufacturer>
+		<year>1983</year>
+		<genre>educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega_Music_Editor_(SC-3000)_[!]" index="" image="">
+		<description>Sega Music Editor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitec</manufacturer>
+		<year>1983</year>
+		<genre>educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sekaishi Nenpyou (JP)" index="" image="">
+		<description>Sekaishi Nenpyou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stratford</manufacturer>
+		<year>1983</year>
+		<genre>educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinbad_Mystery_(SC-3000)" index="" image="">
+		<description>Sinbad Mystery</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soukoban_(SC-3000)_[!]" index="" image="">
+		<description>Soukoban</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Thinking Rabbit</manufacturer>
+		<year>1985</year>
+		<genre>puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space_Invaders_(SC-3000)" index="" image="">
+		<description>Space Invaders</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1985</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star_Jacker_(SC-3000)_[!]" index="" image="">
+		<description>Star Jacker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Supertank_(SC-3000)_[!]" index="" image="">
+		<description>Supertank</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Uranai Angel Cutie (JP)" index="true" image="u">
+		<description>Uranai Angel Cutie</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yamato_(SC-3000)_[!]" index="true" image="y">
+		<description>Yamato</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon_(SC-3000)" index="true" image="z">
+		<description>Zaxxon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zippy_Race_(SC-3000)_[!]" index="" image="">
+		<description>Zippy Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

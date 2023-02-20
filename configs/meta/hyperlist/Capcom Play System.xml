@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Capcom Play System</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0 (MAME)</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1941" index="true" image="1">
+		<description>1941: Counter Attack (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cworld2j" index="true" image="a">
+		<description>Adventure Quiz Capcom World 2 (Japan 920611)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbros" index="true" image="b">
+		<description>Buster Bros. (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell (Capcom license)</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dino" index="true" image="c">
+		<description>Cadillacs and Dinosaurs (World 930201)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcomm" index="" image="">
+		<description>Captain Commando (World 911202)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cawing" index="" image="">
+		<description>Carrier Air Wing (World 901012)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynwar" index="true" image="d">
+		<description>Dynasty Wars (USA, B-Board 89624B-?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffight" index="true" image="f">
+		<description>Final Fight (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="forgottn" index="" image="">
+		<description>Forgotten Worlds (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ghouls" index="true" image="g">
+		<description>Ghouls&apos;n Ghosts (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knights" index="true" image="k">
+		<description>Knights of the Round (World 911127)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="msword" index="true" image="m">
+		<description>Magic Sword: Heroic Fantasy (World 900725)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megaman" index="" image="">
+		<description>Mega Man: The Power Battle (CPS1, USA 951006)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mtwins" index="" image="">
+		<description>Mega Twins (World 900619)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mercs" index="" image="">
+		<description>Mercs (World 900302)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mbombrd" index="" image="">
+		<description>Muscle Bomber Duo: Ultimate Team Battle (World 931206)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nemo" index="true" image="n">
+		<description>Nemo (World 901130)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pnickj" index="true" image="p">
+		<description>Pnickies (Japan 940608)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom (Compile license)</manufacturer>
+		<year>1994</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qad" index="true" image="q">
+		<description>Quiz &amp; Dragons: Capcom Quiz Game (USA 920701)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qtono2j" index="" image="">
+		<description>Quiz Tonosama no Yabou 2: Zenkoku-ban (Japan 950123)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slammast" index="true" image="s">
+		<description>Saturday Night Slam Masters (World 930713)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sf2ce" index="" image="">
+		<description>Street Fighter II&apos;: Champion Edition (World 920513)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sf2hf" index="" image="">
+		<description>Street Fighter II&apos;: Hyper Fighting (World 921209)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sf2" index="" image="">
+		<description>Street Fighter II: The World Warrior (World 910522)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="strider" index="" image="">
+		<description>Strider (USA, B-Board 89624B-2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kod" index="true" image="t">
+		<description>The King of Dragons (World 910805)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punisher" index="" image="">
+		<description>The Punisher (World 930422)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wonders" index="" image="">
+		<description>Three Wonders (World 910520)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="unsquad" index="true" image="u">
+		<description>U.N. Squadron (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / Daipro</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="varth" index="true" image="v">
+		<description>Varth: Operation Thunderstorm (World 920714)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wof" index="true" image="w">
+		<description>Warriors of Fate (World 921031)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="willow" index="" image="">
+		<description>Willow (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

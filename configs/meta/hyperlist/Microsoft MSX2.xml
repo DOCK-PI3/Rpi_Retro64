@@ -1,0 +1,1659 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Microsoft MSX2</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1942 (Japan)" index="true" image="1">
+		<description>1942 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C99E5601</crc>
+		<manufacturer>ASCII</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AcroJet (Japan)" index="true" image="a">
+		<description>AcroJet (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D2EE4051</crc>
+		<manufacturer>SystemSoft</manufacturer>
+		<year>1988</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aleste (Japan)" index="" image="">
+		<description>Aleste (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C29EDD84</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alges no Yoku (Japan)" index="" image="">
+		<description>Alges no Yoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>225705CC</crc>
+		<manufacturer>Kogado</manufacturer>
+		<year>1986</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="American Soccer (Japan)" index="" image="">
+		<description>American Soccer (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BCF03D8B</crc>
+		<manufacturer>Nidecom Soft</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)" index="" image="">
+		<description>Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>075AB646</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)" index="" image="">
+		<description>Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3B5B3FD8</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arctic - Active Rail Playing (Japan)" index="" image="">
+		<description>Arctic - Active Rail Playing (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AE3167EE</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arkanoid II - Revenge of Doh (Japan)" index="" image="">
+		<description>Arkanoid II - Revenge of Doh (Japan)</description>
+		<cloneof></cloneof>
+		<crc>00D36AF6</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Asada Tetsuya no Akyoo Mahjong (Japan)" index="" image="">
+		<description>Asada Tetsuya no Akyoo Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F5174422</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AshGuine - Densetsu no Seisenshi (Japan)" index="" image="">
+		<description>AshGuine - Densetsu no Seisenshi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3CB34EFB</crc>
+		<manufacturer>Bit2</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AshGuine Story II - Citadel in the Void (Japan) (Translated En)" index="" image="">
+		<description>AshGuine Story II - Citadel in the Void (Japan) (Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bit2</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AshGuine Story II - Kokuu no Gajou (Japan)" index="" image="">
+		<description>AshGuine Story II - Kokuu no Gajou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>47A82D74</crc>
+		<manufacturer>TE Soft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AshGuine Story III - Fukushuu no Honoo (Japan)" index="" image="">
+		<description>AshGuine Story III - Fukushuu no Honoo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>353382CE</crc>
+		<manufacturer>Micro Cabin - Panasoft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blade Lords (Japan)" index="true" image="b">
+		<description>Blade Lords (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2FE034E6</crc>
+		<manufacturer>Parallax</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble (Japan)" index="" image="">
+		<description>Bubble Bobble (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6524D9FC</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cockpit, The (Japan)" index="true" image="c">
+		<description>Cockpit, The (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5F354E65</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1988</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Contra (Japan)" index="" image="">
+		<description>Contra (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4E82660D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crimson (Japan)" index="" image="">
+		<description>Crimson (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8528A795</crc>
+		<manufacturer>XTALSOFT</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daikoukai Jidai (Japan)" index="true" image="d">
+		<description>Daikoukai Jidai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>EC7A8012</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Daisenryaku Risk (Japan)" index="" image="">
+		<description>Daisenryaku Risk (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A987A0D8</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1987</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Darwin 4078 (Japan)" index="" image="">
+		<description>Darwin 4078 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7098FAF0</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Deep Forest (Japan)" index="" image="">
+		<description>Deep Forest (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F221B845</crc>
+		<manufacturer>XAIN</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dires - Giger Loop (Japan)" index="" image="">
+		<description>Dires - Giger Loop (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5ACBD591</crc>
+		<manufacturer>Bothtec</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Double Vision (Japan)" index="" image="">
+		<description>Double Vision (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E1148738</crc>
+		<manufacturer>Hard</manufacturer>
+		<year>1987</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Buster (Japan)" index="" image="">
+		<description>Dragon Buster (Japan)</description>
+		<cloneof></cloneof>
+		<crc>49252882</crc>
+		<manufacturer>TOSE</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest (Japan)" index="" image="">
+		<description>Dragon Quest (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7729E7A9</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1986</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Quest II (Japan)" index="" image="">
+		<description>Dragon Quest II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0BF0C3F5</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Slayer IV - Drasle Family (Japan)" index="" image="">
+		<description>Dragon Slayer IV - Drasle Family (Japan)</description>
+		<cloneof></cloneof>
+		<crc>98095852</crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Slayer IV - Drasle Family (Japan)(Translated En)" index="" image="">
+		<description>Dragon Slayer IV - Drasle Family (Japan)(Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan)" index="" image="">
+		<description>Dragon Slayer Jr. - Romancia (Japan)</description>
+		<cloneof></cloneof>
+		<crc>17F9EE7F</crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1986</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Slayer Jr. - Romancia (Japan) (Translated En)" index="" image="">
+		<description>Dragon Slayer Jr. - Romancia (Japan) (Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1986</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Druid (Japan)" index="" image="">
+		<description>Druid (Japan)</description>
+		<cloneof></cloneof>
+		<crc>94982598</crc>
+		<manufacturer>Nippon</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dynamite Bowl (Japan)" index="" image="">
+		<description>Dynamite Bowl (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9935E9BD</crc>
+		<manufacturer>Toshiba EMI</manufacturer>
+		<year>1987</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eidolon, The (Europe)" index="true" image="e">
+		<description>Eidolon, The (Europe)</description>
+		<cloneof></cloneof>
+		<crc>14913432</crc>
+		<manufacturer>LucasFilm</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elslid (Japan)" index="" image="">
+		<description>Elslid (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A8E9AC9B</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Empereur, L&apos; (Japan)" index="" image="">
+		<description>Empereur, L&apos; (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C7521809</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1990</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Europe Sensen (Japan)" index="" image="">
+		<description>Europe Sensen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>413D4700</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1992</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-15 Strike Eagle (Japan)" index="true" image="f">
+		<description>F-15 Strike Eagle (Japan)</description>
+		<cloneof></cloneof>
+		<crc>53CCE88D</crc>
+		<manufacturer>Novotrade / MicroProse</manufacturer>
+		<year>1990</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Famicle Parodic (Japan)" index="" image="">
+		<description>Famicle Parodic (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0E03847B</crc>
+		<manufacturer>Bit2</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Billiards (Japan)" index="" image="">
+		<description>Family Billiards (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7C867D98</crc>
+		<manufacturer>Dual / Pack-In-Video</manufacturer>
+		<year>1988</year>
+		<genre>Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Boxing - MSX Title Match (Japan)" index="" image="">
+		<description>Family Boxing - MSX Title Match (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7030F2AB</crc>
+		<manufacturer>SCEI</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fantasy Zone II - The Tears of Opa-Opa (Japan)" index="" image="">
+		<description>Fantasy Zone II - The Tears of Opa-Opa (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1BDFAEEB</crc>
+		<manufacturer>Atelier Double / Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Mystery Murder Club - Satsujin Club (Japan)" index="" image="">
+		<description>Final Mystery Murder Club - Satsujin Club (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FE797D88</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Ball (Japan)" index="" image="">
+		<description>Fire Ball (Japan)</description>
+		<cloneof></cloneof>
+		<crc>CDCDC6C0</crc>
+		<manufacturer>Hummingbird Soft</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fleet Commander II - Koukon no Kaiiki (Japan)" index="" image="">
+		<description>Fleet Commander II - Koukon no Kaiiki (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9F152E9B</crc>
+		<manufacturer>ASCII</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakuen Monogatari - High School Story (Japan)" index="true" image="g">
+		<description>Gakuen Monogatari - High School Story (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FBDAFE4E</crc>
+		<manufacturer>Great</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)" index="" image="">
+		<description>Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>EB67D4D6</crc>
+		<manufacturer>Game Arts</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ganbare Goemon! - Karakuri Douchuu (Japan)" index="" image="">
+		<description>Ganbare Goemon! - Karakuri Douchuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>40E53EA3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Garyuu Ou (Japan)" index="" image="">
+		<description>Garyuu Ou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2FB0ED30</crc>
+		<manufacturer>XAIN</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)" index="" image="">
+		<description>Gekitotsu Pennant Race - Pro Yakyuu, The (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C08FAF0E</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gekitotsu Pennant Race 2 (Japan) (English Menu)" index="" image="">
+		<description>Gekitotsu Pennant Race 2 (Japan) (English Menu)</description>
+		<cloneof></cloneof>
+		<crc>E92FC432</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Girly Block (Japan)" index="" image="">
+		<description>Girly Block (Japan)</description>
+		<cloneof></cloneof>
+		<crc>28094960</crc>
+		<manufacturer>Compile / Nippon Telenet</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gitahei (Japan)" index="" image="">
+		<description>Gitahei (Japan)</description>
+		<cloneof></cloneof>
+		<crc>767AF40</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go Othello. Connect Stones (Japan)" index="" image="">
+		<description>Go Othello. Connect Stones (Japan)</description>
+		<cloneof></cloneof>
+		<crc>334596B3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hacker (Japan)" index="true" image="h">
+		<description>Hacker (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8DF56D42</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hai no Majutsushi (Japan)" index="" image="">
+		<description>Hai no Majutsushi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E0E72736</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Han Seimei Senki Andorogynus (Japan)" index="" image="">
+		<description>Han Seimei Senki Andorogynus (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C6F74489</crc>
+		<manufacturer>Telenet Japan Co., Ltd.</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hard Ball (Japan)" index="" image="">
+		<description>Hard Ball (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1D7040AF</crc>
+		<manufacturer>SCEI</manufacturer>
+		<year>1987</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heroes of the Lance (Japan)" index="" image="">
+		<description>Heroes of the Lance (Japan)</description>
+		<cloneof></cloneof>
+		<crc>95F2EB6D</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)" index="" image="">
+		<description>Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan)</description>
+		<cloneof></cloneof>
+		<crc>17BAF3ED</crc>
+		<manufacturer>Compile / Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High School! Kimengumi (Japan)" index="" image="">
+		<description>High School! Kimengumi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1123545C</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hinotori - Houou Hen (Japan)" index="" image="">
+		<description>Hinotori - Houou Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3AB5AE57</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hole in One Special (Japan)" index="" image="">
+		<description>Hole in One Special (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F35DF283</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1986</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hydlide 3 - The Space Memories (Japan)" index="" image="">
+		<description>Hydlide 3 - The Space Memories (Japan)</description>
+		<cloneof></cloneof>
+		<crc>00DB86C8</crc>
+		<manufacturer>TE Soft</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Somen (Japan)" index="" image="">
+		<description>Hyper Somen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1826474B</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ide Yousuke Meijin no Jissen Mahjong (Japan)" index="true" image="i">
+		<description>Ide Yousuke Meijin no Jissen Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>935F1BDE</crc>
+		<manufacturer>Pack-In-Video</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikari (Japan)" index="" image="">
+		<description>Ikari (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A9A66075</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Inindou - Datou Nobunaga (Japan)" index="" image="">
+		<description>Inindou - Datou Nobunaga (Japan)</description>
+		<cloneof></cloneof>
+		<crc>881B3849</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ishin no Arashi (Japan)" index="" image="">
+		<description>Ishin no Arashi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8BC34DCA</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jansei (Japan)" index="true" image="j">
+		<description>Jansei (Japan)</description>
+		<cloneof></cloneof>
+		<crc>00B8E82E</crc>
+		<manufacturer>Chatnoir / Sony Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Janyuu (Japan)" index="" image="">
+		<description>Janyuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C8FF3829</crc>
+		<manufacturer>SCEE</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kenpelen Chess (Japan)" index="true" image="k">
+		<description>Kempelen Chess (Japan)</description>
+		<cloneof></cloneof>
+		<crc>053AA66E</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kikikai-kai (Japan)" index="" image="">
+		<description>Kikikai-kai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5C859406</crc>
+		<manufacturer>Pixel / SCEI</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Kong 2 - Yomigaeru Densetsu (Japan)" index="" image="">
+		<description>King Kong 2 - Yomigaeru Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>23B78A2D</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Kong 2 - Yomigaeru Densetsu (Japan)(Translated En)" index="" image="">
+		<description>King Kong 2 - Yomigaeru Densetsu (Japan)(Translated En) (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Valley II - The Seal of El Giza (Japan)" index="" image="">
+		<description>King&apos;s Valley II - The Seal of El Giza (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B1CB1052</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King&apos;s Valley II - The Seal of El Giza - Edit Contest Version (Japan)" index="" image="">
+		<description>King&apos;s Valley II - The Seal of El Giza - Edit Contest Version (Japan)</description>
+		<cloneof></cloneof>
+		<crc>774C70FC</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kisei (Japan)" index="" image="">
+		<description>Kisei (Japan)</description>
+		<cloneof></cloneof>
+		<crc>167A53DA</crc>
+		<manufacturer>SCEI</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koji Tanigawa&apos;s Shougi Shinan II (Japan)" index="" image="">
+		<description>Koji Tanigawa&apos;s Shougi Shinan II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F640670C</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koronis Rift (Europe)" index="" image="">
+		<description>Koronis Rift (Europe)</description>
+		<cloneof></cloneof>
+		<crc>FB348DE6</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kyoto Ryu no Tera Satsujin Jiken (Japan)" index="" image="">
+		<description>Kyoto Ryu no Tera Satsujin Jiken (Japan)</description>
+		<cloneof></cloneof>
+		<crc>DCB1A61E</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Labyrinth (Japan)" index="true" image="l">
+		<description>Labyrinth (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9926F43C</crc>
+		<manufacturer>Pack-In-Video</manufacturer>
+		<year>1987</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Livingstone Supongo (Japan)" index="" image="">
+		<description>Livingstone Supongo (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C1A9A41D</crc>
+		<manufacturer>Opera Soft</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lupin Sansei - Babylon no Ougon Densetsu (Japan)" index="" image="">
+		<description>Lupin Sansei - Babylon no Ougon Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BFE150C4</crc>
+		<manufacturer>Toho</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lupin Sansei - Cagliostro no Shiro (Japan)" index="" image="">
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C4096E6B</crc>
+		<manufacturer>Toho</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mad Rider (Japan)" index="true" image="m">
+		<description>Mad Rider (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F87BD172</crc>
+		<manufacturer>Carry Lab</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)" index="" image="">
+		<description>Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan)</description>
+		<cloneof></cloneof>
+		<crc>94191AAE</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1988</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Maison Ikkoku - Omoide no Photograph (Japan)" index="" image="">
+		<description>Maison Ikkoku - Omoide no Photograph (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F4D127C0</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Malaya no Hibou (Japan)" index="" image="">
+		<description>Malaya no Hibou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F7A9591D</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear (Europe)" index="" image="">
+		<description>Metal Gear (Europe)</description>
+		<cloneof></cloneof>
+		<crc>E85C5731</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear (Japan)" index="" image="">
+		<description>Metal Gear (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FAFE1303</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan)" index="" image="">
+		<description>Metal Gear 2 - Solid Snake (Japan)</description>
+		<cloneof></cloneof>
+		<crc>18B1F34B</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan) (Demo)" index="" image="">
+		<description>Metal Gear 2 - Solid Snake (Japan) (Demo)</description>
+		<cloneof></cloneof>
+		<crc>DCEE5080</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Gear 2 - Solid Snake (Japan)(Translated En)" index="" image="">
+		<description>Metal Gear 2 - Solid Snake (Japan)(Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mirai (Japan)" index="" image="">
+		<description>Mirai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>70AA93CF</crc>
+		<manufacturer>XAIN</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mississippi Satsujinjiken (Japan)" index="" image="">
+		<description>Mississippi Satsujinjiken (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3F69A464</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moero!! Nettou Yakyuu &apos;88 (Japan)" index="" image="">
+		<description>Moero!! Nettou Yakyuu &apos;88 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>68745C64</crc>
+		<manufacturer>Jaleco Entertainment</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monmon Kaibutsu (Japan)" index="" image="">
+		<description>Monmon Kaibutsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>EBCCB796</crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nekketsu Juudou (Japan)" index="true" image="n">
+		<description>Nekketsu Juudou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>758C6087</crc>
+		<manufacturer>Opera House / Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja-kun - Asura no Shou (Japan)" index="" image="">
+		<description>Ninja-kun - Asura no Shou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F56A00E6</crc>
+		<manufacturer>Opera House / HAL Labs</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga no Yabou - Zenkoku Ban (Japan)" index="" image="">
+		<description>Nobunaga no Yabou - Zenkoku Ban (Japan)</description>
+		<cloneof></cloneof>
+		<crc>653F1C73</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1987</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga no Yabou 2 - Sengoku Gunyuu Den (Japan)" index="" image="">
+		<description>Nobunaga no Yabou 2 - Sengoku Gunyuu Den (Japan)</description>
+		<cloneof></cloneof>
+		<crc>69C11D81</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunaga no Yabou 3 - Bushou Fuuun Roku (Japan)" index="" image="">
+		<description>Nobunaga no Yabou 3 - Bushou Fuuun Roku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FF8E2C7</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ogre (Japan)" index="true" image="o">
+		<description>Ogre (Japan)</description>
+		<cloneof></cloneof>
+		<crc>F2544E2E</crc>
+		<manufacturer>SystemSoft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Out Run (Japan)" index="" image="">
+		<description>Out Run (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0A9F8D6C</crc>
+		<manufacturer>Bedrock Software / US Gold</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pac-Mania (Japan)" index="true" image="p">
+		<description>Pac-Mania (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7DF16FC8</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pachi Pro Densetsu (Japan)" index="" image="">
+		<description>Pachi Pro Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>252798F6</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1989</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguin-kun Wars 2 (Japan)" index="" image="">
+		<description>Penguin-kun Wars 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B1B24DA1</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penguin-kun Wars 2 (Japan)(Translated En)" index="" image="">
+		<description>Penguin-kun Wars 2 (Japan)(Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Persevere Goemon! A Tricky Journey (Japan)(Translated En)" index="" image="">
+		<description>Persevere Goemon! A Tricky Journey (Japan)(Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Predator (Japan)" index="" image="">
+		<description>Predator (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E85A4A6B</crc>
+		<manufacturer>Pack-In-Video</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Yakyuu Family Stadium - Pennant Race (Japan)" index="" image="">
+		<description>Pro Yakyuu Family Stadium - Pennant Race (Japan)</description>
+		<cloneof></cloneof>
+		<crc>356B7D2A</crc>
+		<manufacturer>Compile / Namco</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Yakyuu Fan - Telenet Stadium (Japan)" index="" image="">
+		<description>Pro Yakyuu Fan - Telenet Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C065BC29</crc>
+		<manufacturer>Nippon Telenet</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professional Mahjong Gokuu (Japan)" index="" image="">
+		<description>Professional Mahjong Gokuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>2ABB1EC4</crc>
+		<manufacturer>Chat Noir</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Project A2 - Shijousaidai no Hyouteki (Japan)" index="" image="">
+		<description>Project A2 - Shijousaidai no Hyouteki (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1B285FE3</crc>
+		<manufacturer>Opera House / Pony Canyon</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quarth (Japan)" index="true" image="q">
+		<description>Quarth (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A0014E7F</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quarth (Japan) (Demo)" index="" image="">
+		<description>Quarth (Japan) (Demo)</description>
+		<cloneof></cloneof>
+		<crc>C4CCB75F</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quarth (Korea)" index="" image="">
+		<description>Quarth (Korea)</description>
+		<cloneof></cloneof>
+		<crc>6681D322</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quinpl (Japan)" index="" image="">
+		<description>Quinpl (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8D94AF7D</crc>
+		<manufacturer>Bit2</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rastan Saga (Japan)" index="true" image="r">
+		<description>Rastan Saga (Japan)</description>
+		<cloneof></cloneof>
+		<crc>84461E73</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Relics (Japan)" index="" image="">
+		<description>Relics (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BABC68F2</crc>
+		<manufacturer>Bothtec / Eaglesoft</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Replicart (Japan)" index="" image="">
+		<description>Replicart (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6EEE12C4</crc>
+		<manufacturer>Dual / SCEI</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Return of Ishtar, The (Japan)" index="" image="">
+		<description>Return of Ishtar, The (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8EE8212C</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Return of Jelda (Japan)" index="" image="">
+		<description>Return of Jelda (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5CCC09AB</crc>
+		<manufacturer>Carry Lab</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rick to Mick no Daibouken (Japan)" index="" image="">
+		<description>Rick to Mick no Daibouken (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E79AA962</crc>
+		<manufacturer>Hummingbird Soft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Royal Blood (Japan)" index="" image="">
+		<description>Royal Blood (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FB9E42E1</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sangokushi (Japan)" index="true" image="s">
+		<description>Sangokushi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B83AA6F5</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1986</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sangokushi II (Japan)" index="" image="">
+		<description>Sangokushi II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C89B93B5</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1990</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scramble Formation (Japan)" index="" image="">
+		<description>Scramble Formation (Japan)</description>
+		<cloneof></cloneof>
+		<crc>226795E0</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seigimatsu II Special Attack Devil (Japan)" index="" image="">
+		<description>Seigimatsu II Special Attack Devil (Japan)</description>
+		<cloneof></cloneof>
+		<crc>816ACEB5</crc>
+		<manufacturer>Sony</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai (Japan)" index="" image="">
+		<description>Shanghai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3B815DC6</crc>
+		<manufacturer>System Soft / Activision</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shirei Sensen - War of the Dead (Japan)" index="" image="">
+		<description>Shirei Sensen - War of the Dead (Japan)</description>
+		<cloneof></cloneof>
+		<crc>39E1C37A</crc>
+		<manufacturer>Fun Factory</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Manbow (Japan)" index="" image="">
+		<description>Space Manbow (Japan)</description>
+		<cloneof></cloneof>
+		<crc>27405EED</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Virgin (Japan)" index="" image="">
+		<description>Star Virgin (Japan)</description>
+		<cloneof></cloneof>
+		<crc>CBDFCC35</crc>
+		<manufacturer>Marionette / Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strategic Mars (Japan)" index="" image="">
+		<description>Strategic Mars (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4A3ABB65</crc>
+		<manufacturer>DB Soft</manufacturer>
+		<year>1988</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Suikoden - Tenmei no Chikai (Japan)" index="" image="">
+		<description>Suikoden - Tenmei no Chikai (Japan)</description>
+		<cloneof></cloneof>
+		<crc>187D3A21</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1988</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Daisenryaku (Japan)" index="" image="">
+		<description>Super Daisenryaku (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8DF9945A</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1989</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Load Runner (Japan)" index="" image="">
+		<description>Super Load Runner (Japan)</description>
+		<cloneof></cloneof>
+		<crc>80ECAC11</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1987</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Rambo Special (Japan)" index="" image="">
+		<description>Super Rambo Special (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B2392EF3</crc>
+		<manufacturer>Pack-In-Video</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Runner (Japan)" index="" image="">
+		<description>Super Runner (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5A5BE701</crc>
+		<manufacturer>Opera House / Pony Canyon</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Tritorn (Japan)" index="" image="">
+		<description>Super Tritorn (Japan)</description>
+		<cloneof></cloneof>
+		<crc>CBB00EF1</crc>
+		<manufacturer>XAIN</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taiyou no Shinden - Asteka II (Japan)" index="true" image="t">
+		<description>Taiyou no Shinden - Asteka II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AE82A874</crc>
+		<manufacturer>Zap / Tokyo Shoseki</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Take the A Train (Japan)" index="" image="">
+		<description>Take the A Train (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C956E1DF</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1989</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tengoku Yoitoko (Japan)" index="" image="">
+		<description>Tengoku Yoitoko (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7E637801</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (Japan)" index="" image="">
+		<description>Tetris (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AA598DFD</crc>
+		<manufacturer>AcademySoft / Mirrorsoft</manufacturer>
+		<year>1987</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Title Memory (Japan)" index="" image="">
+		<description>Title Memory (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4F834531</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Topple Zip (Japan)" index="" image="">
+		<description>Topple Zip (Japan)</description>
+		<cloneof></cloneof>
+		<crc>96B33497</crc>
+		<manufacturer>Bothtec / Eaglesoft</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Treasure of Usas, The (Japan, Europe)" index="" image="">
+		<description>Treasure of Usas, The (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>30396650</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tsurikichi Sanpei - Blue Marine Hen (Japan)" index="" image="">
+		<description>Tsurikichi Sanpei - Blue Marine Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FF7395A3</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Turikichi Sampei Turisennin Hen (Japan)" index="" image="">
+		<description>Turikichi Sampei Turisennin Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc>24238B21</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1989</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultima III - Exodus (Japan)" index="true" image="u">
+		<description>Ultima III - Exodus (Japan)</description>
+		<cloneof></cloneof>
+		<crc>37B9E10F</crc>
+		<manufacturer>Pony Canyon</manufacturer>
+		<year>1988</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urusei Yatsura - Koi no Survival Birthday (Japan)" index="" image="">
+		<description>Urusei Yatsura - Koi no Survival Birthday (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E564A25F</crc>
+		<manufacturer>Micro Cabin</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vampire Killer (Japan)" index="true" image="v">
+		<description>Vampire Killer (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5953D084</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Victorius Nine II (Japan)" index="" image="">
+		<description>Victorius Nine II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>94EBC319</crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry - Proving Grounds of Mad Overload (Japan)" index="true" image="w">
+		<description>Wizardry - Proving Grounds of Mad Overload (Japan)</description>
+		<cloneof></cloneof>
+		<crc>8A5CA60</crc>
+		<manufacturer>ASCII Entertainment</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody Poco (Japan)" index="" image="">
+		<description>Woody Poco (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D1621BAE</crc>
+		<manufacturer>DB Soft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody Poco (Japan)(Translated En)" index="" image="">
+		<description>Woody Poco (Japan)(Translated En)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>DB Soft</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xevious - Fardraut Saga (Japan)" index="true" image="x">
+		<description>Xevious - Fardraut Saga (Japan)</description>
+		<cloneof></cloneof>
+		<crc>97591725</crc>
+		<manufacturer>Compile / Namco</manufacturer>
+		<year>1988</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yaksa (Japan)" index="true" image="y">
+		<description>Yaksa (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FF974EE3</crc>
+		<manufacturer>Wolf Tam</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yuurei Kun (Japan)" index="" image="">
+		<description>Yuurei Kun (Japan)</description>
+		<cloneof></cloneof>
+		<crc>712AE3C6</crc>
+		<manufacturer>System Sacom</manufacturer>
+		<year>1988</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zanac-Ex (Japan)" index="true" image="z">
+		<description>Zanac-Ex (Japan)</description>
+		<cloneof></cloneof>
+		<crc>89C8164</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1986</year>
+		<genre>Shoot-&apos;Em-Up</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoids (Japan)" index="" image="">
+		<description>Zoids (Japan)</description>
+		<cloneof>2605031E</cloneof>
+		<crc></crc>
+		<manufacturer>Micronics / Toshiba EMI</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zombie Hunter (Japan)" index="" image="">
+		<description>Zombie Hunter (Japan)</description>
+		<cloneof></cloneof>
+		<crc>688E2E8F</crc>
+		<manufacturer>Hi-Score Media Work</manufacturer>
+		<year>1988</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zukkoke Yajikita Onmitsudoutyuu (Japan)" index="" image="">
+		<description>Zukkoke Yajikita Onmitsudoutyuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D0ECECC6</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1987</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

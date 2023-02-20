@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MGT Sam Coupe</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.2</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Adventures Of Captain Comic, The (19xx) (Lars)" index="true" image="a">
+		<description>Adventures Of Captain Comic, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blokker (1995) (Stephen McGreal)" index="true" image="b">
+		<description>Blokker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Boing! (1992) (Noesis Software)" index="" image="">
+		<description>Boing!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Curse of the Serpent&apos;s Eye (1994) (Dream World Adventures)" index="true" image="c">
+		<description>Curse of the Serpent&apos;s Eye</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Defender (1998) (Persona - Digital Reality)" index="true" image="d">
+		<description>Defender</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dino Sourcerer (1993) (Softdisk Inc.)" index="" image="">
+		<description>Dino Sourcerer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Domino Box (1997) (Supplement Software)" index="" image="">
+		<description>Domino Box</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flight of Fantasy &amp; Occult Connection Adventures (19xx) (-)" index="true" image="f">
+		<description>Flight of Fantasy &amp; Occult Connection Adventures</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football League Manager (1994) (Key Software - FRED Publishing)" index="" image="">
+		<description>Football League Manager</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golden Sword of Bhakhor, The (1997) (Persona)" index="true" image="g">
+		<description>Golden Sword of Bhakhor, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Birthday - Games and Utilities Disk (19xx) (SamCo)[DSK]" index="true" image="h">
+		<description>Happy Birthday - Games and Utilities Disk</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Impatience! - Triltex and Viking (1991) (FRED)[DSK]" index="true" image="i">
+		<description>Impatience! - Triltex and Viking</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Manic Miner (1992) (Revelation Software)" index="true" image="m">
+		<description>Manic Miner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Myth and Escape From Singe&apos;s Castle (19xx) (-)" index="" image="">
+		<description>Myth and Escape From Singe&apos;s Castle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ore Warz II (1990) (William McGugan)" index="true" image="o">
+		<description>Ore Warz II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Park DBS (19xx) (-)" index="true" image="p">
+		<description>Park DBS</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Poker 18 SamCoupe 512k (19xx) (Supplement Software)" index="" image="">
+		<description>Poker 18 SamCoupe 512k</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Prince of Persia (19xx) (Revelation)[DSK]" index="" image="">
+		<description>Prince of Persia</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Roboblob &amp; Give a Dog a Bone (1991) (Images)" index="true" image="r">
+		<description>Roboblob &amp; Give a Dog a Bone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sad Snail Collection, The (1997) (Sad Snail Productions)" index="true" image="s">
+		<description>Sad Snail Collection, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sam Cards (1994) (Daton)" index="" image="">
+		<description>Sam Cards</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sam X (19xx) (Supplement Software)" index="" image="">
+		<description>Sam X</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shanghai (1990) (Fuxsoft)" index="" image="">
+		<description>Shanghai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SoulMagician (1992) (Pc-Act)" index="" image="">
+		<description>SoulMagician</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (1990) (Lord Insanity)" index="true" image="t">
+		<description>Tetris</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triltex (1991) (Fred Software)" index="" image="">
+		<description>Triltex</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

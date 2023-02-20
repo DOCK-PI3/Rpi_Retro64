@@ -1,0 +1,3379 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Future Pinball</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.2</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="300" index="true" image=""">
+		<description>"300"</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8 Ball" index="" image="">
+		<description>"8 Ball"</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1952</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2001" index="true" image="2">
+		<description>2001</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="24 - Collector\&apos;s Edition" index="" image="">
+		<description>24 - Collector\&apos;s Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2009</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4 Square" index="true" image="4">
+		<description>4 Square</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="50 50" index="true" image="5">
+		<description>50/50</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Abra Ca Dabra" index="true" image="a">
+		<description>Abra Ca Dabra</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Add-A-Ball" index="" image="">
+		<description>Add-A-Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1961</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Addam\&apos;s Family Pinball - Gold Edition" index="" image="">
+		<description>Addam\&apos;s Family Pinball: Gold Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Air Aces" index="" image="">
+		<description>Air Aces</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Airport" index="" image="">
+		<description>Airport</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aladdin\&apos;s Castle" index="" image="">
+		<description>Aladdin\&apos;s Castle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ali" index="" image="">
+		<description>Ali</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien Poker" index="" image="">
+		<description>Alien Poker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliens Legacy - Hardcore Edition" index="" image="">
+		<description>Aliens Legacy: Hardcore Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>David Eisner</manufacturer>
+		<year>2011</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aloha" index="" image="">
+		<description>Aloha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1961</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Amazing Spider-Man, The" index="" image="">
+		<description>Amazing Spider-Man, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Apollo 13" index="" image="">
+		<description>Apollo 13</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega Pinball</manufacturer>
+		<year>1995</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Attack from Mars" index="" image="">
+		<description>Attack from Mars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1995</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Austin Powers" index="" image="">
+		<description>Austin Powers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2001</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Avatar" index="" image="">
+		<description>Avatar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2010</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Avatar - Collector\&apos;s Edition" index="" image="">
+		<description>Avatar: Collector\&apos;s Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2010</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aztec" index="" image="">
+		<description>Aztec</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to the Future" index="true" image="b">
+		<description>Back to the Future</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Back to the Future - ULTRA Edition" index="" image="">
+		<description>Back to the Future: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bad Cats" index="" image="">
+		<description>Bad Cats</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Balls-A-Poppin" index="" image="">
+		<description>Balls-A-Poppin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1956</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ballyhoo" index="" image="">
+		<description>Ballyhoo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1932</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Band Wagon" index="" image="">
+		<description>Band Wagon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Baseball" index="" image="">
+		<description>Baseball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Batman - ULTRA Edition" index="" image="">
+		<description>Batman: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2008</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beach Club" index="" image="">
+		<description>Beach Club</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1953</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Beat the Clock" index="" image="">
+		<description>Beat the Clock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1985</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Bang Bar" index="" image="">
+		<description>Big Bang Bar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Brave" index="" image="">
+		<description>Big Brave</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Guns" index="" image="">
+		<description>Big Guns</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1987</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Indian" index="" image="">
+		<description>Big Indian</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Big Show" index="" image="">
+		<description>Big Show</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1956</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bikini" index="" image="">
+		<description>Bikini</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1961</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Jack" index="" image="">
+		<description>Black Jack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Knight 2000" index="" image="">
+		<description>Black Knight 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Knight GOLD" index="" image="">
+		<description>Black Knight GOLD</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Pyramid" index="" image="">
+		<description>Black Pyramid</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blackout" index="" image="">
+		<description>Blackout</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BloodRayne" index="" image="">
+		<description>BloodRayne</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>OnlineChaos</manufacturer>
+		<year>2010</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bon Voyage" index="" image="">
+		<description>Bon Voyage</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bond 50 - Anniversary Edition" index="" image="">
+		<description>Bond 50: Anniversary Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Borg, The" index="" image="">
+		<description>Borg, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mark1</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bowling Queen" index="" image="">
+		<description>Bowling Queen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bronco" index="" image="">
+		<description>Bronco</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bubble Bobble" index="" image="">
+		<description>Bubble Bobble</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rukage</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Capt. Fantastic" index="true" image="c">
+		<description>Capt. Fantastic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Card Whiz" index="" image="">
+		<description>Card Whiz</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centaur" index="" image="">
+		<description>Centaur</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Centigrade 37" index="" image="">
+		<description>Centigrade 37</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Central Park" index="" image="">
+		<description>Central Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Checkpoint" index="" image="">
+		<description>Checkpoint</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1991</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cinema" index="" image="">
+		<description>Cinema</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Chicago Coin</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cirqus Voltaire" index="" image="">
+		<description>Cirqus Voltaire</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1997</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Classic Panic" index="" image="">
+		<description>Classic Panic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>MystMan, Polygame</manufacturer>
+		<year>2009</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cleopatra" index="" image="">
+		<description>Cleopatra</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Close Encounters of the Third Kind" index="" image="">
+		<description>Close Encounters of the Third Kind</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Gunfight" index="" image="">
+		<description>Cosmic Gunfight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1982</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Count-Down" index="" image="">
+		<description>Count-Down</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cover Girl" index="" image="">
+		<description>Cover Girl</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1962</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cow Poke" index="" image="">
+		<description>Cow Poke</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Creature from the Black Lagoon" index="" image="">
+		<description>Creature from the Black Lagoon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cross Country" index="" image="">
+		<description>Cross Country</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CSI - Crime Scene Investigation" index="" image="">
+		<description>CSI: Crime Scene Investigation</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2008</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cue-T" index="" image="">
+		<description>Cue-T</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1968</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cyclone" index="" image="">
+		<description>Cyclone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Rider" index="true" image="d">
+		<description>Dark Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Geiger</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="DarkQuest" index="" image="">
+		<description>DarkQuest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Polygame</manufacturer>
+		<year>2008</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dead Hunters" index="" image="">
+		<description>Dead Hunters</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BlindMankind, Centinex</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dealer\&apos;s Choice" index="" image="">
+		<description>Dealer\&apos;s Choice</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Devil\&apos;s Dare" index="" image="">
+		<description>Devil\&apos;s Dare</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1982</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Die Hard" index="" image="">
+		<description>Die Hard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ROM</manufacturer>
+		<year>2007</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doctor Who" index="" image="">
+		<description>Doctor Who</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dolly Parton" index="" image="">
+		<description>Dolly Parton</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doodle Bug" index="" image="">
+		<description>Doodle Bug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dr. Dude" index="" image="">
+		<description>Dr. Dude</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drakor" index="" image="">
+		<description>Drakor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drop-A-Card" index="" image="">
+		<description>Drop-A-Card</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Earthshaker" index="true" image="e">
+		<description>Earthshaker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eight Ball" index="" image="">
+		<description>Eight Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eight Ball Champ" index="" image="">
+		<description>Eight Ball Champ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1985</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eight Ball Deluxe" index="" image="">
+		<description>Eight Ball Deluxe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="El Dorado" index="" image="">
+		<description>El Dorado</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="El Toro" index="" image="">
+		<description>El Toro</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elvis" index="" image="">
+		<description>Elvis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2004</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Embryon" index="" image="">
+		<description>Embryon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Evel Knievel" index="" image="">
+		<description>Evel Knievel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Expo" index="" image="">
+		<description>Expo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Expressway" index="" image="">
+		<description>Expressway</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="F-14 Tomcat - 25th Anniversary Edition" index="true" image="f">
+		<description>F-14 Tomcat - 25th Anniversary Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1987</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Family Guy" index="" image="">
+		<description>Family Guy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2006</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Far Out" index="" image="">
+		<description>Far Out</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fast Draw" index="" image="">
+		<description>Fast Draw</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fathom" index="" image="">
+		<description>Fathom</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Favorite" index="" image="">
+		<description>Favorite</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Buckley</manufacturer>
+		<year>1932</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fifth Element, The" index="" image="">
+		<description>Fifth Element, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ROM</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fire Action" index="" image="">
+		<description>Fire Action</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fireball (Home Version)" index="" image="">
+		<description>Fireball (Home Version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fireball Classic" index="" image="">
+		<description>Fireball Classic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Firepower" index="" image="">
+		<description>Firepower</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fish Tales" index="" image="">
+		<description>Fish Tales</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FJ" index="" image="">
+		<description>FJ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hankin</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flame Reaper 2010 - First Responders Unit" index="" image="">
+		<description>Flame Reaper 2010 - First Responders Unit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Anthias, Polygame </manufacturer>
+		<year>2010</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flame Reaper 2010 - First Responders Unit - ULTRA Edition" index="" image="">
+		<description>Flame Reaper 2010 - First Responders Unit: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Anthias, Polygame, SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash" index="" image="">
+		<description>Flash</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash Gordon HD" index="" image="">
+		<description>Flash Gordon HD</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flash Gordon - ULTRA Edition" index="" image="">
+		<description>Flash Gordon: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flight 2000" index="" image="">
+		<description>Flight 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper" index="" image="">
+		<description>Flipper</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1960</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper Cowboy" index="" image="">
+		<description>Flipper Cowboy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1960</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper Parade" index="" image="">
+		<description>Flipper Parade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1961</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper Pool" index="" image="">
+		<description>Flipper Pool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Freedom" index="" image="">
+		<description>Freedom</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Friendship 7" index="" image="">
+		<description>Friendship "7"</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1962</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Frontier" index="" image="">
+		<description>Frontier</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Full" index="" image="">
+		<description>Full</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Recreativos Franco</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Full House" index="" image="">
+		<description>Full House</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Funhouse" index="" image="">
+		<description>Funhouse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Galaxy" index="true" image="g">
+		<description>Galaxy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Genie" index="" image="">
+		<description>Genie</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Getaway, The - High Speed II" index="" image="">
+		<description>Getaway, The: High Speed II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gilligan\&apos;s Island" index="" image="">
+		<description>Gilligan\&apos;s Island</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1991</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Rush" index="" image="">
+		<description>Gold Rush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gold Strike" index="" image="">
+		<description>Gold Strike</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gorgar - Hellfire Edition" index="" image="">
+		<description>Gorgar: Hellfire Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Granada" index="" image="">
+		<description>Granada</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1972</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix" index="" image="">
+		<description>Grand Prix</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Slam" index="" image="">
+		<description>Grand Slam</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1953</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Green Pastures" index="" image="">
+		<description>Green Pastures</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1954</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gremlins Mega Madness" index="" image="">
+		<description>Gremlins Mega Madness</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>francisco666, ROM</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gulfstream" index="" image="">
+		<description>Gulfstream</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Happy Clown" index="true" image="h">
+		<description>Happy Clown</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Harlem Globetrotters On Tour" index="" image="">
+		<description>Harlem Globetrotters On Tour</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hawkman" index="" image="">
+		<description>Hawkman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>1983</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hayburners" index="" image="">
+		<description>Hayburners</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1951</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hearts and Spades" index="" image="">
+		<description>Hearts and Spades</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heat Wave" index="" image="">
+		<description>Heat Wave</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Heavy Metal Meltdown" index="" image="">
+		<description>Heavy Metal Meltdown</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1987</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Deal" index="" image="">
+		<description>Hi-Deal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hi-Lo Ace" index="" image="">
+		<description>Hi-Lo Ace</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Hand" index="" image="">
+		<description>High Hand</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Speed - Hot Pursuit" index="" image="">
+		<description>High Speed: Hot Pursuit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1986</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="High Speed - Hot Pursuit VIP" index="" image="">
+		<description>High Speed: Hot Pursuit VIP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1986</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hokus Pokus" index="" image="">
+		<description>Hokus Pokus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hollywood" index="" image="">
+		<description>Hollywood</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Chicago Coin</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Honey" index="" image="">
+		<description>Honey</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1972</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hurdy Gurdy" index="" image="">
+		<description>Hurdy Gurdy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ice Show" index="true" image="i">
+		<description>Ice Show</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Incredible Hulk, The" index="" image="">
+		<description>Incredible Hulk, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Indiana Jones Pinball Adventure" index="" image="">
+		<description>Indiana Jones Pinball Adventure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Iron Man" index="" image="">
+		<description>Iron Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2012</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="JAWS Best of, 2nd Edition" index="true" image="j">
+		<description>JAWS Best of, 2nd Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ROM</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jetsons, The" index="" image="">
+		<description>Jetsons, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jive Time" index="" image="">
+		<description>Jive Time</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Joker Poker" index="" image="">
+		<description>Joker Poker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jokerz!" index="" image="">
+		<description>Jokerz!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jolly Jokers" index="" image="">
+		<description>Jolly Jokers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1962</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jumping Jack" index="" image="">
+		<description>Jumping Jack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle" index="" image="">
+		<description>Jungle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1972</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Lord" index="" image="">
+		<description>Jungle Lord</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jungle Queen" index="" image="">
+		<description>Jungle Queen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Junkyard Cats" index="" image="">
+		<description>Junkyard Cats</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>PinWizKid</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jurassic Park" index="" image="">
+		<description>Jurassic Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kick Off" index="true" image="k">
+		<description>Kick Off</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Kong" index="" image="">
+		<description>King Kong</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King of Diamonds" index="" image="">
+		<description>King of Diamonds</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1967</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Pin" index="" image="">
+		<description>King Pin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="King Tut" index="" image="">
+		<description>King Tut</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kings &amp; Queens" index="" image="">
+		<description>Kings &amp; Queens</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="KISS" index="" image="">
+		<description>KISS</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Klondike" index="" image="">
+		<description>Klondike</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knock Out" index="" image="">
+		<description>Knock Out</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1950</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lady Death 2000" index="true" image="l">
+		<description>Lady Death 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lectronamo" index="" image="">
+		<description>Lectronamo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lethal Weapon 3" index="" image="">
+		<description>Lethal Weapon 3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lightning" index="" image="">
+		<description>Lightning</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Joe" index="" image="">
+		<description>Little Joe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lord of the Rings" index="" image="">
+		<description>Lord of the Rings</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2003</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lost World" index="" image="">
+		<description>Lost World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lucky Seven" index="" image="">
+		<description>Lucky Seven</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lunch TakeOut" index="" image="">
+		<description>Lunch TakeOut</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Polygame</manufacturer>
+		<year>2009</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Machine, The - Bride of Pinbot" index="true" image="m">
+		<description>Machine, The - Bride of Pinbot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1991</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic" index="" image="">
+		<description>Magic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Castle" index="" image="">
+		<description>Magic Castle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zaccaria</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic City" index="" image="">
+		<description>Magic City</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1967</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magnotron" index="" image="">
+		<description>Magnotron</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Majorettes" index="" image="">
+		<description>Majorettes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mandrake the Magician" index="" image="">
+		<description>Mandrake the Magician</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Darrin</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mariner" index="" image="">
+		<description>Mariner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Masters of the Universe" index="" image="">
+		<description>Masters of the Universe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ROM</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mata Hari" index="" image="">
+		<description>Mata Hari</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medieval Castle" index="" image="">
+		<description>Medieval Castle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medieval Madness GOLD" index="" image="">
+		<description>Medieval Madness GOLD</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1997</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Medusa" index="" image="">
+		<description>Medusa</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Melody" index="" image="">
+		<description>Melody</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1967</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metal Slug" index="" image="">
+		<description>Metal Slug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>PinWizKid</manufacturer>
+		<year>2009</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Metallica Platinum" index="" image="">
+		<description>Metallica Platinum</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Meteor, The" index="" image="">
+		<description>Meteor, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miss World" index="" image="">
+		<description>Miss World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Geiger</manufacturer>
+		<year>1985</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miss-O" index="" image="">
+		<description>Miss-O</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Impossible III" index="" image="">
+		<description>Mission Impossible III</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Impossible III VIP" index="" image="">
+		<description>Mission Impossible III VIP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball, SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monster Bash" index="" image="">
+		<description>Monster Bash</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1998</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monte Carlo" index="" image="">
+		<description>Monte Carlo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mortal Kombat" index="" image="">
+		<description>Mortal Kombat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Robert Pearson</manufacturer>
+		<year>2010</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mousin\&apos; Around!" index="" image="">
+		<description>Mousin\&apos; Around!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mr. &amp; Mrs. Pac-Man Pinball" index="" image="">
+		<description>Mr. &amp; Mrs. Pac-Man Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neptune" index="true" image="n">
+		<description>Neptune</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Night Rider" index="" image="">
+		<description>Night Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightmare on Elm Street, A" index="" image="">
+		<description>Nightmare on Elm Street, A</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nitro Ground Shaker" index="" image="">
+		<description>Nitro Ground Shaker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="North Star" index="" image="">
+		<description>North Star</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Old Chicago" index="true" image="o">
+		<description>Old Chicago</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orbit" index="" image="">
+		<description>Orbit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OXO" index="" image="">
+		<description>OXO</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Palace Guard" index="true" image="p">
+		<description>Palace Guard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1968</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Party Zone" index="" image="">
+		<description>Party Zone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1991</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paul Bunyan" index="" image="">
+		<description>Paul Bunyan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1968</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Penthouse" index="" image="">
+		<description>Penthouse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Popotte, Rob046, Taltmeyer</manufacturer>
+		<year>2008</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom of the Opera" index="" image="">
+		<description>Phantom of the Opera</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Phantom, The" index="" image="">
+		<description>Phantom, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Daz</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pharaoh" index="" image="">
+		<description>Pharaoh</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1981</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PIN-BOT" index="" image="">
+		<description>PIN-BOT</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1986</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinball" index="" image="">
+		<description>Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinball Pool" index="" image="">
+		<description>Pinball Pool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pioneer" index="" image="">
+		<description>Pioneer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pirates of the Caribbean" index="" image="">
+		<description>Pirates of the Caribbean</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2006</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Playboy" index="" image="">
+		<description>Playboy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Police Force" index="" image="">
+		<description>Police Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop-A-Card" index="" image="">
+		<description>Pop-A-Card</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1972</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Power Play" index="" image="">
+		<description>Power Play</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Pool" index="" image="">
+		<description>Pro Pool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro-Football" index="" image="">
+		<description>Pro-Football</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1973</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-Bert\&apos;s Quest" index="true" image="q">
+		<description>Q*Bert\&apos;s Quest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1983</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quicksilver" index="" image="">
+		<description>Quicksilver</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Red Dwarf - SMEG Edition" index="true" image="r">
+		<description>Red Dwarf: SMEG Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2010</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Red Max, The" index="" image="">
+		<description>Red Max, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ripley\&apos;s Believe It or Not!" index="" image="">
+		<description>Ripley\&apos;s Believe It or Not!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2004</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Road Girls - Revisited" index="" image="">
+		<description>Road Girls: Revisited</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BlindMankind, Centinex</manufacturer>
+		<year>2007</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="RoboCop" index="" image="">
+		<description>RoboCop</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ROM</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Robots Invasion!" index="" image="">
+		<description>Robots Invasion!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kevin Lee Drum, Moogster66, Nash, Polygame, SLAMT1LT</manufacturer>
+		<year>2011</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket" index="" image="">
+		<description>Rocket</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1959</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket Derby" index="" image="">
+		<description>Rocket Derby</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>CrimsonTurtle616</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rocket III" index="" image="">
+		<description>Rocket III</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1989</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rolling Stones" index="" image="">
+		<description>Rolling Stones</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Royal Flush" index="" image="">
+		<description>Royal Flush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Safari" index="true" image="s">
+		<description>Safari</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scared Stiff" index="" image="">
+		<description>Scared Stiff</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1996</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Scooby-Doo!" index="" image="">
+		<description>Scooby-Doo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seawitch" index="" image="">
+		<description>Seawitch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sharkey\&apos;s Shootout" index="" image="">
+		<description>Sharkey\&apos;s Shootout</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2000</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sheriff" index="" image="">
+		<description>Sheriff</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ship Ahoy" index="" image="">
+		<description>Ship Ahoy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ship-Mates" index="" image="">
+		<description>Ship-Mates</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shock" index="" image="">
+		<description>Shock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>Unknown</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silver" index="" image="">
+		<description>Silver</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1957</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silverball Mania" index="" image="">
+		<description>Silverball Mania</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sinbad" index="" image="">
+		<description>Sinbad</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sittin\&apos; Pretty" index="" image="">
+		<description>Sittin\&apos; Pretty</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1958</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Six Million Dollar Man, The" index="" image="">
+		<description>Six Million Dollar Man, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Skateball" index="" image="">
+		<description>Skateball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1958</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sky Jump" index="" image="">
+		<description>Sky Jump</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Slick Chick" index="" image="">
+		<description>Slick Chick</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snow Queen" index="" image="">
+		<description>Snow Queen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1970</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Solar System" index="" image="">
+		<description>Solar System</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sorcerer - Special Edition" index="" image="">
+		<description>Sorcerer: Special Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1985</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders" index="" image="">
+		<description>Space Invaders</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Mission" index="" image="">
+		<description>Space Mission</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Rider" index="" image="">
+		<description>Space Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Geiger</manufacturer>
+		<year>1980</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Shuttle" index="" image="">
+		<description>Space Shuttle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Station" index="" image="">
+		<description>Space Station</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1987</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spanish Eyes" index="" image="">
+		<description>Spanish Eyes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1972</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Speed Devils - Special Edition" index="" image="">
+		<description>Speed Devils - Special Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>LvR, Moog, Polygame</manufacturer>
+		<year>2009</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spider-Man" index="" image="">
+		<description>Spider-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2007</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spin Out" index="" image="">
+		<description>Spin Out</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spirit of 76" index="" image="">
+		<description>Spirit of 76</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Spy Hunter" index="" image="">
+		<description>Spy Hunter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Square Head" index="" image="">
+		<description>Square Head</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek" index="" image="">
+		<description>Star Trek</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - The Next Generation" index="" image="">
+		<description>Star Trek - The Next Generation</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Trek - ULTRA Edition" index="" image="">
+		<description>Star Trek: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Wars - Empire Edition" index="" image="">
+		<description>Star Wars: Empire Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SLAMT1LT</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star-Jet" index="" image="">
+		<description>Star-Jet</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stars" index="" image="">
+		<description>Stars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stars - ULTRA Edition" index="" image="">
+		<description>Stars: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SteelWheel - Special Edition" index="" image="">
+		<description>SteelWheel: Special Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>AtmanActive, Misaligned Cow Ventu, Polygame</manufacturer>
+		<year>2011</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Straight Flush" index="" image="">
+		<description>Straight Flush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1957</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strange World" index="" image="">
+		<description>Strange World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strato-Flite" index="" image="">
+		<description>Strato-Flite</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strikes and Spares" index="" image="">
+		<description>Strikes and Spares</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Subway" index="" image="">
+		<description>Subway</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1966</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Mario Bros. Mushroom World" index="" image="">
+		<description>Super Mario Bros. Mushroom World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1992</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Spin" index="" image="">
+		<description>Super Spin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1977</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Superman VIP" index="" image="">
+		<description>Superman VIP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Supersonic" index="" image="">
+		<description>Supersonic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Surf Champ" index="" image="">
+		<description>Surf Champ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Surfer" index="" image="">
+		<description>Surfer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sweet Hearts" index="" image="">
+		<description>Sweet Hearts</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1963</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Swords of Fury" index="" image="">
+		<description>Swords of Fury</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tales from the Crypt" index="true" image="t">
+		<description>Tales from the Crypt</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Target Alpha" index="" image="">
+		<description>Target Alpha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taxi" index="" image="">
+		<description>Taxi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1988</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Teacher\&apos;s Pet" index="" image="">
+		<description>Teacher\&apos;s Pet</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1965</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tee\&apos;d Off" index="" image="">
+		<description>Tee\&apos;d Off</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terminator 2 - Judgement Day" index="" image="">
+		<description>Terminator 2: Judgement Day</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1991</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Three Angels" index="" image="">
+		<description>Three Angels</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BlindManKind, Centinex</manufacturer>
+		<year>2009</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ThunderCats" index="" image="">
+		<description>ThunderCats</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball</manufacturer>
+		<year>2006</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tim-Buc-Tu" index="" image="">
+		<description>Tim-Buc-Tu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1956</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Tunnel" index="" image="">
+		<description>Time Tunnel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Time Warp" index="" image="">
+		<description>Time Warp</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Titan" index="" image="">
+		<description>Titan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>1982</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Top Score" index="" image="">
+		<description>Top Score</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1975</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Totem" index="" image="">
+		<description>Totem</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transformers" index="" image="">
+		<description>Transformers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2011</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trident" index="" image="">
+		<description>Trident</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Triple Strike" index="" image="">
+		<description>Triple Strike</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>2012</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TRON Legacy" index="" image="">
+		<description>TRON Legacy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>2011</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TRON Legacy VIP" index="" image="">
+		<description>TRON Legacy VIP</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Truxton - ULTRA Edition" index="" image="">
+		<description>Truxton: ULTRA Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Larsboy, SLAMT1LT</manufacturer>
+		<year>2013</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twilight Zone" index="" image="">
+		<description>Twilight Zone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1993</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Twister" index="" image="">
+		<description>Twister</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega Pinball</manufacturer>
+		<year>1996</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Volley" index="true" image="v">
+		<description>Volley</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1976</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Vortex" index="" image="">
+		<description>Vortex</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito do Brasil</manufacturer>
+		<year>1983</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="War of the Worlds, The" index="true" image="w">
+		<description>War of the Worlds, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Roney Pinball, SLAMT1LT</manufacturer>
+		<year>2010</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Whirlwind" index="" image="">
+		<description>Whirlwind</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wild Fyre" index="" image="">
+		<description>Wild Fyre</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern</manufacturer>
+		<year>1978</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wipeout" index="" image="">
+		<description>Wipeout</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>DRAKKO</manufacturer>
+		<year>2012</year>
+		<genre>Original</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard!" index="" image="">
+		<description>Wizard!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1974</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Fair" index="" image="">
+		<description>World Fair</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gottlieb</manufacturer>
+		<year>1964</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xenon" index="true" image="x">
+		<description>Xenon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1979</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yukon" index="true" image="y">
+		<description>Yukon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1971</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zip-A-Doo" index="true" image="z">
+		<description>Zip-A-Doo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1969</year>
+		<genre>Recreation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

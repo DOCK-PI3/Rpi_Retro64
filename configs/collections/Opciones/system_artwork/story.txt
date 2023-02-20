@@ -1,0 +1,1 @@
+Opciones para RetroFE Pi4 XStation en nuestra Raspberry. Puede cambiar de layout ,reiniciar ,apagar el sistema o cerrar RetroFE para administrarlo desde la rpi4 ,ect...nota: Para esto ultimo hace falta que tenga conectado un raton y un teclado ! Sistema construido desde CERO por MABEDEEP ,Dockpi3 ,DockMan u AlcyoneCodigo ;Alter egos | 09-04-2022 | 

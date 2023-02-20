@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PngFix Coinops
+Comment=Crush png ,fix space color for png files...
+Exec=/home/retro/MABE/PNGCRUSH-FIX-PNGs.sh
+Icon=face-glasses
+Path=
+Terminal=true
+StartupNotify=false

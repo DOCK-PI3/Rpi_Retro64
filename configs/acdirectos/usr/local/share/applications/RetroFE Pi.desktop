@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=RetroFE Pi
+GenericName=RetroFE unix Frontend 
+Type=Application
+Comment=RetroFE FrontEnd Pi
+Exec=/home/retro/MABE/retrofeStart.sh
+Icon=/home/retro/MABE/RetroFE.png
+Categories=Game;Emulator;
+Path=
+Terminal=true
+StartupNotify=false

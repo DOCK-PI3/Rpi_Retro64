@@ -1,0 +1,2379 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega Pico</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="101-piki Wan-chan - Wan-chan Daikoushin! (Japan)" index="true" image="1">
+		<description>101-piki Wan-chan - Wan-chan Daikoushin!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3-choume no Tama Momo-chan wa Doko! (Japan) (Rev 1)" index="true" image="3">
+		<description>3-choume no Tama Momo-chan wa Doko!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1 (Japan)" index="true" image="6">
+		<description>6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2 (Japan)" index="" image="">
+		<description>6000-nin no Sensei-tachi ga Tsukutta Tanoshii Shougakkou Tanken 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="A Bug&apos;s Life (Japan)" index="true" image="a">
+		<description>A Bug&apos;s Life</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="A Year At Pooh Corner (Europe)" index="" image="">
+		<description>A Year At Pooh Corner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="A Year at Pooh Corner (USA)" index="" image="">
+		<description>A Year at Pooh Corner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Adventures in Letterland with Jack &amp; Jill (USA)" index="" image="">
+		<description>Adventures in Letterland with Jack &amp; Jill</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ai to Yume no Kuni Sanrio Puroland - Asobinagara Oboeyou! Hiragana Katakana (Japan)" index="" image="">
+		<description>Ai to Yume no Kuni Sanrio Puroland - Asobinagara Oboeyou! Hiragana Katakana</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ai to Yume no Kuni Sanrio Puroland - Chanto Dekiru Kana Minna to Tanoshii Oyuugikai (Japan)" index="" image="">
+		<description>Ai to Yume no Kuni Sanrio Puroland - Chanto Dekiru Kana Minna to Tanoshii Oyuugikai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ai to Yume to Bouken Sanrio Puroland! (Japan)" index="" image="">
+		<description>Ai to Yume to Bouken Sanrio Puroland!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ashita no Nadja (Japan)" index="" image="">
+		<description>Ashita no Nadja</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="B-Fighter Kabuto (Japan)" index="true" image="b">
+		<description>B-Fighter Kabuto</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="B-Robo Kabutack (Japan)" index="" image="">
+		<description>B-Robo Kabutack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bakuryuu Sentai Abaranger (Japan)" index="" image="">
+		<description>Bakuryuu Sentai Abaranger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Berenstain Bears, The - A School Day (USA)" index="" image="">
+		<description>Berenstain Bears, The - A School Day</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon S (Japan)" index="" image="">
+		<description>Bishoujo Senshi Sailor Moon S</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party (Japan)" index="" image="">
+		<description>Bishoujo Senshi Sailor Moon Sailor Stars - Tokimeki Party</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chibi Maruko-chan - Issho ni Asobou Yo (Japan)" index="true" image="c">
+		<description>Chibi Maruko-chan - Issho ni Asobou Yo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copera no Kono Ato Naani (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Copera no Kono Ato Naani</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Copera no Time Machine (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Copera no Time Machine</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crayola Crayons - Create a World (USA)" index="" image="">
+		<description>Crayola Crayons - Create a World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crayon Shin-chan no Ora to Issho ni Asobou yo! (Japan)" index="" image="">
+		<description>Crayon Shin-chan no Ora to Issho ni Asobou yo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crayons Magiques (France)" index="" image="">
+		<description>Crayons Magiques</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cutey Honey (Japan)" index="" image="">
+		<description>Cutey Honey</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dance Pico with Hashitte Odotte Chou Happy! (Japan)" index="true" image="d">
+		<description>Dance Pico with Hashitte Odotte Chou Happy!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Densha Daishuugou! (Japan)" index="" image="">
+		<description>Densha Daishuugou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Princess Ariel (Japan)" index="" image="">
+		<description>Disney Princess Ariel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Disney Princesses - Princess ni Naritai (Japan)" index="" image="">
+		<description>Disney Princesses - Princess ni Naritai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Do Re Mi Fa Animals no Tanoshii Ensoukai (Japan)" index="" image="">
+		<description>Do Re Mi Fa Animals no Tanoshii Ensoukai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Do Re Mi Fa Densetsu (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Do Re Mi Fa Densetsu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donald no Obake Taiji (Japan)" index="" image="">
+		<description>Donald no Obake Taiji</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donald no TV Show (Japan) (Rev 2)" index="" image="">
+		<description>Donald no TV Show</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Donalds Gespensterjagd (Germany) (Proto)" index="" image="">
+		<description>Donalds Gespensterjagd</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Chiiku Asobi Dora-Land (Japan)" index="" image="">
+		<description>Doraemon - Chiiku Asobi Dora-Land</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Kazoete-Kanzan Kazu Tokei (Japan)" index="" image="">
+		<description>Doraemon - Kazoete-Kanzan Kazu Tokei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Nobita no Machinaka Dokidoki Tanken! (Japan)" index="" image="">
+		<description>Doraemon - Nobita no Machinaka Dokidoki Tanken!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Nobita to Maigo no Kyouryuu (Japan) (Rev 2)" index="" image="">
+		<description>Doraemon - Nobita to Maigo no Kyouryuu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Time Machine de Daibouken (Japan)" index="" image="">
+		<description>Doraemon - Time Machine de Daibouken</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Yometa yo-Kaketa yo Hiragana Katakana (Japan)" index="" image="">
+		<description>Doraemon - Yometa yo-Kaketa yo Hiragana Katakana</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon - Youchien wa Tanoshii na (Japan)" index="" image="">
+		<description>Doraemon - Youchien wa Tanoshii na</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon Eigo de Asobou ABC (Japan)" index="" image="">
+		<description>Doraemon Eigo de Asobou ABC</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon Ensoku-Imohori-Undoukai (Japan)" index="" image="">
+		<description>Doraemon Ensoku-Imohori-Undoukai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Doraemon no Utatte Pico Set with Issho ni Utaou! Doraemon Waku Waku Karaoke (Japan)" index="" image="">
+		<description>Doraemon no Utatte Pico Set with Issho ni Utaou! Doraemon Waku Waku Karaoke</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drive Pico - Saa Shuppatsu Da! Ken-chan to Pepe no Wanpaku Drive (Japan)" index="" image="">
+		<description>Drive Pico - Saa Shuppatsu Da! Ken-chan to Pepe no Wanpaku Drive</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drive Pico with Go Go! Car Navi Touring! (Japan)" index="" image="">
+		<description>Drive Pico with Go Go! Car Navi Touring!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ECC Junior no Hajimete Eigo Vol. 1 Patty And Her Family - Patty-chan Family (Japan) (Rev 1)" index="true" image="e">
+		<description>ECC Junior no Hajimete Eigo Vol. 1 Patty And Her Family - Patty-chan Family</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ECC Junior no Hajimete Eigo Vol. 2 Patty Goes On A Picnic - Patty-chan no Picnic (Japan)" index="" image="">
+		<description>ECC Junior no Hajimete Eigo Vol. 2 Patty Goes On A Picnic - Patty-chan no Picnic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. And The Great Ocean Treasure Hunt! (Europe)" index="" image="">
+		<description>Ecco Jr. And The Great Ocean Treasure Hunt!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. and the Great Ocean Treasure Hunt! (USA)" index="" image="">
+		<description>Ecco Jr. and the Great Ocean Treasure Hunt!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. et la Chasse au Tresor Sous-Marine! (France)" index="" image="">
+		<description>Ecco Jr. et la Chasse au Tresor Sous-Marine!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. und die Grosse Schatzsuche im Ozean! (Germany)" index="" image="">
+		<description>Ecco Jr. und die Grosse Schatzsuche im Ozean!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ecco Jr. y la Gran Busqueda del Tesoro en el Oceano! (Spain)" index="" image="">
+		<description>Ecco Jr. y la Gran Busqueda del Tesoro en el Oceano!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ein Jahr in Winnie Puuhs Leben (Germany)" index="" image="">
+		<description>Ein Jahr in Winnie Puuhs Leben</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="El Profesor Pico En El Mundo De Los Colores (Spain)" index="" image="">
+		<description>El Profesor Pico En El Mundo De Los Colores</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exciting! Hataraku Norimono-tachi (Japan)" index="" image="">
+		<description>Exciting! Hataraku Norimono-tachi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Fishing Pico Donald no Adventure (Japan)" index="true" image="f">
+		<description>Fishing Pico Donald no Adventure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Futari wa Pretty Cure (Japan)" index="" image="">
+		<description>Futari wa Pretty Cure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gabutcho Tsuri Gakkou Yatta ne! Boku wa Tsuri Meijn (Japan)" index="true" image="g">
+		<description>Gabutcho Tsuri Gakkou Yatta ne! Boku wa Tsuri Meijn</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken Anpanman to Chinou Up! (Japan)" index="" image="">
+		<description>Gakken Anpanman to Chinou Up!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken Hajimete no Moji-Kotoba (Japan)" index="" image="">
+		<description>Gakken Hajimete no Moji-Kotoba</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft - Eigo ABC (Japan)" index="" image="">
+		<description>Gakken no o-Benkyou Soft - Eigo ABC</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft - Hiragana (Japan) (Rev 1)" index="" image="">
+		<description>Gakken no o-Benkyou Soft - Hiragana</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft - Kakezan Kuku (Japan)" index="" image="">
+		<description>Gakken no o-Benkyou Soft - Kakezan Kuku</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft - Kanji (Japan)" index="" image="">
+		<description>Gakken no o-Benkyou Soft - Kanji</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft - Kazu-Suuji (Japan)" index="" image="">
+		<description>Gakken no o-Benkyou Soft - Kazu-Suuji</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no o-Benkyou Soft Kazu-Suuji (Japan)" index="" image="">
+		<description>Gakken no o-Benkyou Soft Kazu-Suuji</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken no Obenkyou Soft - Hiragana (Japan) (Rev 1)" index="" image="">
+		<description>Gakken no Obenkyou Soft - Hiragana</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken Pico de Gakushuu 1-nensei (Japan)" index="" image="">
+		<description>Gakken Pico de Gakushuu 1-nensei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gakken Pico de Kagaku 1 Hakken Mushi no Himitsu (Japan)" index="" image="">
+		<description>Gakken Pico de Kagaku 1 Hakken Mushi no Himitsu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Game wo Shinagara Oboe You! Kantan Wakuwaku Keyboard (Japan)" index="" image="">
+		<description>Game wo Shinagara Oboe You! Kantan Wakuwaku Keyboard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ganbare! Bokura no Compati Heroes (Japan)" index="" image="">
+		<description>Ganbare! Bokura no Compati Heroes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gegege no Kitarou (Japan)" index="" image="">
+		<description>Gegege no Kitarou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gekisou Sentai CarRanger (Japan)" index="" image="">
+		<description>Gekisou Sentai CarRanger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Giorno di Scuola degli Orsi Berenstain, Un (Italy)" index="" image="">
+		<description>Giorno di Scuola degli Orsi Berenstain, Un</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Go! Go! Konii-chan! Doki Doki World (Japan)" index="" image="">
+		<description>Go! Go! Konii-chan! Doki Doki World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Godzilla - Dokidoki Kaijuu-tou (Japan)" index="" image="">
+		<description>Godzilla - Dokidoki Kaijuu-tou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Great Counting Caper with 3 Blind Mice, The (USA)" index="" image="">
+		<description>Great Counting Caper with 3 Blind Mice, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gu~chokorantan Minna de o-Ekaki! Tanoshii Asobi mo ippai! (Japan)" index="" image="">
+		<description>Gu~chokorantan Minna de o-Ekaki! Tanoshii Asobi mo ippai!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hajimema Series 1 - Donald no Obake Taiji (Japan)" index="true" image="h">
+		<description>Hajimema Series 1 - Donald no Obake Taiji</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hataraku Kuruma Diapet Daishuugou (Japan)" index="" image="">
+		<description>Hataraku Kuruma Diapet Daishuugou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty no Suteki na O-tanjoubi (Japan)" index="" image="">
+		<description>Hello Kitty no Suteki na O-tanjoubi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty no Tanoshii Butoukai (Japan)" index="" image="">
+		<description>Hello Kitty no Tanoshii Butoukai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hello Kitty to McDonald de Asobo! (Japan)" index="" image="">
+		<description>Hello Kitty to McDonald de Asobo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hirake! Ponkikki Party o Hirakou! (Japan)" index="" image="">
+		<description>Hirake! Ponkikki Party o Hirakou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ikunoujuku Sanou Kaihatsu Series 3 - Hikaku, Bunrui (Japan)" index="true" image="i">
+		<description>Ikunoujuku Sanou Kaihatsu Series 3 - Hikaku, Bunrui</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Itsudemo Issho Doraemon Set (Japan)" index="" image="">
+		<description>Itsudemo Issho Doraemon Set</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Jidou Eiken Taiou Soft Moomin to Eigo Tanjoubi no Okurimono (Japan) (Rev 2)" index="true" image="j">
+		<description>Jidou Eiken Taiou Soft Moomin to Eigo Tanjoubi no Okurimono</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kamen Rider Agito &amp; Kuuga Wild Battle (Japan)" index="true" image="k">
+		<description>Kamen Rider Agito &amp; Kuuga Wild Battle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kawaii Nakama wo Sodateyou! - 3-tsu no Shippo (Japan)" index="" image="">
+		<description>Kawaii Nakama wo Sodateyou! - 3-tsu no Shippo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kerokero Keroppi no Harikiri Undoukai (Japan)" index="" image="">
+		<description>Kerokero Keroppi no Harikiri Undoukai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kikansha Thomas ni Notte (Japan)" index="" image="">
+		<description>Kikansha Thomas ni Notte</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kiki &amp; Rara - Hoshi no Kazu Asobi (Japan)" index="" image="">
+		<description>Kiki &amp; Rara - Hoshi no Kazu Asobi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kiteretsu Daihyakka - Edo ni Itte Kiteretsusai-sama ni Au Nari (Japan)" index="" image="">
+		<description>Kiteretsu Daihyakka - Edo ni Itte Kiteretsusai-sama ni Au Nari</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Koenig der Loewen, Der - Abenteuer (Germany)" index="" image="">
+		<description>Koenig der Loewen, Der - Abenteuer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan (Japan)" index="" image="">
+		<description>Kouchuu Ouja Mushiking - Atsumete Asobou Kouchuu Zukan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kuma no Pooh-san - Christopher Robin wo Sagase! (Japan)" index="" image="">
+		<description>Kuma no Pooh-san - Christopher Robin wo Sagase!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kuma no Pooh-san - Tanoshii Tashizan - Hikizan (Japan)" index="" image="">
+		<description>Kuma no Pooh-san - Tanoshii Tashizan - Hikizan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lancio Di Topolino Nel Passato (Italy)" index="true" image="l">
+		<description>Lancio Di Topolino Nel Passato</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lapices De Colores Magicos (Spain)" index="" image="">
+		<description>Lapices De Colores Magicos</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Las Adventuras del Rey Leon (Spain)" index="" image="">
+		<description>Las Adventuras del Rey Leon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lego - Fun to Build (Japan)" index="" image="">
+		<description>Lego - Fun to Build</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Les Aventures Du Roi Lion (France)" index="" image="">
+		<description>Les Aventures Du Roi Lion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Licca-chan ni Naritai! (Japan)" index="" image="">
+		<description>Licca-chan ni Naritai!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King Adventures, The (Europe)" index="" image="">
+		<description>Lion King Adventures, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock (Europe)" index="" image="">
+		<description>Lion King, The - Adventures at Pride Rock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lion King, The - Adventures at Pride Rock (USA)" index="" image="">
+		<description>Lion King, The - Adventures at Pride Rock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Crayons (Europe)" index="true" image="m">
+		<description>Magic Crayons</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic Crayons (USA)" index="" image="">
+		<description>Magic Crayons</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Magic School Bus, The (USA)" index="" image="">
+		<description>Magic School Bus, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Math Antics with Disney&apos;s 101 Dalmatians (USA)" index="" image="">
+		<description>Math Antics with Disney&apos;s 101 Dalmatians</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="McDonald de Asobo! (Japan)" index="" image="">
+		<description>McDonald de Asobo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Melody Land (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Melody Land</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mezase Pro Yakyuu (Japan)" index="" image="">
+		<description>Mezase Pro Yakyuu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey - Ausflug in die Vergangenheit (Germany)" index="" image="">
+		<description>Mickey - Ausflug in die Vergangenheit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey - Fait un Voyage Eclair Dans le Passe (France)" index="" image="">
+		<description>Mickey - Fait un Voyage Eclair Dans le Passe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey - Le Echa Un Vistazo Al Pasado (Spain)" index="" image="">
+		<description>Mickey - Le Echa Un Vistazo Al Pasado</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey no Boku wa Meitantei (Japan)" index="" image="">
+		<description>Mickey no Boku wa Meitantei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey no Tokyo Disneyland Stamp Rally (Japan) (Rev 1)" index="" image="">
+		<description>Mickey no Tokyo Disneyland Stamp Rally</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey no Yukai na Bouken (Japan) (Rev 1)" index="" image="">
+		<description>Mickey no Yukai na Bouken</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey no Yukai na Bouken (Japan)" index="" image="">
+		<description>Mickey no Yukai na Bouken</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey to Ooki na Furudokei (Japan) (Rev 2)" index="" image="">
+		<description>Mickey to Ooki na Furudokei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey to Utau Tori no Shima - Minnie wo Sagashite Wakuwaku Daibouken! (Japan)" index="" image="">
+		<description>Mickey to Utau Tori no Shima - Minnie wo Sagashite Wakuwaku Daibouken!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Blast into the Past (Europe)" index="" image="">
+		<description>Mickey&apos;s Blast into the Past</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickey&apos;s Blast into the Past (USA)" index="" image="">
+		<description>Mickey&apos;s Blast into the Past</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mickys lustiges Abenteuer (Germany) (Proto)" index="" image="">
+		<description>Mickys lustiges Abenteuer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miimi to Taata no Waiwai o-Ekaki Doubutsuen (Japan)" index="" image="">
+		<description>Miimi to Taata no Waiwai o-Ekaki Doubutsuen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mike to Asobou Tobidase Milky Way (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Mike to Asobou Tobidase Milky Way</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MiniMoni. Eigo de Asobundapyon! (Japan)" index="" image="">
+		<description>MiniMoni. Eigo de Asobundapyon!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MiniMoni. MiniMoni. TV ni Derundapyon! (Japan)" index="" image="">
+		<description>MiniMoni. MiniMoni. TV ni Derundapyon!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de Karaoke! Issho ni Utaou Suki na Uta! (Japan)" index="" image="">
+		<description>Minna de Karaoke! Issho ni Utaou Suki na Uta!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Minna de O-ryouri O-saihou (Japan)" index="" image="">
+		<description>Minna de O-ryouri O-saihou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moshimoshi Pico Set with Dare ga Deru kana Moshimoshi Pico de TV to o-Shaberi! (Japan)" index="" image="">
+		<description>Moshimoshi Pico Set with Dare ga Deru kana Moshimoshi Pico de TV to o-Shaberi!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mo~tto! Ojamajo Doremi (Japan)" index="" image="">
+		<description>Mo~tto! Ojamajo Doremi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Muppets, The - On the Go! (USA)" index="" image="">
+		<description>Muppets, The - On the Go!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHK o-Kaasan to Issho Do Re Mi Fa Do~nuts! Asobi Ippai Uta Ippai! (Japan)" index="true" image="n">
+		<description>NHK o-Kaasan to Issho Do Re Mi Fa Do~nuts! Asobi Ippai Uta Ippai!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="NHK o-Kaasan to Issho Do Re Mi Fa Do~nuts! o-Ekaki Daaisuki! Omoshiro o-Ekaki Daishuugou! (Japan)" index="" image="">
+		<description>NHK o-Kaasan to Issho Do Re Mi Fa Do~nuts! o-Ekaki Daaisuki! Omoshiro o-Ekaki Daishuugou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Sentai Hurricanger &amp; Hyakujuu Sentai Gaoranger Chou Sentai Super Battle (Japan)" index="" image="">
+		<description>Ninja Sentai Hurricanger &amp; Hyakujuu Sentai Gaoranger Chou Sentai Super Battle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninpuu Sentai Hurricaneger &amp; Hyakujuu Sentai Gaoranger Chou Sentai Super Battle (Japan)" index="" image="">
+		<description>Ninpuu Sentai Hurricaneger &amp; Hyakujuu Sentai Gaoranger Chou Sentai Super Battle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="No-Intro_-_Sega_-_PICO__20120605-135225_" index="" image="">
+		<description>No-Intro_-_Sega_-_PICO__20120605-135225_</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Norimono Studio Go Go! Noristar Asobi Macho! (Japan)" index="" image="">
+		<description>Norimono Studio Go Go! Noristar Asobi Macho!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nurie Daisuki! Dumbo no Waku Waku Circus! (Japan)" index="" image="">
+		<description>Nurie Daisuki! Dumbo no Waku Waku Circus!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="O Rei Leao - As Aventuras De Simba (Brazil)" index="true" image="o">
+		<description>O Rei Leao - As Aventuras De Simba</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ojamajo Doremi (Japan)" index="" image="">
+		<description>Ojamajo Doremi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ojarumaru (Japan)" index="" image="">
+		<description>Ojarumaru</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ongaku Daisuki Snoopy (Japan)" index="" image="">
+		<description>Ongaku Daisuki Snoopy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon (Japan)" index="" image="">
+		<description>Oshare Pico - Suteki ni Henshin! Runa-chan no Oshare Hair Salon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Otto Katachitchi (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Otto Katachitchi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Outa no Canvas (Japan) (Mixt Book Player - Copera)" index="" image="">
+		<description>Outa no Canvas</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paddington no Sekai Ryokou (Japan)" index="true" image="p">
+		<description>Paddington no Sekai Ryokou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pekora no Daibouken Maboroshi no Ice Cream o Sagase! (Japan)" index="" image="">
+		<description>Pekora no Daibouken Maboroshi no Ice Cream o Sagase!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pepe&apos;s Puzzles (USA)" index="" image="">
+		<description>Pepe&apos;s Puzzles</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pet to Issho ni Tanoshiku Asobo - PC Pico (Japan)" index="" image="">
+		<description>Pet to Issho ni Tanoshiku Asobo - PC Pico</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Peter Pan - Neverland e Ikou! (Japan)" index="" image="">
+		<description>Peter Pan - Neverland e Ikou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pico Soccer - Mezase Soccer Senshu (Japan)" index="" image="">
+		<description>Pico Soccer - Mezase Soccer Senshu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Plarail Pico - Plarail de Asobou! (Japan)" index="" image="">
+		<description>Plarail Pico - Plarail de Asobou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocahontas (Brazil)" index="" image="">
+		<description>Pocahontas</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocahontas (Europe)" index="" image="">
+		<description>Pocahontas</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocahontas - Riverbend Adventures (USA)" index="" image="">
+		<description>Pocahontas - Riverbend Adventures</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Monsters Advance Generation - Minna de Pico - Pokemon Waiwai Battle! (Japan)" index="" image="">
+		<description>Pocket Monsters Advance Generation - Minna de Pico - Pokemon Waiwai Battle!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Monsters Advance Generation Hiragana! Katakana! Kakechatta! (Japan)" index="" image="">
+		<description>Pocket Monsters Advance Generation Hiragana! Katakana! Kakechatta!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pocket Monsters Suuji o Tsukamaeyou! (Japan)" index="" image="">
+		<description>Pocket Monsters Suuji o Tsukamaeyou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Hajimete no Eigo (Japan) (Rev 0)" index="" image="">
+		<description>Pooh-san no Hajimete no Eigo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Hajimete no Eigo (Japan) (Rev 1)" index="" image="">
+		<description>Pooh-san no Hajimete no Eigo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Hajimete no Eigo (Japan)" index="" image="">
+		<description>Pooh-san no Hajimete no Eigo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Ichinichi (Japan) (Rev 0)" index="" image="">
+		<description>Pooh-san no Ichinichi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Ichinichi (Japan) (Rev 1)" index="" image="">
+		<description>Pooh-san no Ichinichi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pooh-san no Ichinichi (Japan)" index="" image="">
+		<description>Pooh-san no Ichinichi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professeur Pico et la Machine a Couleurs (France)" index="" image="">
+		<description>Professeur Pico et la Machine a Couleurs</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professor Pico e l&apos;Enigma della Scatola di Pastelli, Il (Italy)" index="" image="">
+		<description>Professor Pico e l&apos;Enigma della Scatola di Pastelli, Il</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Professor Pico und das Malkasten Puzzle (Germany)" index="" image="">
+		<description>Professor Pico und das Malkasten Puzzle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Puff E As Quatro Estacoes (Brazil)" index="" image="">
+		<description>Puff E As Quatro Estacoes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quiz ni Challenge! Doraemon (Japan)" index="true" image="q">
+		<description>Quiz ni Challenge! Doraemon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race ni Deyou yo! Ken-chan to Pepe Boku no Kuruma de Daibouken (Japan)" index="true" image="r">
+		<description>Race ni Deyou yo! Ken-chan to Pepe Boku no Kuruma de Daibouken</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rhythm Pico Pippi-chan to Rhythm Asobi (Japan)" index="" image="">
+		<description>Rhythm Pico Pippi-chan to Rhythm Asobi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s - Huckle and Lowly&apos;s Busiest Day Ever (Europe)" index="" image="">
+		<description>Richard Scarry&apos;s - Huckle and Lowly&apos;s Busiest Day Ever</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s El Dia Mas Ajetreado de las Vidas de Felipe y Gusy (Spain)" index="" image="">
+		<description>Richard Scarry&apos;s El Dia Mas Ajetreado de las Vidas de Felipe y Gusy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s Huckle and Lowly&apos;s Busiest Day Ever (USA)" index="" image="">
+		<description>Richard Scarry&apos;s Huckle and Lowly&apos;s Busiest Day Ever</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s La Giornata Indaffaratissima di Sandrino e Zigo-Zago (Italy)" index="" image="">
+		<description>Richard Scarry&apos;s La Giornata Indaffaratissima di Sandrino e Zigo-Zago</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s Une Journee Bien Remplie pour Cassis et Asticot (France)" index="" image="">
+		<description>Richard Scarry&apos;s Une Journee Bien Remplie pour Cassis et Asticot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Richard Scarry&apos;s Viel zu tun fuer Huckleberry und Egon (Germany)" index="" image="">
+		<description>Richard Scarry&apos;s Viel zu tun fuer Huckleberry und Egon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sanou Kaihatsu Series 1 - Zukei Ninshiki (Japan) (Rev 1)" index="true" image="s">
+		<description>Sanou Kaihatsu Series 1 - Zukei Ninshiki</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sanou Kaihatsu Series 3 - Hikaku, Bunrui (Japan)" index="" image="">
+		<description>Sanou Kaihatsu Series 3 - Hikaku, Bunrui</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sanou Kaihatsu Series 4 - Suiri - Kousei (Japan) (Rev 1)" index="" image="">
+		<description>Sanou Kaihatsu Series 4 - Suiri - Kousei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sanou Kaihatsu Series 6 - Ouyou Mondai (Japan)" index="" image="">
+		<description>Sanou Kaihatsu Series 6 - Ouyou Mondai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sansuu - Eigo de Mojars ni Chousen - Image Training for the Right Side of the Brain (Japan)" index="" image="">
+		<description>Sansuu - Eigo de Mojars ni Chousen - Image Training for the Right Side of the Brain</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sekai Meisaku Gekijou (Japan)" index="" image="">
+		<description>Sekai Meisaku Gekijou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sesame Street - Alphabet Avenue (USA)" index="" image="">
+		<description>Sesame Street - Alphabet Avenue</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana - Casino de Moja-Vegas Dream! (Japan)" index="" image="">
+		<description>Shichida Makoto Kanshuu - Unou Image Training - Hiragana, Katakana - Casino de Moja-Vegas Dream!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shima Shima Tora no Shimajirou - Tanoshii Ichinichi (Japan)" index="" image="">
+		<description>Shima Shima Tora no Shimajirou - Tanoshii Ichinichi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shimajiro to Yume no Kuni e Daibouken! (Japan)" index="" image="">
+		<description>Shimajiro to Yume no Kuni e Daibouken!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Smart Alex and Smart Alice - Curious Kids (USA)" index="" image="">
+		<description>Smart Alex and Smart Alice - Curious Kids</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Snoopy no Gakugeikai (Japan)" index="" image="">
+		<description>Snoopy no Gakugeikai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sodatete Manabu Doubutsu Oukoku! (Japan)" index="" image="">
+		<description>Sodatete Manabu Doubutsu Oukoku!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic The Hedgehog&apos;s Gameworld (Japan)" index="" image="">
+		<description>Sonic The Hedgehog&apos;s Gameworld</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sonic The Hedgehog&apos;s Gameworld (USA)" index="" image="">
+		<description>Sonic The Hedgehog&apos;s Gameworld</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman - Anpanman to Denwa de Asobou! (Japan)" index="" image="">
+		<description>Soreike! Anpanman - Anpanman to Denwa de Asobou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman - Anpanman to Kotoba Asobi (Japan)" index="" image="">
+		<description>Soreike! Anpanman - Anpanman to Kotoba Asobi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman - Anpanman to Tanoshii Drive! (Japan)" index="" image="">
+		<description>Soreike! Anpanman - Anpanman to Tanoshii Drive!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman Eigo to Nakayoshi 2 Tanoshii Carnival (Japan)" index="" image="">
+		<description>Soreike! Anpanman Eigo to Nakayoshi 2 Tanoshii Carnival</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman no Game de Asobou Anpanman (Japan)" index="" image="">
+		<description>Soreike! Anpanman no Game de Asobou Anpanman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman no Medalympic World (Japan)" index="" image="">
+		<description>Soreike! Anpanman no Medalympic World</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman no Medalympic World 2 (Japan)" index="" image="">
+		<description>Soreike! Anpanman no Medalympic World 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soreike! Anpanman no Ohanashi Daisuki Anpanman (Japan)" index="" image="">
+		<description>Soreike! Anpanman no Ohanashi Daisuki Anpanman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sylvanian Families Mori no Nakama to Tanoshii o-Tanjoubikai (Japan)" index="" image="">
+		<description>Sylvanian Families Mori no Nakama to Tanoshii o-Tanjoubikai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tails And The Music Maker (Europe)" index="true" image="t">
+		<description>Tails And The Music Maker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tails and the Music Maker (USA)" index="" image="">
+		<description>Tails and the Music Maker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tails et le Faiseur de Musique (France)" index="" image="">
+		<description>Tails et le Faiseur de Musique</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tails und der Musikant (Germany)" index="" image="">
+		<description>Tails und der Musikant</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tails y el Musico (Spain)" index="" image="">
+		<description>Tails y el Musico</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien (Japan)" index="" image="">
+		<description>Tanoshiku Asonde Nouryoku Up!! - Tanoshii Youchien</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tanoshiku Asonde Nouryoku Up!! Tanoshii Youchien &apos;95-nendoban (Japan)" index="" image="">
+		<description>Tanoshiku Asonde Nouryoku Up!! Tanoshii Youchien &apos;95-nendoban</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo Disneyland Toon Town Mickey no Boku wa Untenshu (Japan)" index="" image="">
+		<description>Tokyo Disneyland Toon Town Mickey no Boku wa Untenshu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tokyo DisneySea - Mickey to Asobou! (Japan)" index="" image="">
+		<description>Tokyo DisneySea - Mickey to Asobou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomica Pico - Bokura no Machi Tomica Town de Asobou! (Japan)" index="" image="">
+		<description>Tomica Pico - Bokura no Machi Tomica Town de Asobou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tottoko Hamtarou - Oekaki Ippai! Ham-chans! (Japan)" index="" image="">
+		<description>Tottoko Hamtarou - Oekaki Ippai! Ham-chans!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tottoko Hamtarou Haru Natsu Aki Fuyu Tottoko Nakayoshi! Ham-chans! (Japan)" index="" image="">
+		<description>Tottoko Hamtarou Haru Natsu Aki Fuyu Tottoko Nakayoshi! Ham-chans!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toy Story 2 - Woody Sousaku Daisakusen! (Japan)" index="" image="">
+		<description>Toy Story 2 - Woody Sousaku Daisakusen!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultra Hero (Japan)" index="true" image="u">
+		<description>Ultra Hero</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultraman Dyna D (Japan)" index="" image="">
+		<description>Ultraman Dyna D</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultraman Kids - Tobidase! Space Picnic (Japan)" index="" image="">
+		<description>Ultraman Kids - Tobidase! Space Picnic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultraman Tiga (Japan)" index="" image="">
+		<description>Ultraman Tiga</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ultraman vs. Kaijuu Gundan (Japan)" index="" image="">
+		<description>Ultraman vs. Kaijuu Gundan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Un Ano En La Esquina De Pooh (Spain)" index="" image="">
+		<description>Un Ano En La Esquina De Pooh</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Un Dia en la Escuela con los Ositos Berenstain (Spain)" index="" image="">
+		<description>Un Dia en la Escuela con los Ositos Berenstain</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Une Annee en Compagnie de Winnie l&apos;Ourson (France)" index="" image="">
+		<description>Une Annee en Compagnie de Winnie l&apos;Ourson</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 1 - Richard Scarry&apos;s Huckle to Lowly (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 1 - Richard Scarry&apos;s Huckle to Lowly</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 2 - ECCO Jr. and the Great Ocean Treasure Hunt! (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 2 - ECCO Jr. and the Great Ocean Treasure Hunt!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 3 - Hello Kitty no Machi e Odekake (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 3 - Hello Kitty no Machi e Odekake</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 4 - Kerokero Keroppi no Iro Katachi (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 4 - Kerokero Keroppi no Iro Katachi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 6 - Ahiru no Pekkle no Kazoetemiyou (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 6 - Ahiru no Pekkle no Kazoetemiyou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 7 - Tails and the Music Maker (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 7 - Tails and the Music Maker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 8 - Dolucky no o-Ekaki House (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 8 - Dolucky no o-Ekaki House</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Unou Kaihatsu Series 9 - Nihon Mukashibanashi (Japan)" index="" image="">
+		<description>Unou Kaihatsu Series 9 - Nihon Mukashibanashi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yobeba Kotaeru Doraemon - Nobita to Himitsu Dougu o Mitsukeyou! (Japan)" index="true" image="y">
+		<description>Yobeba Kotaeru Doraemon - Nobita to Himitsu Dougu o Mitsukeyou!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yukai na Mori no Packet (Japan)" index="" image="">
+		<description>Yukai na Mori no Packet</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zauberbuntstifte (Germany)" index="true" image="z">
+		<description>Zauberbuntstifte</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

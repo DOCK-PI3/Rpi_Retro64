@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Sega SG-1000</listname>
+		<lastlistupdate>03/09/2016</lastlistupdate>
+		<listversion>1.3</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Bank Panic (Japan)" index="true" image="b">
+		<description>Bank Panic (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D8A87095</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Black Onyx, The (Japan) (Translated En)" index="" image="">
+		<description>Black Onyx, The (Japan) (Translated En)</description>
+		<cloneof></cloneof>
+		<crc>26ECD094</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bomb Jack (Japan)" index="" image="">
+		<description>Bomb Jack (Japan)</description>
+		<cloneof></cloneof>
+		<crc>EA0F2691</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Borderline (Japan, Europe)" index="" image="">
+		<description>Borderline (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>0B4BCA74</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle, The (Japan)" index="true" image="c">
+		<description>Castle, The (Japan)</description>
+		<cloneof></cloneof>
+		<crc>092F29D6</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Chack&apos;n Pop (Japan) (Translated En)" index="" image="">
+		<description>Chack&apos;n Pop (Japan) (Translated En)</description>
+		<cloneof></cloneof>
+		<crc>D37BDA49</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Challenge Derby (Japan)" index="" image="">
+		<description>Challenge Derby (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C5F014DC</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Baseball (Japan)" index="" image="">
+		<description>Champion Baseball (Japan)</description>
+		<cloneof></cloneof>
+		<crc>C0C16FA7</crc>
+		<manufacturer>Alpha Denshi</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Billiards (Japan)" index="" image="">
+		<description>Champion Billiards (Japan)</description>
+		<cloneof></cloneof>
+		<crc>62B21E31</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1986</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Boxing (Japan)" index="" image="">
+		<description>Champion Boxing (Japan)</description>
+		<cloneof></cloneof>
+		<crc>26F947D1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Golf (Japan)" index="" image="">
+		<description>Champion Golf (Japan)</description>
+		<cloneof></cloneof>
+		<crc>868419B5</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Ice Hockey (Japan)" index="" image="">
+		<description>Champion Ice Hockey (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BDC05652</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Ice Hockey</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Kendou (Japan)" index="" image="">
+		<description>Champion Kendou (Japan)</description>
+		<cloneof></cloneof>
+		<crc>10CDEBCE</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Pro Wrestling (Japan)" index="" image="">
+		<description>Champion Pro Wrestling (Japan)</description>
+		<cloneof></cloneof>
+		<crc>372FE6BC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Wrestling</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Soccer (Japan)" index="" image="">
+		<description>Champion Soccer (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6F39719E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Champion Tennis (Japan)" index="" image="">
+		<description>Champion Tennis (Japan)</description>
+		<cloneof></cloneof>
+		<crc>7C663316</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Tennis</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Championship Lode Runner (Japan)" index="" image="">
+		<description>Championship Lode Runner (Japan)</description>
+		<cloneof></cloneof>
+		<crc>11DB4B1D</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1985</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Choplifter (Japan)" index="" image="">
+		<description>Choplifter (Japan)</description>
+		<cloneof></cloneof>
+		<crc>732B7180</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Congo Bongo (Japan, Europe)" index="" image="">
+		<description>Congo Bongo (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>B09E2E6D</crc>
+		<manufacturer>Ikegami Tsushinki</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="C_So! (Japan)" index="" image="">
+		<description>C_So! (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BE7ED0EB</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dokidoki Penguin Land (Japan)" index="true" image="d">
+		<description>Dokidoki Penguin Land (Japan)</description>
+		<cloneof></cloneof>
+		<crc>346556B9</crc>
+		<manufacturer>Coreland</manufacturer>
+		<year>1985</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dragon Wang (Japan)" index="" image="">
+		<description>Dragon Wang (Japan)</description>
+		<cloneof></cloneof>
+		<crc>99C3DE21</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Drol (Japan)" index="" image="">
+		<description>Drol (Japan)</description>
+		<cloneof></cloneof>
+		<crc>288940CB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Elevator Action (Japan)" index="true" image="e">
+		<description>Elevator Action (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5AF8F69D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exerion (Japan, Europe)" index="" image="">
+		<description>Exerion (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>A2C45B61</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flicky (Japan)" index="true" image="f">
+		<description>Flicky (Japan)</description>
+		<cloneof></cloneof>
+		<crc>26D2862C</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Girl&apos;s Garden (Japan)" index="true" image="g">
+		<description>Girl&apos;s Garden (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1898F274</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golgo 13 (Japan)" index="" image="">
+		<description>Golgo 13 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0D159ED0</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GP World (Japan)" index="" image="">
+		<description>GP World (Japan)</description>
+		<cloneof></cloneof>
+		<crc>191FFE0A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gulkave (Japan)" index="" image="">
+		<description>Gulkave (Japan)</description>
+		<cloneof></cloneof>
+		<crc>15A754A3</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Guzzler (Japan)" index="" image="">
+		<description>Guzzler (Japan)</description>
+		<cloneof></cloneof>
+		<crc>61FA9EA0</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="H.E.R.O. (Japan)" index="true" image="h">
+		<description>H.E.R.O. (Japan)</description>
+		<cloneof></cloneof>
+		<crc>4587DE6E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hang-On II (Japan)" index="" image="">
+		<description>Hang-On II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>9BE3C6BD</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Home Mahjong (Japan)" index="" image="">
+		<description>Home Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E7E0F0E3</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hustle Chumy (Japan)" index="" image="">
+		<description>Hustle Chumy (Japan)</description>
+		<cloneof></cloneof>
+		<crc>A627D440</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hyper Sports (Japan)" index="" image="">
+		<description>Hyper Sports (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BA09A0FD</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Track &amp; Field</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="James Bond 007 (Japan)" index="true" image="j">
+		<description>James Bond 007 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>90160849</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lode Runner (Japan, Europe)" index="true" image="l">
+		<description>Lode Runner (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>00ED3970</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1984</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Loretta no Shouzou - Sherlock Holmes (Japan)" index="" image="">
+		<description>Loretta no Shouzou - Sherlock Holmes (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahjong (Japan)" index="true" image="m">
+		<description>Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>1C137CAB</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Monaco GP (Japan)" index="" image="">
+		<description>Monaco GP (Japan)</description>
+		<cloneof></cloneof>
+		<crc>72542786</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="N-Sub (Europe)" index="true" image="n">
+		<description>N-Sub (Europe)</description>
+		<cloneof></cloneof>
+		<crc>09196FC5</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ninja Princess (Japan) (Translated En)" index="" image="">
+		<description>Ninja Princess (Japan) (Translated En)</description>
+		<cloneof></cloneof>
+		<crc>3B912408</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Okamoto Ayako no Match Play Golf (Japan)" index="true" image="o">
+		<description>Okamoto Ayako no Match Play Golf (Japan)</description>
+		<cloneof></cloneof>
+		<crc>49D3DB2C</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Orguss (Japan, Europe)" index="" image="">
+		<description>Orguss (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>F4F78B76</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Othello (Japan)" index="" image="">
+		<description>Othello (Japan)</description>
+		<cloneof></cloneof>
+		<crc>AF4F14BC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pacar (Japan, Europe)" index="true" image="p">
+		<description>Pacar (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>30C52E5E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pachinko (Japan)" index="" image="">
+		<description>Pachinko (Japan)</description>
+		<cloneof></cloneof>
+		<crc>326587E1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pachinko II (Japan)" index="" image="">
+		<description>Pachinko II (Japan)</description>
+		<cloneof></cloneof>
+		<crc>FD7CB50A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pitfall II - The Lost Caverns (Japan)" index="" image="">
+		<description>Pitfall II - The Lost Caverns (Japan)</description>
+		<cloneof></cloneof>
+		<crc>3DB74761</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pop Flamer (Japan, Europe)" index="" image="">
+		<description>Pop Flamer (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>DB6404BA</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Q-bert (Japan)" index="true" image="q">
+		<description>Q-bert (Japan)</description>
+		<cloneof></cloneof>
+		<crc>77DB4704</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rock n&apos; Bolt (Japan)" index="true" image="r">
+		<description>Rock n&apos; Bolt (Japan)</description>
+		<cloneof></cloneof>
+		<crc>0FFDD03D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Safari Hunting (Japan)" index="true" image="s">
+		<description>Safari Hunting (Japan)</description>
+		<cloneof></cloneof>
+		<crc>49E9718B</crc>
+		<manufacturer>Compile</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Safari Race (Japan)" index="" image="">
+		<description>Safari Race (Japan)</description>
+		<cloneof></cloneof>
+		<crc>619DD066</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="San-nin Mahjong (Japan)" index="" image="">
+		<description>San-nin Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc>885FA64D</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega Flipper (Japan, Europe)" index="" image="">
+		<description>Sega Flipper (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>8EFC77BC</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sega-Galaga (Japan)" index="" image="">
+		<description>Sega-Galaga (Japan)</description>
+		<cloneof></cloneof>
+		<crc>981E36C1</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Serizawa Hachidan no Tsumeshogi (Japan)" index="" image="">
+		<description>Serizawa Hachidan no Tsumeshogi (Japan)</description>
+		<cloneof></cloneof>
+		<crc>545FC9BB</crc>
+		<manufacturer>Coreland</manufacturer>
+		<year>1983</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shinnyushain Tooru Kun (Japan)" index="" image="">
+		<description>Shinnyushain Tooru Kun (Japan)</description>
+		<cloneof></cloneof>
+		<crc>5A917E06</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Sindbad Mystery (Japan, Europe)" index="" image="">
+		<description>Sindbad Mystery (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>01932DF9</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soukoban (Japan)" index="" image="">
+		<description>Soukoban (Japan)</description>
+		<cloneof></cloneof>
+		<crc>922C5468</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Armor (Japan)" index="" image="">
+		<description>Space Armor (Japan)</description>
+		<cloneof></cloneof>
+		<crc>D5FDB4A3</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1984</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Invaders (Japan)" index="" image="">
+		<description>Space Invaders (Japan)</description>
+		<cloneof></cloneof>
+		<crc>6AD5CB3D</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Mountain (Japan)" index="" image="">
+		<description>Space Mountain (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BBD87D8F</crc>
+		<manufacturer>Tsukuda Original</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Slalom (Japan)" index="" image="">
+		<description>Space Slalom (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B8B58B30</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Force (Japan)" index="" image="">
+		<description>Star Force (Japan)</description>
+		<cloneof></cloneof>
+		<crc>B846B52A</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Star Jacker (Japan, Europe)" index="" image="">
+		<description>Star Jacker (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>3FE59505</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Tank (Japan)" index="" image="">
+		<description>Super Tank (Japan)</description>
+		<cloneof></cloneof>
+		<crc>084CC13E</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terebi Oekaki (Japan)" index="true" image="t">
+		<description>Terebi Oekaki (Japan)</description>
+		<cloneof></cloneof>
+		<crc>DD4A661B</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wonder Boy (Japan)" index="true" image="w">
+		<description>Wonder Boy (Japan)</description>
+		<cloneof></cloneof>
+		<crc>E8F0344D</crc>
+		<manufacturer>Escape</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yamato (Japan, Europe)" index="true" image="y">
+		<description>Yamato (Japan, Europe)</description>
+		<cloneof></cloneof>
+		<crc>E2FD5201</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zaxxon (Japan)" index="true" image="z">
+		<description>Zaxxon (Japan)</description>
+		<cloneof></cloneof>
+		<crc>905467E4</crc>
+		<manufacturer>Ikegami Tsushinki</manufacturer>
+		<year>1985</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zippy Race (Japan)" index="" image="">
+		<description>Zippy Race (Japan)</description>
+		<cloneof></cloneof>
+		<crc>BC5D20DF</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Zoom 909 (Japan)" index="" image="">
+		<description>Zoom 909 (Japan)</description>
+		<cloneof></cloneof>
+		<crc>093830D8</crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

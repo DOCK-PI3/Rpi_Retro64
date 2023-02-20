@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Philips Videopac Plus G7400</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>1.2</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Air Battle (Europe)" index="true" image="a">
+		<description>Air Battle (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D94D4109</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>1983</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Backgammon (Europe)" index="true" image="b">
+		<description>Backgammon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>9D2C45DC</crc>
+		<manufacturer>GST Video</manufacturer>
+		<year>1982</year>
+		<genre>Board Games</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Billard Plus (France)" index="" image="">
+		<description>Billard Plus (France)</description>
+		<cloneof></cloneof>
+		<crc>AC5C74E6</crc>
+		<manufacturer>Jopac</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Billiard (Europe) (Proto)" index="" image="">
+		<description>Billiard (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>3C949A57</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Clay Pigeon (Europe) (Proto)" index="true" image="c">
+		<description>Clay Pigeon (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>6FABCB7E</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Cosmic Conflict (Europe)" index="" image="">
+		<description>Cosmic Conflict (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A8DBED92</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>1983</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Demon Attack Plus (France)" index="true" image="d">
+		<description>Demon Attack Plus (France)</description>
+		<cloneof></cloneof>
+		<crc>50AF9D45</crc>
+		<manufacturer>Radiola</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Exojet Plus (France)" index="true" image="e">
+		<description>Exojet Plus (France)</description>
+		<cloneof></cloneof>
+		<crc>CFCA6F39</crc>
+		<manufacturer>Jopac</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flashpoint (USA) (Proto) (PAL Conversion)" index="true" image="f">
+		<description>Flashpoint (USA) (Proto) (PAL Conversion)</description>
+		<cloneof></cloneof>
+		<crc>6861A9C</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>2004</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Flipper Plus (Europe)" index="" image="">
+		<description>Flipper Plus (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2FCE9245</crc>
+		<manufacturer>Jopac</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Freedom Fighters (Europe)" index="" image="">
+		<description>Freedom Fighters (Europe)</description>
+		<cloneof></cloneof>
+		<crc>1931F5C5</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Grand Prix Plus (France)" index="true" image="g">
+		<description>Grand Prix Plus (France)</description>
+		<cloneof></cloneof>
+		<crc>9bc04ebb</crc>
+		<manufacturer>Jopac</manufacturer>
+		<year>1983</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Helicopter Rescue (Europe)" index="true" image="h">
+		<description>Helicopter Rescue (Europe)</description>
+		<cloneof></cloneof>
+		<crc>C4134DF8</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>1983</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Killer Bees (Europe)" index="true" image="k">
+		<description>Killer Bees (Europe)</description>
+		<cloneof></cloneof>
+		<crc>DEE70B33</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="La Ruche Infernale (France)" index="true" image="l">
+		<description>La Ruche Infernale (France)</description>
+		<cloneof></cloneof>
+		<crc>20E2F7BE</crc>
+		<manufacturer>Radiola</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Le Tresor Englouti (France)" index="" image="">
+		<description>Le Tresor Englouti (France)</description>
+		<cloneof></cloneof>
+		<crc>B2F0F0B4</crc>
+		<manufacturer>Radiola</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Loony Balloon (Europe)" index="" image="">
+		<description>Loony Balloon (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B932D584</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Moto-Crash (France)" index="true" image="m">
+		<description>Moto-Crash (France)</description>
+		<cloneof></cloneof>
+		<crc>68560DC7</crc>
+		<manufacturer>Radiola</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Neutron Star (Europe)" index="true" image="n">
+		<description>Neutron Star (Europe)</description>
+		<cloneof></cloneof>
+		<crc>BE11157C</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nightmare (Europe)" index="" image="">
+		<description>Nightmare (Europe)</description>
+		<cloneof></cloneof>
+		<crc>26B0FF5B</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Norseman (Europe)" index="" image="">
+		<description>Norseman (Europe)</description>
+		<cloneof></cloneof>
+		<crc>A75C42F8</crc>
+		<manufacturer>GST Video</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pickaxe Pete (Europe)" index="true" image="p">
+		<description>Pickaxe Pete (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B2FFB353</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Race - Spin-Out - Cryptogram (Europe)" index="true" image="r">
+		<description>Race - Spin-Out - Cryptogram (Europe)</description>
+		<cloneof></cloneof>
+		<crc>EE3EE642</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>1983</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Satellite Attack (Europe)" index="true" image="s">
+		<description>Satellite Attack (Europe)</description>
+		<cloneof></cloneof>
+		<crc>B4735E6B</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Stone Sling (Europe)" index="" image="">
+		<description>Stone Sling (Europe)</description>
+		<cloneof></cloneof>
+		<crc>2391C2FB</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tenpin Bowling - Basketball (Europe) (Proto)" index="true" image="t">
+		<description>Tenpin Bowling - Basketball (Europe) (Proto)</description>
+		<cloneof></cloneof>
+		<crc>E5FB4260</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Terrahawks (Europe)" index="" image="">
+		<description>Terrahawks (Europe)</description>
+		<cloneof></cloneof>
+		<crc>764894A1</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Trans American Rally (Europe)" index="" image="">
+		<description>Trans American Rally (Europe)</description>
+		<cloneof></cloneof>
+		<crc>D2D721D</crc>
+		<manufacturer>Philips</manufacturer>
+		<year>198?</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

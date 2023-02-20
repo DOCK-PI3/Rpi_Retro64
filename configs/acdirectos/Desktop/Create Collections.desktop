@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Create Collections
+Comment=Creador de colecciones para RetroFE
+Exec=/home/retro/MABE/CreateCollections.sh
+Icon=CCollectionsCreator
+Path=
+Terminal=true
+StartupNotify=false

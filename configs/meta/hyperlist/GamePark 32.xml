@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>GamePark 32</listname>
+		<lastlistupdate>03/06/2016</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Astonishia Story R (Korea)" index="true" image="a">
+		<description>Astonishia Story R</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sonnori</manufacturer>
+		<year>2002</year>
+		<genre>RPG</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Blue Angelo - Angels from the Shrine (Europe) (En,Fr,De,Es,It,Pt)" index="true" image="b">
+		<description>Blue Angelo - Angels from the Shrine</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Virtual Spaghetti</manufacturer>
+		<year>2004</year>
+		<genre>RPG</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dooly Soccer 2002 (Korea)" index="true" image="d">
+		<description>Dooly Soccer 2002</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Abyss Game</manufacturer>
+		<year>2002</year>
+		<genre>Sport</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeon &amp; Guarder - Dragon Gore (Europe)" index="" image="">
+		<description>Dungeon &amp; Guarder - Dragon Gore</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2001</year>
+		<genre>Hack &apos;n Slash</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dungeon &amp; Guarder - Dragon Gore (Korea)" index="" image="">
+		<description>Dungeon &amp; Guarder - Dragon Gore</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2001</year>
+		<genre>Hack &apos;n Slash</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dyhard - With Infinite Stairs (Europe)" index="" image="">
+		<description>Dyhard - With Infinite Stairs</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kookie Soft</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dyhard - With Infinite Stairs (Korea)" index="" image="">
+		<description>Dyhard - With Infinite Stairs</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kookie Soft</manufacturer>
+		<year>2001</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Funny Soccer (Korea)" index="true" image="f">
+		<description>Funny Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Metarica</manufacturer>
+		<year>2002</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="GP Fight (Korea)" index="true" image="g">
+		<description>GP Fight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>TeamBlaze</manufacturer>
+		<year>2003</year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hany Party Game (Korea)" index="true" image="h">
+		<description>Hany Party Game</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Include</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Her Knights - All for Princess - Deadline (Korea)" index="" image="">
+		<description>Her Knights - All for Princess - Deadline</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Byulbram</manufacturer>
+		<year>2002</year>
+		<genre>Arcade</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Her Knights - All for the Princess (Europe)" index="" image="">
+		<description>Her Knights - All for the Princess</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Byulbram</manufacturer>
+		<year>2002</year>
+		<genre>Arcade</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kimchiman GP32 (Korea)" index="true" image="k">
+		<description>Kimchiman GP32</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Spearhead</manufacturer>
+		<year>2002</year>
+		<genre>Platformer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Girl Mill of a Gingko, The (Korea)" index="true" image="l">
+		<description>Little Girl Mill of a Gingko, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Legendra</manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Wizard (Europe)" index="" image="">
+		<description>Little Wizard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2001</year>
+		<genre>Fighting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Little Wizard (Korea)" index="" image="">
+		<description>Little Wizard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2001</year>
+		<genre>Fighting</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="OneShot Voca (Korea)" index="true" image="o">
+		<description>OneShot Voca</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Damasys</manufacturer>
+		<year>2002</year>
+		<genre>Educational</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pinball Dreams (Korea)" index="true" image="p">
+		<description>Pinball Dreams</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Logik State</manufacturer>
+		<year>2002</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Princess Maker 2 (Korea)" index="" image="">
+		<description>Princess Maker 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ninelives</manufacturer>
+		<year>2002</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rally Pop (Korea)" index="true" image="r">
+		<description>Rally Pop</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2001</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Raphael (Korea)" index="" image="">
+		<description>Raphael</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>T3 Entertainment</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Plusha (Korea)" index="true" image="s">
+		<description>Super Plusha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>FaMe Soft</manufacturer>
+		<year>2002</year>
+		<genre>Platformer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tanggle&apos;s Magic Square (Korea)" index="true" image="t">
+		<description>Tanggle&apos;s Magic Square</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>EZ</manufacturer>
+		<year>2001</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Therapy (Korea)" index="" image="">
+		<description>Therapy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rosa:6</manufacturer>
+		<year>2002</year>
+		<genre>Visual Novel</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomak - Save the Earth, Again (Europe) (v1.0)" index="" image="">
+		<description>Tomak - Save the Earth, Again</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seed9</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomak - Save the Earth, Again (Europe) (v2.0)" index="" image="">
+		<description>Tomak - Save the Earth, Again</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seed9</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tomak - Save the Earth, Again (Korea)" index="" image="">
+		<description>Tomak - Save the Earth, Again</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seed9</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="W.B.W. - Wanna Be Wizard! (Korea)" index="true" image="w">
+		<description>W.B.W. - Wanna Be Wizard!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>A&amp;B Soft</manufacturer>
+		<year>2004</year>
+		<genre>RPG</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard Slayer (Korea)" index="" image="">
+		<description>Wizard Slayer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>FZ Media</manufacturer>
+		<year>2002</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody &amp; Kunta - Treasure Island (Europe)" index="" image="">
+		<description>Woody &amp; Kunta - Treasure Island</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody &amp; Kunta - Treasure Island (Korea)" index="" image="">
+		<description>Woody &amp; Kunta - Treasure Island</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gamepark</manufacturer>
+		<year>2002</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,14 @@
+<layout width="1920" height="1080" font="Roboto-Bold.ttf" loadFontSize="32" fontColor="EEEEEEE">
+
+<!-----------------Background Music----------------->
+
+<video src="music/Background.mp3" numLoops="0" volume="0.5" x="0" y="0" height="1" width="1" alpha="0" layer="3">
+    <onGameEnter><set duration="1"><animate type="volume" to="0"/>  </set></onGameEnter>
+    <onGameExit> <set duration="0.6"><animate type="volume" to="0.5"/></set></onGameExit>
+    <onEnter><set duration="1"><animate type="volume" to="0.5"/>  </set></onEnter>
+    <onExit> <set duration="1"><animate type="volume" to="0"/></set></onExit>
+</video>
+
+</layout>
+
+

@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Pinball FX2</listname>
+		<lastlistupdate>08/22/2017</lastlistupdate>
+		<listversion>1.0.38.1 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="Alien_Isolation" index="true" image="a">
+		<description>Alien Isolation</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alien_vs_Predator" index="" image="">
+		<description>Alien vs Predator</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Aliens" index="" image="">
+		<description>Aliens</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="AmericanDad" index="" image="">
+		<description>American Dad!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Archer" index="" image="">
+		<description>Archer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BioLab" index="true" image="b">
+		<description>Biolab</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BobsBurgers" index="" image="">
+		<description>Bob&apos;s Burgers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="CastleStorm" index="true" image="c">
+		<description>CastleStorm</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BETHESDA_Doom" index="true" image="d">
+		<description>DOOM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="EarthDefense" index="true" image="e">
+		<description>Earth Defense</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Eldorado" index="" image="">
+		<description>El Dorado</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Looter" index="" image="">
+		<description>Epic Quest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Excalibur" index="" image="">
+		<description>Excalibur</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BETHESDA_Fallout" index="true" image="f">
+		<description>Fallout</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="FamilyGuy" index="" image="">
+		<description>Family Guy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Milan" index="" image="">
+		<description>Football Super League - A.C. Milan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Roma" index="" image="">
+		<description>Football Super League - A.S. Roma</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Arsenal" index="" image="">
+		<description>Football Super League - Arsenal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Barcelona" index="" image="">
+		<description>Football Super League - FC Barcelona</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Juventus" index="" image="">
+		<description>Football Super League - Juventus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_Liverpool" index="" image="">
+		<description>Football Super League - Liverpool F.C.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football_RealMadrid" index="" image="">
+		<description>Football Super League - Real Madrid C.F.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Football" index="" image="">
+		<description>Football Super League - Zen Studios F.C.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mars" index="true" image="m">
+		<description>Mars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_MsMarvel" index="" image="">
+		<description>Marvel - A-Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Ant-Man" index="" image="">
+		<description>Marvel - Ant-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Blade" index="" image="">
+		<description>Marvel - Blade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_CaptainAmerica" index="" image="">
+		<description>Marvel - Captain America</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_WOP_TheNextGeneration" index="" image="">
+		<description>Marvel - Champions</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_CivilWar" index="" image="">
+		<description>Marvel - Civil War</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Deadpool" index="" image="">
+		<description>Marvel - Deadpool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_DrStrange" index="" image="">
+		<description>Marvel - Doctor Strange</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_FantasticFour" index="" image="">
+		<description>Marvel - Fantastic Four</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_FearItSelf" index="" image="">
+		<description>Marvel - Fear Itself</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_GhostRider" index="" image="">
+		<description>Marvel - Ghost Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Guardians" index="" image="">
+		<description>Marvel - Guardians of the Galaxy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_IronMan" index="" image="">
+		<description>Marvel - Iron Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_MoonKnight" index="" image="">
+		<description>Marvel - Moon Knight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_SpiderMan" index="" image="">
+		<description>Marvel - Spider-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Avengers" index="" image="">
+		<description>Marvel - The Avengers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Age_of_Ultron" index="" image="">
+		<description>Marvel - The Avengers Age of Ultron</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_InfinityGauntlet" index="" image="">
+		<description>Marvel - The Infinity Gauntlet</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Thor" index="" image="">
+		<description>Marvel - Thor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Venom" index="" image="">
+		<description>Marvel - Venom</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_Wolverine" index="" image="">
+		<description>Marvel - Wolverine</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_WWH" index="" image="">
+		<description>Marvel - World War Hulk</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="MARVEL_XMen" index="" image="">
+		<description>Marvel - X-Men</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SplosionMan" index="" image="">
+		<description>Ms. Splosion Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Paranormal" index="true" image="p">
+		<description>Paranormal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pasha" index="" image="">
+		<description>Pasha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="PlantsVsZombies" index="" image="">
+		<description>Plants vs. Zombies</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Portal" index="" image="">
+		<description>Portal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Rome" index="true" image="r">
+		<description>Rome</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Atlantis" index="true" image="s">
+		<description>Secrets of the Deep</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Shaman" index="" image="">
+		<description>Shaman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="BETHESDA_Skyrim" index="" image="">
+		<description>Skyrim</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Citadel" index="" image="">
+		<description>Sorcerer&apos;s Lair</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SouthPark2" index="" image="">
+		<description>South Park - Butters&apos; Very Own Pinball Game</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SouthPark1" index="" image="">
+		<description>South Park - Super Sweet Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Episode_4" index="" image="">
+		<description>Star Wars - A New Hope</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Boba_Fett" index="" image="">
+		<description>Star Wars - Boba Fett</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Darth_Vader" index="" image="">
+		<description>Star Wars - Darth Vader</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Droids" index="" image="">
+		<description>Star Wars - Droids</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Han_Solo" index="" image="">
+		<description>Star Wars - Han Solo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Light_VS_Dark" index="" image="">
+		<description>Star Wars - Masters of the Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_MFO" index="" image="">
+		<description>Star Wars - Might of the First Order</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Rebels" index="" image="">
+		<description>Star Wars - Rebels</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Episode_6" index="" image="">
+		<description>Star Wars - Return of the Jedi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_SFA" index="" image="">
+		<description>Star Wars - Starfighter Assault</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_CloneWars" index="" image="">
+		<description>Star Wars - The Clone Wars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Episode_5" index="" image="">
+		<description>Star Wars - The Empire Strikes Back</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="STARWARS_Episode_7" index="" image="">
+		<description>Star Wars - The Force Awakens</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2016</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tesla" index="true" image="t">
+		<description>Tesla</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="TheWalkingDead" index="" image="">
+		<description>The Walking Dead</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2014</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="V12" index="true" image="v">
+		<description>V12</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2013</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Western" index="true" image="w">
+		<description>Wild West Rampage</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microsoft Studios</manufacturer>
+		<year>2015</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

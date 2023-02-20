@@ -1,0 +1,959 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Fujitsu FM-7</listname>
+		<lastlistupdate>05/15/2015</lastlistupdate>
+		<listversion>1.0</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="1942 (1987)(ASCII)(JP)" index="true" image="1">
+		<description>1942</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Alpha (1986)(Square)(JP)" index="true" image="a">
+		<description>Alpha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Square</manufacturer>
+		<year>1986</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Ys - Vanished Omen (1987-10)(Falcom)(JP)[Data Disk]" index="" image="">
+		<description>Ancient Ys - Vanished Omen - Data Disk</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1987</year>
+		<genre>rpg</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Ys - Vanished Omen (1987-10)(Falcom)(JP)(Disk 1 of 2)" index="" image="">
+		<description>Ancient Ys - Vanished Omen - Disk 1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1987</year>
+		<genre>rpg</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ancient Ys - Vanished Omen (1987-10)(Falcom)(JP)(Disk 2 of 2)" index="" image="">
+		<description>Ancient Ys - Vanished Omen - Disk 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Falcom</manufacturer>
+		<year>1987</year>
+		<genre>rpg</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arion (1986)(ASCII)(JP)" index="" image="">
+		<description>Arion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ASCII</manufacturer>
+		<year>1986</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arion (1986)(ASCII)(JP)(Disk 1 of 2)" index="" image="">
+		<description>Arion - Disk 1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>AscII</manufacturer>
+		<year>1986</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Arion (1986)(ASCII)(JP)(Disk 2 of 2)" index="" image="">
+		<description>Arion - Disk 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ASCII</manufacturer>
+		<year>1986</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Bisyoujyo Syasinkan Moving School (1987)(Hard)(JP)" index="true" image="b">
+		<description>Bisyoujyo Syasinkan Moving School</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hard</manufacturer>
+		<year></year>
+		<genre>adult</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Castle Excellent (1985)(ASCII)(JP)" index="true" image="c">
+		<description>Castle Excellent</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cherry Soft</manufacturer>
+		<year>1985</year>
+		<genre>platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Christine (1986)(PSK)(JP)" index="" image="">
+		<description>Christine</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>PSK</manufacturer>
+		<year>1986</year>
+		<genre>adult</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Count, The (1985)(Star Craft)(JP)" index="" image="">
+		<description>Count, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Star Craft</manufacturer>
+		<year>1985</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Crisis Mountain (1984)(Comptiq)(JP)" index="" image="">
+		<description>Crisis Mountain</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dai Senryaku FM (1987)(System Sacom)(JP)" index="true" image="d">
+		<description>Dai Senryaku FM</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>System Sacom</manufacturer>
+		<year>1987</year>
+		<genre>strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dark Crystal, The (1984)(Star Craft)(JP)" index="" image="">
+		<description>Dark Crystal, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Star Craft</manufacturer>
+		<year>1984</year>
+		<genre>adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Dezeni Land (1983)(HUDSON)(JP)" index="" image="">
+		<description>Dezeni Land</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Final Lolita (1985)(PSK)(JP)" index="true" image="f">
+		<description>Final Lolita</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Gambler Jikotyusinha (1989)(Game Arts)(JP)" index="true" image="g">
+		<description>Gambler Jikotyusinha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Girls Paradise (1989)(Great)(JP)" index="" image="">
+		<description>Girls Paradise</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Golfkyo (1983)(Hudson)(JP)" index="" image="">
+		<description>Golfkyo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Greed (1986)(Ponyca)(JP)" index="" image="">
+		<description>Greed</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Helicoid (1985)(Micro Net)(JP)" index="true" image="h">
+		<description>Helicoid</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hokuto no Ken (1986)(ENIX)(JP)" index="" image="">
+		<description>Hokuto no Ken</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Hydlide II (1986)(T &amp; E Soft)(JP)" index="" image="">
+		<description>Hydlide II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kenja no Yuigon (1987)(ASCII)(JP)" index="true" image="k">
+		<description>Kenja no Yuigon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Knight of Wonder Land, The (1983)(Humming Bird)(JP)" index="" image="">
+		<description>Knight of Wonder Land, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Kugyokuden (1986)(Tecno Soft)(JP)" index="" image="">
+		<description>Kugyokuden</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Laydock (1986)(T&amp;E)(JP)" index="true" image="l">
+		<description>Laydock</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Lupin The Third The Castle of Cagliostro (1985)(Toho)(JP)" index="" image="">
+		<description>Lupin The Third The Castle of Cagliostro</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Luxsor (1987)(Telenet)(JP)" index="" image="">
+		<description>Luxsor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Luxsor Night over Egypt (1986)(Telenet)(JP)(Disk 1 of 2)" index="" image="">
+		<description>Luxsor Night over Egypt</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Luxsor Night over Egypt (1986)(Telenet)(JP)(Disk 2 of 2)" index="" image="">
+		<description>Luxsor Night over Egypt</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mah-jongg Kyo Jidai Special (1988)(Micro Net)(JP)" index="true" image="m">
+		<description>Mah-jongg Kyo Jidai Special</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahou Tukai no Desi (1986)(Tsukumo)(JP)" index="" image="">
+		<description>Mahou Tukai no Desi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mahou Tukai no Desi 2 (1986)(Tsukumo)(JP)" index="" image="">
+		<description>Mahou Tukai no Desi 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Megami Tensei (1987)(Telenet)(JP)" index="" image="">
+		<description>Megami Tensei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Merchen Veil I (1987)(System Sacom)(JP)" index="" image="">
+		<description>Merchen Veil I</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Might And Magic (1987)(Star Craft)(JP)" index="" image="">
+		<description>Might And Magic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Miner 2049er (1984)(Comptiq)(JP)" index="" image="">
+		<description>Miner 2049er</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mission Impossible (1984)(Star Craft)(JP)" index="" image="">
+		<description>Mission Impossible</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Mugen Sensi Valis (1987)(Telenet)(JP)" index="" image="">
+		<description>Mugen Sensi Valis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Nobunagan no Yabou Zenkokuban (1987)(Koei)(JP)" index="true" image="n">
+		<description>Nobunagan no Yabou Zenkokuban</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Palms,The (1983)(Humming Bird)(JP)" index="true" image="p">
+		<description>Palms,The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Princess Quest (1986)(Packs Electronica)(JP)" index="" image="">
+		<description>Princess Quest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Pro Yakyu Fan (1988)(Telenet)(JP)" index="" image="">
+		<description>Pro Yakyu Fan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Psy-O-Blade (1988)(T&amp;E SOFT)(JP)" index="" image="">
+		<description>Psy-O-Blade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Quest, The (1984)(Star Craft)(JP)" index="true" image="q">
+		<description>Quest, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Relics (1986)(Bothtec)(JP)" index="true" image="r">
+		<description>Relics</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Return of Ishtar, The (1989)(SPS)(JP)" index="" image="">
+		<description>Return of Ishtar, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Reviver (1987)(Arsys)(JP)" index="" image="">
+		<description>Reviver</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Riglas (1986)(Random House)(JP)" index="" image="">
+		<description>Riglas</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Seles (1990)(ASCII)(JP)" index="true" image="s">
+		<description>Seles</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="SF Tyoujigen Densetsu Rall (1988)(Ponyca)(JP)" index="" image="">
+		<description>SF Tyoujigen Densetsu Rall</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silpheed (1988)(Game Arts)(JP)(Disk 1 of 2)" index="" image="">
+		<description>Silpheed</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silpheed (1988)(Game Arts)(JP)(Disk 2 of 2)" index="" image="">
+		<description>Silpheed</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Silpheed (1988)(Game Arts)(JP)" index="" image="">
+		<description>Silpheed</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Soukoban 2 (1984)(Thinking Rabbit)(JP)" index="" image="">
+		<description>Soukoban 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Space Harrier (1987)(Dempa)(JP)" index="" image="">
+		<description>Space Harrier</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Strange Odyssey (1984)(Star Craft)(JP)" index="" image="">
+		<description>Strange Odyssey</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Super Kanji Jyusyoroku (198x)(Falcom)(JP)" index="" image="">
+		<description>Super Kanji Jyusyoroku</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Syonen Mike no Hitoritabi (1986)(Soft Bank)(JP)" index="" image="">
+		<description>Syonen Mike no Hitoritabi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Taiyou no Sinden (1986)(Falcom)(JP)" index="true" image="t">
+		<description>Taiyou no Sinden</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Take the A-Train (1986)(Artdink)(JP)" index="" image="">
+		<description>Take the A-Train</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tetris (1988)(BPS)(JP)" index="" image="">
+		<description>Tetris</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Thunder Force (1984)(Tecno Soft)(JP)" index="" image="">
+		<description>Thunder Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Toritorn (1986)(Sein Soft)(JP)" index="" image="">
+		<description>Toritorn</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Tower of Druaga, The (1986)(Dempa)(JP)" index="" image="">
+		<description>Tower of Druaga, The</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Transylvania (1983)(Star Craft)(JP)" index="" image="">
+		<description>Transylvania</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ulysses and The Golden Fleece (1983)(Star Craft)(JP)" index="true" image="u">
+		<description>Ulysses and The Golden Fleece</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Urusei Yatura (1987)(Micro Cabin)(JP)" index="" image="">
+		<description>Urusei Yatura</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Utukusiki Emonotati (1986)(Great)(JP)" index="" image="">
+		<description>Utukusiki Emonotati</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Voodoo Castle (1984)(Star Craft)(JP)" index="true" image="v">
+		<description>Voodoo Castle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Weird 2 (1985)(Policy)(JP)" index="true" image="w">
+		<description>Weird 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wibarm (1986)(Arsys)(JP)" index="" image="">
+		<description>Wibarm</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wing Man2 (1986)(ENIX)(JP)" index="" image="">
+		<description>Wing Man2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizard And The Princess (1983)(Star Craft)(JP)" index="" image="">
+		<description>Wizard And The Princess</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #1 Proving Grounds of The Mad Overload (1985)(ASCII)(JP)" index="" image="">
+		<description>Wizardry #1 Proving Grounds of The Mad Overload</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #2 The Knight of Diamonds (1986)(ASCII)(JP)" index="" image="">
+		<description>Wizardry #2 The Knight of Diamonds</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #3 Legacy of Llylgamyn (1987)(ASCII)(JP)" index="" image="">
+		<description>Wizardry #3 Legacy of Llylgamyn</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #4 The Return of Werdna (1989)(ASCII)(JP)(Disk 1 of 3)" index="" image="">
+		<description>Wizardry #4 The Return of Werdna</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #4 The Return of Werdna (1989)(ASCII)(JP)(Disk 2 of 3)" index="" image="">
+		<description>Wizardry #4 The Return of Werdna</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Wizardry #4 The Return of Werdna (1989)(ASCII)(JP)(Disk 3 of 3)" index="" image="">
+		<description>Wizardry #4 The Return of Werdna</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Woody Poco (1987)(db-SOFT)(JP)" index="" image="">
+		<description>Woody Poco</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="World Golf II (1987)(ENIX)(JP)" index="" image="">
+		<description>World Golf II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xanadu Scenario I+II (1986)(Falcom)(JP)" index="true" image="x">
+		<description>Xanadu Scenario I+II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Xevious (1984)(Dempa)(JP)" index="" image="">
+		<description>Xevious</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yami no Iyo Densetsu (1989)(HOT B)(JP)" index="true" image="y">
+		<description>Yami no Iyo Densetsu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yellow Lemon (1985)(PSK)(JP)" index="" image="">
+		<description>Yellow Lemon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys (1985)(PSG)" index="" image="">
+		<description>Ys</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys - Ancient Ys Vanished Omen (1987)(Falcom)(JP)" index="" image="">
+		<description>Ys - Ancient Ys Vanished Omen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys - Ancient Ys Vanished Omen (1987)(Falcom)(JP)[a]" index="" image="">
+		<description>Ys - Ancient Ys Vanished Omen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Ys II - Ancient Ys Vanished - The Final Chapter (1988)(Falcom)(JP)" index="" image="">
+		<description>Ys II - Ancient Ys Vanished - The Final Chapter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yuki (1986)(Omega Systems)(JP)(Disk 1 of 2)" index="" image="">
+		<description>Yuki</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yuki (1986)(Omega Systems)(JP)(Disk 2 of 2)" index="" image="">
+		<description>Yuki</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="Yuunagi no Horizon (1986)(Victor)(JP)" index="" image="">
+		<description>Yuunagi no Horizon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer></manufacturer>
+		<year></year>
+		<genre></genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

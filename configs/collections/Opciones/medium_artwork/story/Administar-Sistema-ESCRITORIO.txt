@@ -1,0 +1,1 @@
+NOTA: Requiere Raton y Teclado | Administrar RetroFE Pi4 XStation desde el Escritorio minimalista ,esta opcion cierra RetroFE por completo ,requiere Raton y Teclado ,para iniciar RetroFE ejecute lo desde la terminal o reinicie el sistema para que se inicie automaticamente. |
